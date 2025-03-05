@@ -1,0 +1,1 @@
+Nesta pasta, será todo o controle de de requisições HTTP.

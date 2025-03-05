@@ -1,2 +1,27 @@
+<<<<<<< HEAD
+.env
+
+venv/
+env/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+.vscode/
+.idea/
+
+build/
+dist/
+*.egg-info/
+
+*.log
+
+.DS_Store
+Thumbs.db
 /venv
 /convert.ipynb
+>>>>>>> 969657b1c4522d2d70117c01d95e1e1421e5a984
