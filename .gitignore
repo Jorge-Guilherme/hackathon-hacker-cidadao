@@ -1,32 +1,27 @@
-# .gitignore
-
-# Ignore the .env file (contains sensitive data)
+<<<<<<< HEAD
 .env
 
-# Ignore Python virtual environment directories
 venv/
 env/
 .venv/
 
-# Ignore Python compiled files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 *.pyc
 
-# Ignore IDE-specific files
 .vscode/
 .idea/
 
-# Ignore build and distribution directories
 build/
 dist/
 *.egg-info/
 
-# Ignore log files
 *.log
 
-# Ignore system files
 .DS_Store
 Thumbs.db
+/venv
+/convert.ipynb
+>>>>>>> 969657b1c4522d2d70117c01d95e1e1421e5a984

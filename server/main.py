@@ -1,3 +1,5 @@
+# Arquivo principal da API
+
 from fastapi import FastAPI
 from app.controllers.chat import router as chat_router 
 

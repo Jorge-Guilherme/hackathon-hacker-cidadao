@@ -1,7 +1,16 @@
-from fastapi import APIRouter
+# controllers/chat.py
+from fastapi import APIRouter, HTTPException, Depends
+from app.services.gemini_service import GeminiService
 
 router = APIRouter()
 
-@router.get("/chat")
-async def get_chat_info():
-    return {"message": "Bem-vindo ao sistema de chat!"}
+@router.post("/chat")
+async def chat(
+    prompt: str,
+    gemini_service: GeminiService = Depends()
+):
+    try:
+        response = gemini_service.generate_response(prompt)
+        return {"response": response}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
