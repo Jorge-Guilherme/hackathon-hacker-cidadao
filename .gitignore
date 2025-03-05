@@ -1,0 +1,32 @@
+# .gitignore
+
+# Ignore the .env file (contains sensitive data)
+.env
+
+# Ignore Python virtual environment directories
+venv/
+env/
+.venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build and distribution directories
+build/
+dist/
+*.egg-info/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
