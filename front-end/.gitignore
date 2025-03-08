@@ -1,28 +1,36 @@
-# Ignora a pasta node_modules
+# Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
+
+# dependencies
 node_modules/
 
-# Ignora arquivos de ambiente (env)
-.env
-.env.local
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Native
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro
+.metro-health-check*
+
+# debug
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# macOS
+.DS_Store
+*.pem
+
+# local env files
 .env*.local
 
-# Ignora logs e diretórios de dependências
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnp*
-
-# Ignora pastas de build e cache
-dist/
-build/
-.cache/
-.next/
-.vscode/
-
-# Ignora arquivos do sistema operacional
-.DS_Store
-Thumbs.db
-
-# Ignora arquivos de configuração local
-.idea/
-.vscode/
+# typescript
+*.tsbuildinfo

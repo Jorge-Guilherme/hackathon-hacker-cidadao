@@ -1,1 +1,0 @@
-Esta pasta será responsável onde será adicionado a lógica para processar dados antes de enviar, integrar com o gemini, etc.

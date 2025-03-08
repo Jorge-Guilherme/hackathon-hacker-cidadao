@@ -1,5 +1,0 @@
-# arquivo que lista todas as dependências do projeto.
-fastapi
-uvicorn
-google-generativeai
-python-dotenv

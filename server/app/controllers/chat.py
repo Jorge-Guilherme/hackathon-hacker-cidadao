@@ -1,16 +1,14 @@
-# controllers/chat.py
-from fastapi import APIRouter, HTTPException, Depends
-from app.services.gemini_service import GeminiService
+# app/controllers/chat.py
+from fastapi import APIRouter
+from pydantic import BaseModel
 
 router = APIRouter()
 
-@router.post("/chat")
-async def chat(
-    prompt: str,
-    gemini_service: GeminiService = Depends()
-):
-    try:
-        response = gemini_service.generate_response(prompt)
-        return {"response": response}
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+class Mensagem(BaseModel):
+    texto: str
+
+@router.post("/enviar-mensagem")
+async def enviar_mensagem(mensagem: Mensagem):
+    # Simula uma resposta do backend
+    resposta = "Olá! Como posso ajudar você hoje?"
+    return {"resposta": resposta}
