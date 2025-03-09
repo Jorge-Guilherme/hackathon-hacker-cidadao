@@ -1,7 +1,14 @@
+# app/controllers/chat.py
 from fastapi import APIRouter
+from pydantic import BaseModel
 
 router = APIRouter()
 
-@router.get("/chat")
-async def get_chat_info():
-    return {"message": "Bem-vindo ao sistema de chat!"}
+class Mensagem(BaseModel):
+    texto: str
+
+@router.post("/enviar-mensagem")
+async def enviar_mensagem(mensagem: Mensagem):
+    # Simula uma resposta do backend
+    resposta = "Olá! Como posso ajudar você hoje?"
+    return {"resposta": resposta}
