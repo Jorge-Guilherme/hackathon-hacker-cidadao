@@ -1,0 +1,2 @@
+datasets/ocorrencias_2020-2024.csv filter=lfs diff=lfs merge=lfs -text
+datasets/situacao_final_alunos_2012-2024.csv filter=lfs diff=lfs merge=lfs -text

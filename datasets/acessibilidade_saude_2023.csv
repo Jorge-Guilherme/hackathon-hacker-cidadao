@@ -1,0 +1,84 @@
+﻿_id,unidade,ds,endereco,acessibilidade
+1,U.S. 101 - Policlínica Prof.Waldemar de Oliveira,I,"Rua Marquês do Pombal, 115 - Santo Amaro","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+2,U.S. 146 - CAPS Boa Vista (Transtorno Mental),I,"Rua Gen. José Simeão, 146 - Santo Amaro","Em reforma, incluindo acessibilidade motora"
+3,U.S. 160 - Policlínica Gouveia de Barros,I,"Pátio de Santa Cruz,n ° 90- Boa Vista","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+4,U.S. 223 - Centro de Reabilitação Física,I,"Rua do Riachuelo, Boa Vista","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+5,U.S. 243 - USF Santo Amaro II,I,"Rua Buarque de Macedo, 65- Santo Amaro","Em reforma, incluindo acessibilidade motora"
+6,U.S. 278 - USF Pilar,I,"Av. Militar, s/n - Cais do Apolo",unidade com acessibilidade motora
+7,U.S. 285 - USF São José do Coque II,I,"Av. Central, s/n - Ilha Joana Bezerra",unidade com acessibilidade motora
+8,U.S. 321 - Central de Alergologia,I,"Av João de Barros, 800 - Santo Amaro","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+9,Farmácia da Família Ponto de Parada,II,"Av. Beberibe,419 Encruzilhada","Em reforma, incluindo acessibilidade motora"
+10,Policlínica de Água Fria - Salomão Kelner,II,Rua Príncipe de Astúria - Água Fria,"Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+11,Upinha Dra. Fernanda Wanderley - Linha do Tiro,II,Rua Uriel de Holanda 300 - Linha do Tiro,unidade com acessibilidade motora
+12,U.S. 138 - USF Dr. Luiz Wilson,II,"Rua Chã de Alegria, s/n°- Bomba do Hemetério","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+13,U.S. 155 - USF  Monteiro de Morais,II,"Av. Beberibe, 4510 - Beberibe","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+14,U.S. 227 - USF Tasso Bezerra - Chié I,II,Av. Agamenon Magalhães 270 - Campo Grande,unidade com acessibilidade motora
+15,U.S. 244 - USF Antônio Francisco Areias,II,"Av. Jardim Brasília, 145 - Peixinhos","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+16,U.S. 262 - USF José Severiano da Silva,II,"Rua Jerônimo vilela, 794 - Campo Grande",unidade com acessibilidade motora
+17,U.S. 273 - USF Bianor Teodósio,II,"Av. Hidelbrando Vasconcelos, s/n° - Dois Unidos","Está em reforma, incluindo acessibilidade motora"
+18,U.S. 274 - USF Tia Regina,II,"Rua Corrégo do Deodato, 315 - Água Fria",unidade com acessibilidade motora
+19,U.S. 276 - USF Alto do Pascoal,II,"Av. Anibal Benévolo, s/n° - Alto do Pascol",unidade com acessibilidade motora
+20,U.S. 291 - USF Alto dos Coqueiros - Córrego da Jaqueira,II,"Rua Córrego da Jaqueira, 160 - Linha do Tiro","Está com elaboração de projeto,  de toda a Unidade, incluindo acessibiliade motora"
+21,U.S. 309 - USF Ponto de Parada,II,"Rua Ramiz Galvão, 379 - Arruda",unidade com acessibilidade motora
+22,U.S. 327 - USF Clube dos Delegados,II,"Rua João Cavalcanti de Petribú, S/N - Brejo de Beberibe (Dois Unidos)","Está no planejamento para requalificação  de toda a Unidade, incluindo acessibiliade"
+23,UPAE Arruda,II,"Av. Prof. José dos Anjos, s/n - Arruda, Recife - PE, 52171-011",unidade com acessibilidade motora
+24,U.S. 103 - USF Professor Mário Ramos,III,"Rua Oscar de Barros, 35 - Casa Amarela","Está em reforma, incluindo acessibilidade motora"
+25,U.S. 109 - USF Francisco Pignatari,III,"Estrada do Arraial, s/n - Casa Amarela","Existe área para estacionamento, sem rampa e sem barras de apoio nos banheiros."
+26,U.S. 120 - USF Mario Monteiro Melo,III,"Rua Nova Descoberta, 99 - Nova Descoberta.","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+27,U.S. 121 - Centro de Saúde Professor Bruno Maia,III,"Rua Alta do Refúgio, s/n° - Corrego da Areia","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+28,U.S. 144 - Policlinica Clementino Fraga,III,"Rua Japaratuba, 260 - Vasco da Gama","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+29,U.S. 162 - Policlinica Albert Sabin,III,"Rua Padre Roma, 191 - Tamarineira","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+30,U.S. 163 - Unidade de Pedatria Helena Moura,III,"Rua Cônego Barata, s/nº - Tamarineira","Está no planejamento para requalificação  de toda a Unidade, incluindo acessibiliade"
+31,U.S. 167 - Policlínica e Maternidade Professor Barros Lima,III,"Av Norte 6465, Casa Amarela","Está no planejamento para requalificação  de toda a Unidade, incluindo acessibiliade"
+32,U.S. 171 - USF Joaquim Costa Carvalho (Alto do Mandú),III,Rua Sirigi s/n° - Alto do Mandu,"Está em reforma, incluindo acessibilidade motora"
+33,U.S. 182 - USF Poço da Panela,III,"Rua Enh. Jair Furtado Meireles, s/n - Poço da Panela",unidade com acessibilidade motora
+34,U.S. 217 - Centro Medico Senador José Ermirio de Moraes,III,"Av. 17 de Agosto, 2388  - Casa Forte","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+35,U.S. 231 - USF Córrego da Bica,III,"Rua Santa Tereza , s/n° - Córrego da Bica",unidade com acessibilidade motora
+36,U.S. 249 - USF Santana,III,"Rua Olegárinho da Cunha, 333 - Casa Forte",esta unidade agora está junto com a Upinha de Poço da Panela - Pe. José Edwvaldo Gomes
+37,U.S. 251 - USF  Guabiraba,III,"Rua Otácilio de Azevedo, 115 - Guabiraba.","Está no planejamento para requalificação  de toda a Unidade, incluindo acessibiliade"
+38,U.S. 257 - USF Gilberto Freire (Bola na Rede),III,"Rua Amaro Luis de Carvalho, S/N - Guabiraba CEP:52490-010","Está em reforma, incluindo acessibilidade motora"
+39,U.S. 277 - CAPS Esperança,III,"Rua José Cavalheira, 415 - Tamarineira DS III","Está em reforma, incluindo acessibilidade motora"
+40,Upinha Eduardo Campos,III,"",unidade com acessibilidade motora
+41,U.S. 305 - USF Macaxeira,III,"Rua Mª Candida, 87 - Macaxeira",unidade com acessibilidade motora
+42,U.S. 336 - USF União das Vilas,III,"Rua Gomes Pacheco,178 - Espinheiro CEP:52021-060",unidade com acessibilidade motora
+43,U.S. 112 - Centro de Saúde José Dustan Soares,IV,"Av. Mauricio de Nassau, S/N - Iputinga","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+44,U.S. 128 - Policlínica Lessa de Andrade,IV,"Estrada dos Remédios, 2416 - Madalena.","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+45,U.S. 149 - Centro de Saúde Olinto de Oliveira,IV,"Rua Francisco de Paula, 47 - Caxangá","Em reforma, incluindo acessibilidade motora"
+46,U.S. 233 - USF Vietnã I e II,IV,"Rua Eduardo Custódio, 166 - San Martin","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+47,U.S. 307 - USF Emocy Krause,IV,"Rua Cantora Clara Nunes, s/n° - Torre.",unidade com acessibilidade motora
+48,U.S. 320 - CAPS Eulâmpio Cordeiro,IV,"Rua Rondônia, 100 - Zumbi","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+49,U.S. 331 - Centro de Saúde Prof. Amaury de Medeiros - UR 07,IV,"Rua Roraima, 102 - Várzea.","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+50,U.S. 349 - USF Casarão do Cordeiro,IV,"Rua Odete Monteiro, 450 - Cordeiro","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+51,USF Jardim Teresópolis,IV,Rua Antônio Romano s/n Várzea,unidade com acessibilidade motora
+52,upinha Vila Arraes,IV,Av. Afonso Olindense 1513 - Varzea,unidade com acessibilidade motora
+53,U.S. 142 - Centro de Saúde Bidu Krause,V,"Av. Onze de Agosto, s/n - Totó","vai passar a funcionar em um novo endereço, com acessibilidade motora"
+54,U.S. 161 - Centro de Saúde Romero Marques - PAM Ipiranga,V,"Rua Carlos Gomes, 932 - Prado","Está em reforma, incluindo acessibilidade motora"
+55,U.S. 165 - Maternidade Professor Bandeira Filho,V,"Rua Londrina, s/n - Afogados","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+56,U.S. 186 - USF Jardim Uchôa,V,"Rua Juperaci, 130 - Jardim Uchôa","Em reforma, incluindo acessibilidade motora"
+57,U.S. 284 - USF Vila de São Miguel,V,"Rua Mariápolis, 132 - Mangueira","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+58,U.S. 301 - USF Bongi (Boa Idéia),V,"Rua  Araguaia, 83 - San Martin","vai passar a funcionar em um novo endereço, com acessibilidade motora"
+59,U.S. 340 - CAPSi Cléa Lacet,V,"Rua Emília Torreão, 145 - Afogados","Em reforma, incluindo acessibilidade motora"
+60,U.S. 343 - CAPS CEMP - Centro Médico Psico Pedagógico Infan,V,"Av.  São Paulo, 677 - Jardim São Paulo","Em reforma, incluindo acessibilidade motora"
+61,USF - Upinha Novo Jiquiá,V,Rua Biuguaçu 10 Jiquiá,"Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+62,UPA-E Mustardinha,V,"Rua Major Mário Portela, 297 - Mustardinha",unidade com acessibilidade motora
+63,upinha jardim são paulo,V,Praça de Jardim São Paulo s/n,unidade com acessibilidade motora
+64,UPA DIA NOVO PRADO,V,"RUA ISAAC MARKMAN, 100 BONGI RECIFE - PECEP: 50.751-370",unidade com acessibilidade motora
+65,U.S. 148 - Centro de Saúde Dom Miguel de Lima Val Verde,VI,"Rua Feliciano José de Castro, 195 - Boa viagem","Em reforma, incluindo acessibilidade motora"
+66,U.S. 153 - Policlínica e Maternidade Prof. Arnaldo Marques (FA,VI,"Rua Dois Rios, s/n- Ibura","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+67,U.S. 228 - USF UR 04 / UR 05,VI,"Rua Capitão Vicente Curado, 33 - Ibura","Em reforma, incluindo acessibilidade motora"
+68,U.S. 282 - USF Vila das Aeromoças,VI,"Rua Araguaia, 25 - Vila das Aeromoças - Cohab Ibura","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+69,U.S. 289 - USF Josué de Castro,VI,"Rua Engenho Laje Bonito,47 UR 3 Ibura",Possui estacionamento e sem barras de apoio nos banheiros.
+70,U.S. 292 - USF tia regina,VI,"Rua Virginia Heráclio, s/nº - Ipsep",unidade com acessibilidade motora
+71,U.S. 299 - USF Jordão Baixo,VI,"Rua José Martorando, 100 - Jordão Baixo","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+72,U.S. 312 - USF Vila do SESI,VI,Rua Fernando Mota 217 Vila do Sesi Ibura baixo,"Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+73,USF MACAXEIRA/BURITY,VII,"RUA MARIA CANDIDA, 87 - Macaxeira",unidade com acessibilidade motora
+74,UPINHA 24H DR MOACIR ANDRÉ GOMES – MORRO DA,,,
+75,CONCEIÇÃO,VII,"AV. NORTE MIGUEL ARRAES DEALENCAR, 5400 - MORRO DA CONCEICAO",unidade com acessibilidade motora
+76,UPINHA DIA ACS MARIA RITA DA SILVA,VII,"RUA CORREGO DO EUCLIDES, 309 - ALTO JOSÉ BONIFÁCIL",unidade com acessibilidade motora
+77,USF GILBERTO FREIRE /BOLA NA REDE,VII,"AVENIDA PADRE MOSCA DE CARVALHO, S/Nº - GUABIRABA","Em reforma, incluindo acessibilidade motora"
+78,USF GUABIRABA,VII,"AV OTACILIO DE AZEVEDO, 115 - GUABIRABA","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+79,CS MARIO MONTEIRO DE MELO,VII,"RUA NOVA DESCOBERTA, 99 - NOVA  DESCOBERTA","Tem projeto de Requalificação para toda a Unidade, incluindo acessibiliade motora"
+80,UPINHA DIA DOM HELDER CÂMARA,VII,"RUA GRIJALBA COSTA, 9 - BREJO DE BEBERIBE",unidade com acessibilidade motora
+81,UPINHA 24H DR HELIO MENDONÇA,VII,"AV DA RECUPERACAO, 6429 - CORREGO DO JENIPAPO",unidade com acessibilidade motora
+82,USF UR-2- JANE MAGALHÃES,VIII,"AV SANTA FE, 240 - UR 02 - COHAB","Em reforma, incluindo acessibilidade motora"
+83,USF+ ENCANTA MOÇA,"","",unidade com acessibilidade motora
