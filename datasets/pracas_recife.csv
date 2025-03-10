@@ -1,506 +1,506 @@
-﻿_id,nome_equip_urbano,tipo_equip_urbano,endereco_equip_urbano,codigo_logradouro,lei_equip_urbano,nome_oficial_equip_urbano,area,perimetro,codigo_bairro,nome_bairro,latitude,longitude
-1,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","3243,735391","329,5865855",108,Santo Amaro,-8.038875265,-34.87617362
-2,Dr Jose Vilela,Praça,Avenida Dezessete De Agosto/ Rua Dr Jose Vilela/ Rua Jose De Godoy Vasconcelos,66567,00448/49,Praça Dr José Vilela,"3042,858638","214,8839095",469,Parnamirim,-8.034090657,-34.91157119
-3,Dr Lula Cabral De Melo,Praça,Avenida Dezessete De Agosto/ Avenida Parnamirim/ Rua Padre Roma,66630,12917/77,Praça Dr Lula Cabral de Melo,"1893,010563","172,7622162",469,Parnamirim,-8.033198405,-34.91029444
-4,Jornalista Francisco Pessoa De Queiroz Júnior,Praça,Rua Nestor Silva/ Rua Leonardo Bezerra Cavalcante,84255,14265/81,Praça Jornalista Francisco Pessoa de Queiroz,"722,7935899","100,7092719",450,Santana,-8.037484858,-34.91386712
-5,Rádio Jornal Do Comercio,Praça,Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante,66893,00453/46,Praça Rádio Jornal do Comércio,"2724,390231","204,0777537",469,Parnamirim,-8.036970992,-34.913944
-6,Rádio Jornal Do Comércio,Praça,Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante,66893,00453/46,Praça Rádio Jornal do Comércio,"611,9990994","93,49845397",469,Parnamirim,-8.03708098,-34.91429516
-7,Osvaldo Cruz,Praça,Rua Joao Fernandes Vieira/ Rua Osvaldo Cruz,66761,"",Praça Oswaldo Cruz,"3644,799287","340,5317923",116,Soledade,-8.055074228,-34.89156634
-8,"",Area Verde,Avenida Governador Agamenon Magalhaes/ Rua Dr Jaime Da Fonte,,"","","234,3165586","77,54774228",108,Santo Amaro,-8.039951285,-34.87859053
-9,Flôr De Santana,Praça,Avenida Dezessete De Agosto/Rua Dona Olegarinha Da Cunha/ Rua De Santana,66427,"",Praça Flor de Santana,"790,7132127","111,2194642",477,Poco,-8.038112654,-34.91806848
-10,Da Vila Teimosinho,Praça,Rua Das Saudades/Rua Do Girassol,29858,07930/62,Praça da Vila Teimosinho,"344,9842595","87,56716062",248,Pina,-8.085811115,-34.88401847
-11,Da Restauraçao/ Do Pirulito,Praça,Rua Padre Floriano/ Rua Do Jardim,66885,"",Praça da Restauração,"88,22923397","33,3156835",35,Sao Jose,-8.069986929,-34.8802037
-12,Do Monteiro,Praça,Avenida Dezessete De Agosto,66729,"",Praca do Monteiro,"668,8804646","106,0118735",485,Monteiro,-8.027913492,-34.92798922
-13,Sérgio Loreto,Praça,Rua Imperial,66982,01395/24,Praça Sérgio Loreto,"4560,931602","311,952528",35,Sao Jose,-8.072488891,-34.8853334
-14,Das Cinco Pontas,Praça,Rua Vidal De Negreiros/Rua Imperial,66176,01737/29,Praça das Cinco Pontas,"157,3078383","51,91709231",35,Sao Jose,-8.071880743,-34.88214292
-15,Das Cinco Pontas,Praça,Rua Vidal De Negreiros,66176,01737/29,Praça das Cinco Pontas,"878,2432253","136,6903852",35,Sao Jose,-8.071573012,-34.88188765
-16,Dezessete,Praça,Rua Imperador Pedro Ii,66273,"",Praça Dezessete,"816,9992761","115,2610157",27,Santo Antonio,-8.065308057,-34.87691259
-17,Das Cinco Pontas,Praça,Rua Vidal De Negreiros,66176,01737/29,Praça das Cinco Pontas,"1463,617695","160,5477269",35,Sao Jose,-8.071007482,-34.88144625
-18,Dom Vital,Praça,Rua Das Calcadas,67075,00318/42,Praça Dom Vital,"1096,675348","133,2604994",35,Sao Jose,-8.068186779,-34.87835072
-19,Joaquim Nabuco,Praça,Rua Frei Caneca/ Cais Da Detencao,66575,5483/59,Praça Joaquim Nabuco,"1826,451645","186,412957",27,Santo Antonio,-8.064545759,-34.88125311
-20,Dezessete,Praça,Rua Imperador Pedro Ii / Avenida Martins De Barros,66273,"",Praça Dezessete,"1151,809795","130,9991914",27,Santo Antonio,-8.065251334,-34.87653876
-21,Da Comunidade Luso - Brasileira,Praça,Cais Do Apolo/Avenida Militar,66184,10003/68,Praça da Comunidade Luso Brasileira,"1902,98919","173,5535226",19,Recife,-8.053736449,-34.87103187
-22,Da Independência/ Diário De Pernambuco,Praça,Avenida Dantas Barreto/Rua Primeiro De Março,66303,11463/74,Praça da Independência,"2168,67139","205,9724732",27,Santo Antonio,-8.064166299,-34.87815957
-23,Chora Menino,Praça,Rua Paissandu/ Avenida Lins Petit,66192,"",Praça Chora menino,"2372,239044","270,4761545",94,Paissandu,-8.060289347,-34.89488865
-24,Rio Branco ( Marco Zero),Praça,Avenida Alfredo Lisboa,66869,00192/39,Praça Rio Branco,"5468,326667","294,4333486",19,Recife,-8.063157342,-34.87109061
-25,Tiradentes,Praça,Cais Do Apolo/Rua Bione,60984,07930/62,Travessa Tiradentes,"5076,945565","276,5877931",19,Recife,-8.058698428,-34.87207801
-26,"",Area Verde,Rua Dr Jaime Da Fonte/Avenida Governador Agamenon Magalhaes,,"","","485,0326105","105,7618124",108,Santo Amaro,-8.040064717,-34.87845583
-27,General Carlos Pinto/ Largo Dos Casados,Praça,Rua Arlindo Melo/ Avenida Cruz Cabuga/ Rua Dos Casados,66230,00178/48,Praca General Carlos Pinto,"3250,886457","285,133871",108,Santo Amaro,-8.040097305,-34.87190978
-28,Do Rosario,Praça,Rua Francisco Lacerda,122998,"",Praça do Rosário,"251,073068","120,0399718",736,Varzea,-8.050490532,-34.95836889
-29,Maciel Pinheiro,Praça,Rua Do Hospicio / Rua Do Aragao,66702,00027/46,Praça Maciel Pinheiro,"1343,102546","162,9794785",86,Boa Vista,-8.062376317,-34.88573807
-30,Parque Amorim,Praça,Rua Joao Fernandes Vieira/Avenida Agamenon Magalhaes,73326,"",Praça Parque Amorim,"1647,876963","198,0992465",86,Boa Vista,-8.052047649,-34.89498176
-31,"",Area Verde,Avenida Norte Miguel Arraes De Alencar/Avenida Governador Miguel Arraes De Alencar,,"","","83,38378095","38,14856386",108,Santo Amaro,-8.042891848,-34.88461108
-32,San Martin,Praça,Avenida General San Martin,119911,"",Praça da Avenida General San Martin,"3062,605426","196,1893452",817,San Martin,-8.071011847,-34.92879124
-33,"",Area Verde,Rua Nova Europa/ Rua Pedro Boulitreau/Trv Pedro Boulitreau/Rua Farroupilha,,"","","1935,777252","186,5333421",817,San Martin,-8.075195066,-34.93140072
-34,"",Area Verde,Avenida Agamenon Magalhaes,,"","","739,6589317","128,198638",108,Santo Amaro,-8.040140979,-34.87885013
-35,Profeta Joseph Smith/ Da Santa,Praça,Avenida Engenheiro Domingos Ferreira,86487,14706/85,Praça Profeta Joseph Smith,"5938,539789","700,3519636",248,Pina,-8.096888965,-34.88604569
-36,Miguel De Cervantes,Praça,Rua Francisco Alves,66672,3.340/55,Praça Miguel de Cervantes,"1037,065806","138,759571",78,Ilha Do Leite,-8.067558726,-34.89395077
-37,Miguel De Cervantes,Praça,Rua Estado De Israel/Rua Capitao Jose  Da Luz,66672,3.340/55,Praça Miguel de Cervantes,"872,9275081","104,7369237",78,Ilha Do Leite,-8.066101465,-34.89327839
-38,Miguel De Cervantes,Praça,Rua Francisco Alves/Rua Jose De Alencar /Ruaantonio Gomes De Freitas,66672,3.340/55,Praça Miguel de Cervantes,"2104,794269","246,9475899",78,Ilha Do Leite,-8.066768098,-34.89357782
-39,Dom Jose Pereira Alves,Praça,Rua Manoel Elias/Rua Des Manoel De Sa Pereira/Rua Dom Jose Pereira Alves,72460,"",Praça Dom José Pereira Alves,"695,7855432","111,4876446",680,Cordeiro,-8.049211071,-34.92536237
-40,Dom Diogo Camarão,Praça,Rua Capitao Francisco Barreiras/Rua Capitao Manuel De Araujo Miranda,66311,10074/69,Praça Dom Diogo Camarao,"928,0450268","135,6480533",680,Cordeiro,-8.060342319,-34.92881848
-41,Pantanal,Praca,Rua Capitao Gregorio De Albuquerque/Praca Pantanal/Rua Capitao Domingos Da Costa,79685,"",Praça Pantanal,"684,8925334","123,6817051",850,Areias,-8.094827242,-34.93383621
-42,Da Bandeira,Praça,Avenida Sport Clube Do Recife/ Rua Benfica/ Rua Chico Science,66109,02206/39,Praça da Bandeira,"2344,640792","185,890931",647,Madalena,-8.061391901,-34.90159021
-43,Salgueiro,Praça,Rua Comendador Alvares De Carvalho/Rua Ribeirao/ Prc Salgueiro,66915,"",Praça Salgueiro,"1250,396333","191,0809589",698,Iputinga,-8.042580862,-34.93823736
-44,Da Esperança/ Largo Dona Suzana,Praça,Rua Joao Da Mata/Caratinga/Rosa Candida,71820,"",Praça da Esperança,"539,1142959","98,67109183",671,Zumbi,-8.054287351,-34.91619183
-45,Euclides Da Cunha / Do Internacional,Praça,Rua Benfica /  Severino Pinheiro / Heitor Maia Filho,66451,10074/69,Praça do Internacional,"6259,305832","329,8503772",647,Madalena,-8.058381,-34.9035688
-46,Camilo Pereira Carneiro,Praça,Avenida Getulio Vargas,89435,09515/65,Praça Camilo Pereira Carneiro,"68642,3295","1552,59103",752,Curado,-8.068604891,-34.94432198
-47,Da Rua Tijucal,Area Verde,Rua Tijucal/Avenida Norte Miguel Arraes De Alencar,,"","","593,3985494","93,31441478",582,Macaxeira,-8.013646924,-34.93138401
-48,"",Area Verde,Rua Dr. Abel Ventura /  Rua Fernando Benvindo Da Fonseca,,"","","5892,810202","353,0747886",450,Santana,-8.041435012,-34.91669427
-49,Da Rua Da Aurora,Area Verde,Rua Da Aurora/ Avenida Norte Miguel Arraes De Alencar,,"","","40642,75388","2537,032196",108,Santo Amaro,-8.054397738,-34.87641698
-50,Cemitério De Santo Amaro,Area Verde,Rua Do Pombal/Rua Dos Palmares,,"","","119512,906","1384,029593",108,Santo Amaro,-8.049582688,-34.88498801
-51,"",Area Verde,Rua Dianopolis/Rua Odete Monteiro,,"","","979,9926409","189,3383183",680,Cordeiro,-8.046766289,-34.91858353
-52,Da Conceição,Praça,Rua Morro Da Conceição,66214,"",Praça da Conceição,"6368,164132","429,3131839",531,Morro Da Conceicao,-8.019349645,-34.91530281
-53,"",Area Verde,Rua Professora Maria Do Carmo Araujo/R Antonio Pereira/ R Dr Jose Ramos De Vasconcelos,,"","","10631,64778","406,6825512",817,San Martin,-8.071264414,-34.9252638
-54,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","5669,730769","511,9297931",280,Campo Grande,-8.037785157,-34.87559909
-55,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","340,637002","83,99881803",108,Santo Amaro,-8.040273354,-34.8790422
-56,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","4449,466837","434,4529967",108,Santo Amaro,-8.039557198,-34.87758353
-57,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","1620,032858","174,5500708",280,Campo Grande,-8.039077325,-34.87836625
-58,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","1950,603145","201,2370171",272,Torreao,-8.039652709,-34.87960599
-59,"",Area Verde,Avenida Gov Agamenon Magalhaes,,"","","4507,611822","436,0795326",272,Torreao,-8.040196208,-34.88078221
-60,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","3928,148486","367,35941",124,Espinheiro,-8.042645879,-34.88604571
-61,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","10522,42433","834,8573975",108,Santo Amaro,-8.044428742,-34.88808027
-62,Da Avenida Militar,Area Verde,Avenida Militar,,"","","665,7893281","107,0222614",19,Recife,-8.051739587,-34.87140794
-63,Nossa Senhora Da Boa Viagem,Praça,Rua Setubal / Rua Dr Nylo Dornellas Camara / Avenida Boa Viagem / Rua Barao De Souza Leao,66044,"",Praça da  Boa Viagem,"8407,359778","393,9326088",205,Boa Viagem,-8.132007092,-34.90073518
-64,Da Rua Potengy,Area Verde,Rua Potengy/ Rua Itanage,,"","","173,6371027","66,95138386",213,Ipsep,-8.105240332,-34.91980071
-65,Da Avenida Militar,Area Verde,Avenida Militar,,"","","463,2260672","135,5628453",19,Recife,-8.051520894,-34.87194045
-66,Da Avenida Militar,Area Verde,Avenida Militar,,"","","1012,036453","336,7500879",19,Recife,-8.052881346,-34.87170011
-67,Da Avenida Militar,Area Verde,Avenida Militar,,"","","634,4859777","99,63544497",19,Recife,-8.051871726,-34.87167723
-68,Do Cais Do Apolo,Area Verde,Cais Do Apolo,,"","","923,8390639","352,6006795",19,Recife,-8.054053374,-34.87184563
-69,Fernando Galvao/Quatro De Outubro,Praça,Rua Dr Vilas Boas/Rua Olimpio Costa/Praca Fernando Galvao,66850,16369/98,Praça Fernando Galvão,"1867,635131","202,160456",850,Areias,-8.095441959,-34.93894494
-70,Da Av Engenheiro José Estelita,Area Verde,Avenida Engenheiro Jose Estelita/ Rua Capitao Temudo,,"","","3313,075659","542,5936527",51,Cabanga,-8.077561278,-34.89143533
-71,Frei Caneca - A,Praça,Avenida Sul,,"","","2158,411114","233,9744035",35,Sao Jose,-8.072191159,-34.88117152
-72,Da Rua Do Futuro,Area Verde,Rua Do Futuro/Rua Padre Roma/Rua Muniz Tavares,,"","","224,3425154","66,7518608",159,Jaqueira,-8.034005727,-34.90573516
-73,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","5277,312251","463,8507151",108,Santo Amaro,-8.041356705,-34.88147277
-74,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Engenheiro Abdias De Carvalho,,"","","236,1215108","95,852903",647,Madalena,-8.06095448,-34.90486416
-75,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Eng Abdias De  Carvalho,,"","","62,43450096","39,86580573",760,Ilha Do Retiro,-8.061248393,-34.90476612
-76,Jardim Sao Paulo/ João Cabral De Melo Neto,Praça,Rua Senador Alberto Pasqualini/Rua N S  De Fatima/Rua Damasco,66010,14597/83,Praça do Jardim São Paulo,"6582,838854","287,6469289",868,Jardim Sao Paulo,-8.081623961,-34.93836152
-77,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Engenheiro Abdias De Carvalho,,"","","84,91887102","42,19634588",760,Ilha Do Retiro,-8.061310509,-34.90468385
-78,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Eng Abdias De Carvalho,,"","","50,36220699","32,85654207",760,Ilha Do Retiro,-8.061265784,-34.90495975
-79,Da Rua Desenhista Eulino Santos,Area Verde,Rua Bento Justino De Souza/R Desenhista Eulino Santos,,"","","1101,360597","138,1815275",329,Arruda,-8.022622716,-34.88358087
-80,Rua João Praxedes De Oliveira Filho,Area Verde,Rua Joao Praxedes De Oliveira Filho/Rua Elias Gomes/ Travenida Joao Praxedes De Oliveira Filho,,"","","421,4498364","95,94243712",310,Campina Do Barreto,-8.019861155,-34.87964878
-81,Avenida Beberibe,Area Verde,Avenida Beberibe,,"","","138,9170241","57,12022249",345,Fundao,-8.014560519,-34.88976264
-82,Da Rua Hercília De Medeiros,Area Verde,Rua Hercília De Medeiros/ R Barão De Tamandare / R Alice Tibiriçá,,"","","1216,79834","139,7243657",353,Cajueiro,-8.009903415,-34.88279639
-83,Da Avenida Prefeito Artur Lima Cavalcanti,Area Verde,Avenida Prefeito Artur Lima Cavalcanti,,"","","5207,239643","603,9307669",108,Santo Amaro,-8.046079646,-34.87409266
-84,Da Rua Capitão Temudo,Area Verde,Rua Capitão Temudo,,"","","1297,900663","326,6387085",51,Cabanga,-8.07862112,-34.89231853
-85,Rua Paissandu,Area Verde,Rua Paissandu/ Avenida Lins Petit,,"","","109,0369723","80,74473572",94,Paissandu,-8.059680128,-34.89434829
-86,Da Avenida Lins Petit,Area Verde,Avenida Lins Petit,,"","","89,81787082","44,65779205",94,Paissandu,-8.060749595,-34.89497265
-87,Da Rua Da Paz,Area Verde,Rua Da Paz/Praca Da Paz,,"","","55,80694647","35,62044817",779,Afogados,-8.080332697,-34.90644806
-88,Da Rua General Francisco Figueiroa,Area Verde,Rua Gal Francisco Figueiroa/Rua Capitao Estevao Fernandes,,"","","50,79344063","29,50193404",850,Areias,-8.092892551,-34.93000118
-89,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,"","","548,7151653","111,3679722",817,San Martin,-8.070637246,-34.92899331
-90,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,"","","42,14747428","30,50246116",817,San Martin,-8.07063049,-34.92868239
-91,Beira Rio,Praça,Avenida Beira Rio,123684,"",Praça Beira Rio,"19966,22917","1723,610725",655,Torre,-8.046253452,-34.90402245
-92,Beira Rio,Praça,Avenida Beira Rio,123684,"",Praça Beira Rio,"19966,22917","1723,610725",647,Madalena,-8.049835422,-34.90450432
-93,Da Rua Padre Teófilo Tworz,Area Verde,Rua Padre Teófilo Tworz/ Rua Cosme Viana,,"","","226,9617642","81,74705516",779,Afogados,-8.065392699,-34.90904097
-94,Da Av Norte Miguel Arraes De Alencar,Area Verde,Avenida Norte Miguel Arraes De Alencar/ Rua Do Monte,,"","","1499,082628","155,2048011",582,Macaxeira,-8.01260259,-34.93214478
-95,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,"","","399,7507674","117,0317102",817,San Martin,-8.070825919,-34.92843602
-96,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,"","","501,2248992","119,2103928",817,San Martin,-8.071371718,-34.92859386
-97,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,"","","406,1308641","118,4631108",817,San Martin,-8.071159946,-34.92915854
-98,Da Avenida Luiz De Lacerda,Area Verde,Avenida Historiador Jordao Emerenciano/ Avenida Luiz De Lacerda,,"","","181,9914709","62,34884574",698,Iputinga,-8.036639892,-34.94315655
-99,Da Rua Benfica,Area Verde,Rua Benfica,,"","","380,1366162","83,00209016",647,Madalena,-8.058063583,-34.90426786
-100,Da Rua Benfica,Area Verde,Rua Benfica,,"","","110,0369544","62,66482456",647,Madalena,-8.058643274,-34.90281486
-101,Da Rua Arão Botler,Area Verde,Rua Arao Botler / Avenida Cidade De Monteiro,,"","","229,7198589","76,7401018",361,Porto Da Madeira,-8.00920484,-34.88856854
-102,Da Av Beberibe/ Av Cidade De Monteiro,Area Verde,Avenida Beberibe/ Avenida Cidade De Monteiro,,"","","709,3229676","144,4033954",361,Porto Da Madeira,-8.009918879,-34.8888922
-103,Da Av Beberibe/ Av Cidade De Monteiro,Area Verde,Avenida Beberibe/ Avenida Cidade De Monteiro/ Rua Arao Botler,,"","","1589,814424","148,6790552",361,Porto Da Madeira,-8.009474259,-34.88883199
-104,Da Avenida Governador Agamenon Magalhaes,Area Verde,Avenida Governador Agamenon Magalhaes,,"","","4875,904477","435,8870089",108,Santo Amaro,-8.043270963,-34.88559356
-105,Do Monteiro,Praça,Avenida Dezessete De Agosto,66729,"",Praca do Monteiro,"787,7179912","131,276212",485,Monteiro,-8.02785261,-34.92845605
-106,Prof. Barreto Campelo,Praça,Rua Conselheiro Theodoro/ Rua Marques De Marica,66117,10485/72,Praça Professor Barreto Campello,"2461,053184","242,5829023",655,Torre,-8.047997177,-34.91484274
-107,Deputado Fábio Correa,Praça,Rua Severino Bernadino Pessoa/ Rua Irapiranga,119709,14.355/81,Praça deputado Fabio Correa,"597,9855524","132,224455",523,Alto Jose Do Pinho,-8.022359393,-34.90632204
-108,Prof. Barreto Campelo,Praça,Rua Jose De Holanda/ Rua Barreto Campelo/Rua Zilda S De Santana,66117,10485/72,Praça Professor Barreto Campello,"4519,880225","383,5406497",655,Torre,-8.04702363,-34.91399529
-109,Joao Pessoa De Queiroz,Praça,Rua Domingos De Abreu Vasconcelos/Aniceto Ribeiro Varejao/Des Capristano De Moraes E Silva,66516,10.124/69,Praça João Pessoa de Queiroz,"2252,435147","183,5839488",701,Torroes,-8.067352423,-34.9329581
-110,Do Paraiso,Praça,Rua Cinco De Novembro,89486,13.805/79,Praça do Paraíso,"315,1620589","82,73900618",779,Afogados,-8.08105852,-34.90718956
-111,Academia Da Cidade,Area Verde,Avenida Gov Agamenon Magalhaes,,"","","5549,353666","503,9604724",272,Torreao,-8.041581726,-34.8837587
-112,Vila Do Moinho Recife,Praça,Rua Domingos Bastos,77232,"",Praça Vila do Moinho Recife,"313,8420519","100,3726751",175,Encruzilhada,-8.03731776,-34.88891284
-113,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","9328,991515","774,9700755",124,Espinheiro,-8.043698771,-34.88829308
-114,São Braz,Praça,Rua Capitao Manuel De Aguiar/R Capitao Braz De Barros/R Capitao Francisco Coutinho/Praça Sao Braz,74322,"",Praça São Braz,"1658,410372","159,0876812",850,Areias,-8.094377412,-34.93161111
-115,Alfredo Pinto/Das Lavadeiras,Praça,Rua Caruaru/ Rua Palmares/Rua Goiana/Rua Argemiro Galvao,65854,00318/42,Praça Alfredo Pinto,"3259,518082","264,0279385",850,Areias,-8.094351239,-34.93686828
-116,Do Sena,Praça,Rua Capitao Joao Pontes/Rua Capitao Antonio Franca/Rua Capitao Domingos Da Costa,74330,"",Praça do Sena,"4898,081623","333,2515955",850,Areias,-8.095864063,-34.9336817
-117,Jornalista Anibal Fernandes,Praça,Rua Capitao Estevao Fernandes/Rua Gal Francisco Fiqueiroa/R Capitao Jacinto Da Cruz,65943,"",Praça Jornalista Anibal Fernandes,"5085,369008","314,3882844",850,Areias,-8.093486844,-34.93011487
-118,Professor Abdgar Soriano,Praça,Rua Frei Manuel Calado/Rua General Francisco Figueiroa,99651,"",Praça Professor Abdgar Soriano,"1992,750137","198,062038",850,Areias,-8.09243358,-34.93017666
-119,Capiba,Praça,Rua Engenheiro Edgar D'Amorim / Rua Do Futuro,100501,16897/03,Praça Capiba,"360,8648409","87,74306565",167,Gracas,-8.043766763,-34.89813483
-120,Maria Da Conceição Otacilio,Praça,Rua Otacilio Pessoa/Rua Padre Diogo Rodrigues/Prc Maria Da Conceicao,66737,02793/54,Praça Maria da Conceição,"1495,029741","151,6647014",876,Barro,-8.089525934,-34.94038585
-121,De Campo Grande/Eudoro Correa,Praça,Estrada De Belem/ Rua Goncalves Dias/ Rua Catulo Da Paixao Cearense,66150,"",Praça de Campo Grande,"3856,433498","291,3306562",280,Campo Grande,-8.032299001,-34.87744157
-122,Augustus Rodrigues,Praça,Rua Augusto Rodrigues/Rua Padre Miguelinho/R Dom Joao Da Costa,70858,"",Praça Augusto Rodrigues,"2259,265663","188,0861343",272,Torreao,-8.039388541,-34.88519858
-123,Da República,Praça,Rua Praca Da Republica,66877,"",Praça da República,"6931,022614","321,7493661",27,Santo Antonio,-8.060768613,-34.87844425
-124,Da República,Praça,Rua Da Praca Da Republica,66877,"",Praça da República,"5561,022882","309,4697411",27,Santo Antonio,-8.061000454,-34.8768515
-125,Da República,Praça,Rua Praca Da Republica,66877,"",Praça da República,"8266,864094","357,4864461",27,Santo Antonio,-8.06089663,-34.87757372
-126,Gregorio Bezerra,Praça,Rua Arumanduba/Rua Souza Bandeira,90441,15065/88,Praça Gregório Bezerra,"8019,261149","801,0692726",655,Torre,-8.044551422,-34.91490004
-127,Da Saudade/ Campo Santo,Praça,Rua Do Pombal/ Avenida  Da Saudade/ Rua Treze De Maio,66249,"",Praça do Campo Santo,"9873,341906","398,2827211",108,Santo Amaro,-8.05036453,-34.88283192
-128,Abelardo Rijo,Praça,Rua Capitao Temudo/ Avenida Engenheiro Jose Estelita,65900,10316/71,Praça Abelardo Rijo,"9723,843408","437,5827564",51,Cabanga,-8.078168684,-34.89174203
-129,Governador Paulo Guerra,Praça,Avenida Saturnino De Brito/  Rua Capitao Temudo,72630,"",Praça Governador Paulo Guerra,"2426,404129","276,7261257",51,Cabanga,-8.080074629,-34.89232223
-130,Da Cavalaria,Praça,Rua Delmiro Gouveia/Avenida General San Martin/Rua Apulcro De Assuncao,79243,"",Praça da Cavalaria,"1260,048771","136,081916",817,San Martin,-8.065380736,-34.92749122
-131,Dr Adolfo Cirne / Faculdade De Direito,Praça,Rua Princesa Izabel/ Rua Do Hospicio/Rua Do Riachuelo,65889,01259/22,Praça Dr Adolfo Cirne,"20280,10499","556,4343466",86,Boa Vista,-8.058708287,-34.88265545
-132,Da Cavalaria,Praça,Avenida Consul Vilares Fragoso/Rua Comendador Franco Ferreira/Avenida Gal San Martin,79243,"",Praça da Cavalaria,"1277,616061","139,7306722",817,San Martin,-8.065579426,-34.92710117
-133,Arari Ferreira Fonseca,Praça,Rua Romulo Da Fonseca Gomes/ Rua Monsenhor Ferreira Lima,3590,"",Praça Arari Ferreira Fonseca,"553,04426","112,2618386",698,Iputinga,-8.029962639,-34.93615205
-134,Sao Benedito Pereira Dos Santos,Praça,Rua Tapirema/ Prc Sao Benedito Pereira Dos Santos/R Serra Nova/,94846,"",Praça São Benedito Pereira dos Santos,"380,4137817","84,74122887",736,Varzea,-8.037886757,-34.98178557
-135,Professor Moraes Rego/ Do Taxi,Praça,Rua Agricolandia /Avenida Professor Moraes Rego,72320,"",Praça Jockey Clube,"1024,794857","133,455584",736,Varzea,-8.043240462,-34.94389603
-136,Jockey Clube,Praça,Rua Carlos Gomes E Jockey Clube,72320,"",Praça Jockey Clube,"439,3176572","80,03634139",663,Prado,-8.061039542,-34.91281501
-137,Filonila Ferreira,Praça,Rua Monsenhor Joao Barbalho/Praca Filonila Ferreira,75302,13455/78,Praça Filonila Ferreira,"213,1768505","66,80185724",736,Varzea,-8.041457663,-34.95658737
-138,Nossa Senhora Da Paz / Largo Da Paz,Praça,Rua Motocolombo/Rua Da Paz,66826,"",Praça da Paz,"2961,900359","244,3952283",779,Afogados,-8.080605731,-34.90612789
-139,Bernardo  Vieira De Melo,Praça,Rua Joao Perdigao/Praca Bernardo Vieira De Melo/R Theodorico Selva/Rua Padre Nobrega,66036,"",Praça Bernardo Vieira de Melo,"1150,529557","140,6048059",876,Barro,-8.090245819,-34.93875574
-140,Sitio Do Benvenuto / Da Barrigada,Praça,Rua Jupiacara/Rua Caturite/ Rua Santa Rosa,72982,"",Praça do Sítio Benvenuto,"463,1647444","117,9225232",817,San Martin,-8.075344456,-34.92555684
-141,Sitio Do Benvenuto/ Da Barrigada,Praça,Rua Jupiacara/ Rua Imbituba/ Rua Caturite,72982,"",Praça do Sítio Benvenuto,"467,9334631","119,1298583",817,San Martin,-8.075233289,-34.92502221
-142,Sitio Do Da Barrigada,Praça,Rua Jupiacara/ Rua Santo Angelo/ Rua Imbituba,72982,"",Praça do Sítio Benvenuto,"469,3597196","117,5599305",817,San Martin,-8.075122195,-34.9244936
-143,Abelardo Baltar,Praça,Rua Comendador Moraes,76821,"",Praça Abelardo Baltar,"478,1369251","99,01538554",248,Pina,-8.087228836,-34.88271544
-144,Abelardo Baltar,Praça,Rua Praca Abelardo Baltar,76821,"",Praça Abelardo Baltar,"72,43711423","38,58860417",248,Pina,-8.087433482,-34.88258653
-145,Alcides Ferreira Leal/ Do Jordao,Praça,Rua Jose Martorano / Rua Dr Alvaro Ferreira / Rua Lima Campos,76422,"",Praça do Jordão,"1906,501131","172,8217503",221,Jordao,-8.130504443,-34.938465
-146,Da Luz / Da Fraternidade,Praça,Rua Engenho Araquara / Rua Engenho Timbi / Avenida Rio Sao Francisco,79715,"",Praça Luz da Fraternidade,"1551,431831","196,3532057",884,Cohab,-8.115080632,-34.95025587
-147,Do Terço/ Sebastiao Pontes,Praca,Praca Sebastiao Pontes/Rua Capitao Amaro Cerqueira/Rua Capitao Domingos Costa,79669,"",Praça Sebastião Pontes,"436,7968459","92,01279404",850,Areias,-8.09759545,-34.93388892
-148,Presidente Kennedy,Praça,Rua Dona Carentina / Rua Miravania,76082,"",Praça Presidente Kennedy,"2153,473691","204,9515691",221,Jordao,-8.134257824,-34.94174368
-149,São José Do Manguinho,Praça,Rua Confederacao Do Equador/Avenida Rui Barbosa,66494,00033/37,Praça São José dos Manguinhos,"340,6164735","120,8453951",167,Gracas,-8.048095165,-34.89890896
-150,Elvira Andrade De Souza,Praça,Rua Paulino Gomes De Souza/Rua Alberto Paiva,66346,11444/74,Praça Elvira Andrade de Souza,"773,1669198","111,0765555",167,Gracas,-8.043753544,-34.9012548
-151,Padre Marcelino Champangnat,Praça,Rua Paulino Gomes De Souza,66664,10.643/72,Praça Marcelino Champagnat,"967,7103441","119,8765096",167,Gracas,-8.041620727,-34.90053842
-152,Professor Fleming,Praça,Rua Muniz Tavares,66443,4346/56,Praça Professor Fleming,"3921,040069","248,7507945",159,Jaqueira,-8.035270957,-34.90591214
-153,Da Jaqueira,Parque,Rua Do Futuro/Rua Deputado Pedro Pires Ferreira/ Avenida Rui Barbosa,73075,"",Parque da Jaqueira,"71793,04406","1086,864444",159,Jaqueira,-8.036906181,-34.90482213
-154,Casa Forte,Praça,Avenida Dezessete De Agosto,78271,"",Praça de Casa Forte,"6080,504819","346,3919021",442,Casa Forte,-8.035374529,-34.91975305
-155,Alice De Albuiquerque,Praça,Rua Couto Soares/R Adolfo Simoes Barbosa,119962,"",Praça Alice de Albuquerque,"141,112533","54,02616912",353,Cajueiro,-8.012737276,-34.88380124
-156,Casa Forte,Praça,Rua Casa Forte,78271,"",Praça de Casa Forte,"5590,231542","336,8313741",442,Casa Forte,-8.033866468,-34.91895114
-157,Farias Neves,Praça,Rua Dois Irmaos / Avenida Dom Manoel De Medeiros,81507,5958/60,Praça Farias Neves,"8574,791972","419,8183859",590,Dois Irmaos,-8.015644143,-34.94419349
-158,Do Trabalho,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Fernando De Souza Caete,67032,01483/25,Praça do Trabalho,"2070,318675","222,0826299",434,Casa Amarela,-8.023225392,-34.91452741
-159,Batista Da Silva/ Operário Luis Da Hora,Praca,Rua Prof Trajano De Mendonca/ R Jose Bonifacio,66125,09310/64,Praça Batista da Silva,"216,9910213","69,45986947",655,Torre,-8.042476011,-34.90834573
-160,Ponte D Uchoa,Praça,Avenida Rui Barbosa/ Rua Madre Loyola/ Rua Antonio Celso Uchoa Cavalcanti,66788,"",Praça Ponte D`Uchoa,"485,2880827","107,2731751",159,Jaqueira,-8.041396064,-34.9033467
-161,Barão De Caiara,Praca,Rua Afonso De Albuquerque De Melo/Rua Leonardo Bezerra Cavalcante,13234,1.663/54,Praça Barão de Caiara,"2437,637829","211,6045652",450,Santana,-8.038067213,-34.91098217
-162,Ascenso Ferreira,Praça,Avenida Rio Branco/Rua Madre Deus,109517,"",Praça Ascenço Ferreira,"293,9870404","71,93870429",19,Recife,-8.06255675,-34.8736634
-163,Da Convenção,Praça,Avenida Beberibe,66265,00237/33,Praça da Convenção,"149,8691971","55,49090201",370,Beberibe,-8.003341827,-34.89751891
-164,Vinte De Julho,Praça,Marques De Baipendi,95532,10.149/69,Praça Vinte de Julho,"726,4894225","111,6956388",280,Campo Grande,-8.025503039,-34.87881908
-165,Vinte De Julho,Praça,Rua Marques De Baipendi/Rua Cirilino Afonso De Melo,95532,10.149/69,Praça Vinte de Julho,"633,5166977","127,1056206",280,Campo Grande,-8.025687475,-34.87890863
-166,Vinte De Julho,Praça,Rua Carlindo Afonso De Melo/Rua Farias Neves/Rua Tenente Guimaraes,95532,10.149/69,Praça Vinte de Julho,"2588,241316","197,1373416",280,Campo Grande,-8.025966409,-34.8788127
-167,Bom Pastor,Praça,Rua Bom Pastor/ Avenida Mucio Uchoa Cavalcanti,66087,"",Praça do Bom Pastor,"5969,548876","400,9071405",698,Iputinga,-8.048658972,-34.94001791
-168,Simão Borba,Praça,Rua Simao Borba/ Rua Parente Viana/Rua Ernesto Nazareth,70432,"",Praça Simão Borba,"1896,804067","193,1336635",850,Areias,-8.096811109,-34.92477434
-169,Jules Rimet/1º Jardim De Boa Viagem,Praça,Avenida Boa Viagem,29130,10266/70,Praça Jules Rimet,"1703,498709","352,6030181",205,Boa Viagem,-8.101686472,-34.8854526
-170,"",Area Verde,Avenida Governador Agamenon Magalhaes,,"","","4456,830917","430,5931178",108,Santo Amaro,-8.042215097,-34.88329789
-171,La Corunã / 2ª Jardim De Boa Viagem,Praça,Avenida Boa Viagem,66060,14469/82,Praça La Coruna,"7110,311551","537,0944197",205,Boa Viagem,-8.104925343,-34.88705959
-172,Parque Infantil Walt Disney,Praça,Rua Zeferino Galvao,75043,10110/73,Parque Infantil Walt Disney,"1372,87394","151,103309",205,Boa Viagem,-8.107954945,-34.88907809
-173,Cidade Do Porto,Praça,Avenida Conselheiro Aguiar / Rua Senador Helio Coutinho,79766,14665/84,Praça Cidade do Porto,"734,8505691","123,35874",205,Boa Viagem,-8.105831462,-34.88912514
-174,Cidade Do Porto,Praça,Avenida Conselheiro Aguiar / Rua Jornalista Francisco Almeida,79766,14665/84,Praça Cidade do Porto,"606,0991014","94,86623274",205,Boa Viagem,-8.10641352,-34.88937024
-175,Cidade Do Porto,Praça,Avenida Cons Aguiar / Rua Sen Helio Coutinho / Avenida Eng Domingos Ferreira / Rua Jorn Francisco Almeida,79766,14665/84,Praça Cidade do Porto,"2255,338994","199,061774",205,Boa Viagem,-8.106038844,-34.88944621
-176,Visconde De Mauá,Praça,Rua Barao Da Vitória,66745,"",Praça Visconde de Mauá,"1337,577999","157,947137",27,Santo Antonio,-8.066949294,-34.88301092
-177,Visconde De Mauá,Praça,Rua Regueira Costa/ Rua Gal Abreu E Lima,66745,"",Praça Visconde de Mauá,"549,5504151","105,9155867",183,Rosarinho,-8.032290771,-34.89841292
-178,Artur Oscar / Arsenal De Marinha,Praça,Rua Da Guia / Rua Do Observatório,65870,"",Praça Arsenal da Marinha,"2900,795794","209,5647739",19,Recife,-8.061041053,-34.87128455
-179,Treze De Maio,Parque,Rua Da Saudade/ Rua Joao Lima/Rua Do Hospicio,67024,"",Parque Treze de Maio,"70434,49974","1060,155433",108,Santo Amaro,-8.056972105,-34.8815344
-180,Da Convenção,Praça,Avenida Beberibe,66265,00237/33,Praça da Convenção,"1990,030653","245,5621183",370,Beberibe,-8.002903481,-34.89772051
-181,Da Convenção,Praça,Rua Praca Da Convencao,66265,00237/33,Praça da Convenção,"328,6442029","93,0640377",370,Beberibe,-8.002374716,-34.89726771
-182,Do Berardo,Praça,Rua Joao Crescencio/Ricardo Salazar/Adolfo Criacao Antonio De S,122076,"",Praça do Berardo,"559,8748705","83,88363428",647,Madalena,-8.05663446,-34.91250896
-183,Beatriz Pereira Carneiro,Praça,Rua Dona Sinha Menezes/ R Dona Leonor Porto,66095,00274/41,Praça Beatriz Pereira Carneiro,"415,2766616","77,37297459",108,Santo Amaro,-8.040415151,-34.87065066
-184,Prof. Agamenon Magalhães,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Joaquim Rabelo,65951,13.894/79,Praça Professor Agamenon Magalhães,"572,2265889","91,56246707",108,Santo Amaro,-8.043876748,-34.88213478
-185,Ministro Joao Gonçalves De Souza/ Gaspar Perez,Praça,Rua Borges Da Fonseca/Rua General Vargas,89451,13739/79,Praça Ministro João Gonçalves de Souza,"4086,301839","314,9711285",698,Iputinga,-8.048164548,-34.94373587
-186,Forte Do Arraial Novo Do Bom Jesus,Parque,Rua Antonio Valdevino Costa/Est Do A Novo Do B Jesus/R Maravilha/ R Dezesseis De Outubro,55611,08822/62,Parque do Forte do Arraial Novo do Bom Jesus,"16762,7938","535,48799",701,Torroes,-8.05849178,-34.93190824
-187,Forte Do Arraial Novo Do Bom Jesus,Parque,Rua Profa Laura Ferreira Da Costa/Est Do Forte Do Arraial N Do Bom Jesus/R Antonio Valdevino Costa,55611,08822/62,Parque do Forte do Arraial Novo do Bom Jesus,"25119,09718","829,7871632",680,Cordeiro,-8.056643274,-34.93093265
-188,Eça De Queiroz,Praça,Rua Januario Barbosa/Avenida Visconde De Albuquerque/R Des Luiz Salazar / Rua Pessoa De Melo,66400,07413/61,Praça Eça de Queiroz,"2040,910809","196,034964",647,Madalena,-8.050718298,-34.90697695
-189,Solange Pinto Melo,Praça,Rua Real Da Torre/ Rua Jose Osorio,66966,10725/76,Praça Solange Pinto Melo,"6358,531078","511,4746673",647,Madalena,-8.052486506,-34.90866922
-190,Solange Pinto Melo,Praça,Rua Jose Osorio/ Rua Real Da Torre,66966,10725/76,Praça Solange Pinto Melo,"1227,116597","260,6036692",647,Madalena,-8.054042493,-34.90886132
-191,Tobias Vitorino,Praça,Rua Barao De Tracunhaem/R Dr Paulo Ramos/ R Luiz Clericuzzi,63045,1607195,Praça Tobias Vitorino da Silva,"741,9249354","96,6305734",353,Cajueiro,-8.012621221,-34.88648683
-192,Da Redenção,Praça,Rua Antonio Borges Uchoa/ Praca Da Redencao,88269,"",Praça da Redenção,"472,8294025","100,5396734",710,Engenho Do Meio,-8.055797033,-34.9457789
-193,Domingos Giovaneti,Praça,Avenida Beira Rio/ R Padre Anchieta/ R Clovis Bevilacua,66338,03263/59,Praça Domingos Giovanetti,"2061,912722","226,5622878",647,Madalena,-8.047287513,-34.90435936
-194,Astério Rufino Alves/ Da Estância/Professora Julieta Moura,Praça,Avenida Estancia/Rua Barros Sobrinho/Rua Dr Adelino Filho,98655,12237/76,Praça Astério Rufino Alves,"601,2742232","110,6864634",850,Areias,-8.086152993,-34.93252543
-195,Luiz Gonzaga,Praça,Rua Engenho Boa Sorte / Rua Engenhjo Barro Alto / Rua Engenho Tabare / Rua Engenho Curralinho,11495,16868/03,Praça Luiz Gonzaga,"952,3527457","116,198888",884,Cohab,-8.114512026,-34.95083597
-196,Tertuliano  Feitosa,Praça,Rua Ascenso Ferreira/Rua Carlos Fernandes/R Nogueira Limar Fonseca Oliveira,67016,01847/52,Praça Tertuliano Feitosa,"12538,28373","467,7275739",302,Hipodromo,-8.031892077,-34.88655079
-197,Ulisses Leon De Oliveira/ Men De Sa,Praça,Rua Madre Rosa Gatorno/Rua Marques De Baipendi/R Prof Jeronimo Gueiros,67040,1010/68,Praça Ulisses Leon de Oliveira,"2229,781496","203,6117223",302,Hipodromo,-8.02933478,-34.88946523
-198,Vereador Antonio Luiz Neto,Praça,Rua Dr Raimundo Cavalcanti  Uchoa/ Avenida Prof Jose Dos Anjos/ Rua Petronila Botelho,89427,10099/69,Praça Antônio Luiz,"6854,444744","444,795513",930,Ponto De Parada,-8.028152063,-34.89072248
-199,Professor Luiz Inácio Pessoa De Melo,Praça,Avenida Santos Dumont/R Couto Magalhaes//Rua Jose Alexandre Cacador,66613,11203/73,Praça Luiz Inácio Pessoa de Mello,"1514,688478","174,9401662",930,Ponto De Parada,-8.030706977,-34.89487228
-200,Phaelante Da Câmara,Praça,Avenida Norte/Avenida Santos Dumont,66818,06242/63,Praça Phaelante da Câmara,"2535,501914","204,9571535",183,Rosarinho,-8.033021471,-34.89645357
-201,Amaro Albino Pimentel,Praça,Avenida Eng. Agamenon Magalhães De Melo / Rua Canapolis,95230,14182/80,Praça Amaro Albino Pimentel,"1927,377072","240,2245759",191,Tamarineira,-8.029928162,-34.89786528
-202,Jose Sales Filho/ Ponte Da Torre,Praça,Avenida Beira Rio,89460,13531/78,Praça José Sales Filho,"2203,347699","234,5759987",655,Torre,-8.045159731,-34.9046566
-203,Professor Coelho De Almeida,Praça,Avenida Caxanga/Avenida Mario Alvares Pereira De Lyra/R Cons Silveira De Souza/R Prof Coelho De Almeida,66206,02101/53,Praça Professor Coelho de Almeida,"4519,802419","319,5509154",698,Iputinga,-8.045449563,-34.93159909
-204,Pinto Damaso Da Varzea,Praça,Avenida Afonso Olindense/Rua Coronel Pacheco/ Prc Pinto Damaso,66834,00053/95,Praça Pinto Damaso,"1703,675725","163,736955",736,Varzea,-8.048372188,-34.95930836
-205,Manuel Markman,Praca,Rua Joao Tude De Melo/Rua Leonardo Bezerra Cavalcante,6971,1578893,Praça Manuel Markman,"1150,677973","306,9485043",469,Parnamirim,-8.036473407,-34.90945407
-206,Pinto Damaso Da Varzea,Praça,Avenida Afonso Olindense /Rua Azeredo Coutinho/Rua Coronel Pacheco,66834,00053/95,Praça Pinto Damaso,"6638,082271","344,2474567",736,Varzea,-8.049159781,-34.9594845
-207,Do Caxanga,Praça,Avenida Caxanga/ Praca Do Caxanga,66168,"",Praça do Caxanga,"1895,99331","205,5588169",744,Caxanga,-8.031182701,-34.95495451
-208,Frei Caneca,Praça,Rua Imperial/Avenida Sul,,"","","3084,265215","274,8852177",35,Sao Jose,-8.072316377,-34.88172272
-209,Joao Xxiii,Praça,Rua Itauna/ Rua Maranguape,118699,15606/92,Praça João Vinte e Três,"1077,288239","207,643102",752,Curado,-8.083224468,-34.95535994
-210,Mercia De Albuquerque,Praça,Rua Capitao Manuel De Aguiar/Rua Capitao Francisco Coutinho/Rua Capitao Sebastiao Ferreira,74314,"",Praça Mercia de Albuquerque,"1612,206414","157,4365621",850,Areias,-8.095123619,-34.93238217
-211,Olavo Bilac,Praca,Rua Do Hospicio/ Rua Do Principe,119725,14478/82,Praça Olavo Bilac,"3360,559604","435,4005371",108,Santo Amaro,-8.057103901,-34.88299549
-212,Des. Carlos Xavier Paes Barreto/Pais E Filhos,Praça,Rua Vicente Licinio/ Avenida Senador Robert Kennedy/ R Manoel Bekmann/ Rua Anita Garibaldi,98566,15961/94,Praça Desembargador Carlos Xavier Paes Barreto,"1596,810785","157,1561337",213,Ipsep,-8.118049717,-34.92051981
-213,Aleixo De Oliveira,Praça,Rua Aristides Lobo/Rua Adolfo Faro/Rua Helio Brandao,65994,02863/54,Praça Aleixo de Oliveira,"9872,531916","444,0994093",213,Ipsep,-8.112473679,-34.92441046
-214,Sebastião Malta/ Sesquicentenário,Praça,Rua Alberto Lundgren / Avenida Dona Carentina / Avenida Governador Roberto Silveira,66931,10551/72,Praça Sebastião Malta,"3025,505849","208,3029448",221,Jordao,-8.136669744,-34.9369309
-215,Marcantonio Vilaca/ Das Cassuarinas,Praça,Rua Alexandrino Martins Rodrigues / Rua Joaquim Carneiro Da Silva / Rua Mario Gomes De Matos,75035,16606/00,Praça Marcantônio Vilaça,"7929,669573","380,7024437",248,Pina,-8.098990627,-34.88932383
-216,Brigadeiro Ivo Borges/ Seleção 70,Praça,Avenida Armindo Moura / R Capitao Lopes Braganca / R Eugenio Coimbra Junior/R General Charles De Gaulle,89494,10.367/71,Praça Selecao 70,"5433,435654","312,3651693",205,Boa Viagem,-8.150688881,-34.91047983
-217,Da Rua Carlos Gomes / Do Cavalo Dourado,Praça,Rua Gomes Taborda / R Carlos Gomes,119784,"",Praça da Rua Carlos Gomes/ do Cavalo Dourado,"228,4562746","53,58246286",663,Prado,-8.059028696,-34.91222267
-218,Do Derby,Praça,Avenida Governador Agamenon Magalhaes/Rua Jener De Souza,66290,"",Praça do Derby,"13334,32713","508,0785719",140,Derby,-8.056286413,-34.89910823
-219,Do Derby,Praça,Avenida Governador Agamenon Magalhaes/Rua Jener De Souza,66290,"",Praça do Derby,"13021,8582","496,0345482",140,Derby,-8.057136516,-34.89908761
-220,Poeta Fernando Pessoa/Nossa Senhora De Fátima,Praca,Rua Amaro Bezerra,15369,15268/89,Praça Poeta Fernando Pessoa,"1362,496282","149,2592532",140,Derby,-8.055958926,-34.90106576
-221,Correia De Araujo / Do Entroncamento,Praça,Avenida Rui Barbosa/Avenida Cons Rosa E Silva,66370,00033/37,Praça do Entroncamento,"5841,829382","371,3801656",167,Gracas,-8.050457829,-34.897231
-222,Da Feb (Força Expedicionaria Brasileira),Praça,Rua Quarenta E Oito / Rua Amapa,66435,00579/49,Praça da FEB,"1203,000481","189,6741944",132,Aflitos,-8.040594222,-34.89473909
-223,Capiba,Praça,Rua Manoel Brandao/R Urca / Para,100501,16897/03,Praça Capiba,"1716,461909","259,5106646",353,Cajueiro,-8.009030103,-34.88522124
-224,Onze De Junho,Praça,Rua Moraes De Inhama/Avenida Cruz Cabuga/Rua Dona Leonor Porto,66753,"",Praça Onze de Junho,"9271,832019","451,6879406",108,Santo Amaro,-8.044146364,-34.87414291
-225,Onze De Junho,Praça,Avenida Prefeitom Artur Lima Cavalcanti,66753,"",Praça Onze de Junho,"1132,427383","149,8534553",108,Santo Amaro,-8.045000556,-34.87471854
-226,Melvin Jones,Praça,Rua Padre Roma/Rua Sebastiao Malta Arcoverde,66656,09765/67,Praça Melvin Jones,"901,3195872","149,8376561",469,Parnamirim,-8.033058472,-34.90728339
-227,Mano Teodosio,Praça,Estra Real Do Poco,96784,15630/92,Praça Mano Teodósio,"70,8079734","36,81935482",477,Poco,-8.036080917,-34.92464338
-228,De Apipucos,Praça,Rua Apipucos  / Rua Alianca,108839,"",Praça de Apipucos,"1448,202254","243,5215948",507,Apipucos,-8.020943313,-34.93562139
-229,Vila Do Moinho,Praça,Estrada De Belem/Rua Castro Alves,77232,"",Praça Vila do Moinho Recife,"210,3218416","69,95004306",175,Encruzilhada,-8.037152315,-34.89067859
-230,Othon Bezerra De Melo,Praça,Rua Regina/ Rua Ana/ Rua Ida,66770,06397/60,Praça Othon Bezerra de Melo,"1060,21374","115,4269351",582,Macaxeira,-8.015465916,-34.92860365
-231,Largo Da Encruzilhada,Praça,Avenida Joao De Barros/Rua Dr Jose Maria/Avenida Beberibe,21415,"",Largo da Encruzilhada,"1718,357169","265,1192845",175,Encruzilhada,-8.037350908,-34.89142217
-232,Professor Ageu Magalhães,Praça,Rua Jenner De Souza,65897,02359/55,Praça Professor Ageu Magalhães,"649,8328252","106,7952819",140,Derby,-8.05733666,-34.90025304
-233,Manuel Markman,Praca,Joao Tude De Melo,6971,1578893,Praça Manuel Markman,"1021,657241","169,4780011",469,Parnamirim,-8.036620728,-34.90947217
-234,Jose Sales Filho,Praca,Avenida Beira Rio,89460,13531/78,Praça José Sales Filho,"1603,94372","182,9870197",655,Torre,-8.044528018,-34.90482779
-235,Doutor Pedro Alves Neto,Praça,Avenida Beberibe/ Rua Da Regeneracao,120154,16068/95,Praça Doutor Pedro Alves Neto,"198,166606","65,58093217",337,Agua Fria,-8.018591518,-34.89320584
-236,Doutor Pedro Alves Neto,Praça,Avenida Beberibe/ Rua Dr Eudes Costa,120154,16068/95,Praça Doutor Pedro Alves Neto,"227,2885913","72,23527866",337,Agua Fria,-8.01839404,-34.89336753
-237,Profeta Joseph Smith,Praça,Avenida Engenheiro Domingos Ferreira,86487,14706/85,Praça Profeta Joseph Smith,"804,7101549","199,8434613",248,Pina,-8.098106912,-34.88634993
-238,Professor Dr Antonio Figueira/ Estrada Real Do Poco,Praça,Estrada Real Do Poco,78255,16855/03,Praça Professor Doutor Antônio Figueira,"358,8856272","80,66643556",477,Poco,-8.03549863,-34.92324247
-239,Josenildo Paes Barreto,Praça,Rua Joao Elisio Ramos/ Rua Dr Joao Marques,75175,15107/88,Praça Josenildo Paes Barreto,"484,3838078","85,55103956",760,Ilha Do Retiro,-8.06303777,-34.90501267
-240,Dom  Miguel  Valverde,Praça,Rua Amaro Coutinho/Rua Fernando Cesar/R Inacio Galvao Dos Santos,66699,5463/59,Praça Dom Miguel Valverde,"3166,228127","260,3353836",175,Encruzilhada,-8.03553322,-34.89271976
-241,Abc,Praça,Rua Jose Bezerra Cavalcante/Avenida Manoel Goncalves Da Paz/R Jetucupapo/R Neto Campelo Junior,119687,10531/72,Praça A.B.C,"5212,5892","304,1139393",787,Mustardinha,-8.073494139,-34.91860271
-242,Jornalista Antônio Teixeira Junior,Praça,Avenida Engenheiro Domingos Ferreira / Rua Viscinde De Jequitinhonha,119695,14.518/83,Praça Jornalista Antônio Teixeira Junior,"1020,981431","144,5287282",205,Boa Viagem,-8.129670524,-34.90246713
-243,Alberto Pinto,Praça,Rua Arnobio Marques/ Avenida Agamenon  Magalhaes,119679,13698/79,Praça Alberto Pinto,"2083,579927","196,662",108,Santo Amaro,-8.045053479,-34.88864
-244,Faca Cega,Praça,Rua Currais Novos / Rua Guama / Rua Gurupa / Rua Mecejana,119733,"",Praça Faca Cega,"649,8076224","101,8895872",884,Cohab,-8.119843092,-34.95611551
-245,Da  Rua Dr Julio Campelo,Praça,Rua Dr Julio Campelo/Rlucilo Varejao/ Rua Jose Pessoa De Queiroz,119750,"",Praça Doutor Júlio Campelo,"318,2000338","79,48062686",698,Iputinga,-8.032431242,-34.93133529
-246,Jornalista Otávio Sarmento Cardoso/Coliseu,Praça,Rua Prof Otavio Sarmento Cardoso/ R Torres Gomes/ R Dr Jose Munguba Sobrinho,119768,"",Praça Jornalista Otávio Sarmento Cardoso/Coliseu,"246,0770681","70,80642795",736,Varzea,-8.037252355,-34.95602863
-247,Angélica,Praça,Rua Angelica/ Rua Claudio Brotherhood,119776,"",Praça Angélica,"551,8575551","103,2263689",680,Cordeiro,-8.053687749,-34.93151417
-248,Movicar,Praça,Rua Capitao Joao Lopes/R Capitao Vicente Moutinho/R Capitao Jeronimo Amaral,119792,"",Praça Movicar,"1906,669984","172,7378119",850,Areias,-8.093465192,-34.93254057
-249,Das Crianças,Praça,Rua Luiz Sepulveda/Rua Capitao Paulo Teixeira/Rua Capitao Domingos Da Costa,119806,"",Praça das Criancas,"5563,874378","367,0164975",850,Areias,-8.098665789,-34.93360387
-250,Pedro Brandão,Praça,Rua Jeronimo Inojosa/Rua Sargento Afonso Rodrigues/R Francisco Do Rego/R Capitao Francisco Da Rocha,119814,"",Praça Pedro Brandão,"1600,907408","154,5103328",850,Areias,-8.097704971,-34.93173386
-251,Eduardo Cardoso/Gregorio Albuquerque,Praça,Rua Alvaro Fragoso/R Bento Teixeira/R Capitao Gregorio De Albuquerque/Trv Capitao G De Albuquerque,119822,"",Praça Eduardo Cardoso/Gregório Albuquerque,"7385,393837","403,7780218",850,Areias,-8.09643717,-34.93142046
-252,Irmã Douraci,Praça,Largo Da Mustardinha/Avenida Manoel Goncalves Da Paz/,119849,"",Praça Irmã Douraci,"615,1753193","100,255174",787,Mustardinha,-8.07181677,-34.91832397
-253,El Salvador,Praça,Avenida Sao Paulo,119865,"",Praça El Salvador,"158,2687097","56,59002081",868,Jardim Sao Paulo,-8.076677599,-34.94207711
-254,Noel Rodrigues,Praça,Rua Guy Bastos Junior/ R Comendador Franco Ferreira/Trv Comendador F Ferreira/ Avenida General San Martin,119881,"",Praça Noel Rodrigues,"3222,074603","252,5391923",817,San Martin,-8.067143641,-34.92752222
-255,Noel Rodrigues,Praça,Rua Guy Bastos Junio/ Rua Comendador Franco Ferreira/ Avenida General San Martin,119881,"",Praça Noel Rodrigues,"961,6499243","128,0668166",817,San Martin,-8.066568087,-34.92736969
-256,Dom Bosco,Praça,Rua Mineirolandia/Rua Tenente Mindelo,119890,"",Praça Dom Bosco,"130,0923685","51,46351917",817,San Martin,-8.075048933,-34.9299451
-257,Nossa Senhora De Fátima,Praça,Rua Professor Silvio Da Cunha Santos/R Dr Telesphoro Fragoso/Rua Pedro Melo,119903,"",Praça Nossa Senhora de Fátima,"1324,103831","188,0204128",817,San Martin,-8.072333057,-34.93061711
-258,Professora Antonia Galvão,Praça,Rua Alegre / R Julio Ramos/ Rua Zeferino Agra,119920,"",Praça professora Antonia Galvão,"269,0575661","74,04703771",337,Agua Fria,-8.021164799,-34.89318526
-259,Desenhista Eulino Santos,Praça,Rua Da Regeneracao/R Desenhista Eulino Santos,119938,"",Praça desenhista Eulino Santos,"1439,129443","204,7189888",329,Arruda,-8.022917866,-34.88311476
-260,Do Cajueiro,Praça,Rua Tenente Wanderley/R Maria Cristina Tasso De Souza/R Couto Soares,119946,"",Praça do Cajueiro,"1123,398111","147,4336388",353,Cajueiro,-8.01281867,-34.88307815
-261,Sementes Do Amanhã,Praça,Avenida Sebastiao Salazar/ Rua Couto Soares,119954,"",Praça Sementes do Amanhã,"226,0414424","61,83185874",310,Campina Do Barreto,-8.013098914,-34.88177275
-262,Do Colégio Jarbas Pernambucano,Praça,Avenida Sebastiao Salazar/ Rua Barao De Tamandare,119970,"",Praça do Colégio Jarbas Pernambucano,"802,8852493","110,9358189",353,Cajueiro,-8.011087595,-34.88380149
-263,Lagoa Do Araça,Parque,Rua Jose Ferreira Lins / Rua Engenheiro Jose Brandao Cavalcante,124273,"",Praça Lagoa do Araça,"148288,3743","1509,688659",264,Imbiribeira,-8.094360461,-34.91491461
-264,Radio Capibaribe,Praça,Rua Coronel Urbano Ribeiro De Sena/Rua Noroeste,119989,"",Praça Rádio Capibaribe,"1744,478146","165,9812508",310,Campina Do Barreto,-8.014349772,-34.88321901
-265,Radio Capibaribe,Praça,Rua Coronel Urbano Ribeiro De Sena,119989,"",Praça Rádio Capibaribe,"807,3316781","148,7562522",310,Campina Do Barreto,-8.013924604,-34.88304571
-266,Da Igreja,Praça,Rua Capitao Pero Miranda,123625,"",Praça da Igreja,"859,1078349","128,7127723",884,Cohab,-8.129980705,-34.94806974
-267,Da Comar,Praça,Rua Joao Cavalcante Petribu/Rua Hidelbrando De Vasconcelos,122025,"",Praça do Comar,"477,2616045","97,36195339",396,Dois Unidos,-7.990179773,-34.91556605
-268,Raizes,Praça,Rua Engenho Bem Querer / Rua Engenho Bela Flor / R Engenho Barra Branca / R Engenho Bela Rosa,122033,"",Praça Raizes,"667,0092044","98,37639046",884,Cohab,-8.112185887,-34.95060483
-269,Da Amizade,Praça,Rua Leila Felix Karam/Rua Dr Aniceto Ribeiro Varejao/R Des Capistrano De Moraes E Silva,122041,"",Praça da Amizade,"799,5704709","133,0276174",701,Torroes,-8.065087774,-34.93222682
-270,Do Fundão,Praça,Avenida Beberibe,122068,"",Praça do Fundão,"2191,966077","327,127136",345,Fundao,-8.013909336,-34.88944698
-271,Professor Trajano,Praça,Rua Prof Trajano De Mendonca / R Jose De Holanda / R Real Da Torre,122050,"",Praça Professor Trajano,"201,0721813","86,48307187",655,Torre,-8.044982837,-34.90996987
-272,Sao Francisco De Assis,Praça,Rua Vale Do Siriji /R Vale Do Jaguaribe/ R Soldado Jose Vivancio,122084,"",Praça São Francisco de Assis,"573,533752","109,3540125",736,Varzea,-8.036490888,-34.9757881
-273,Tamarindo,Praça,Rua Engenho Firmeza / Rua Engenho Timbi / Rua Engenho Tabare / Rua Engenho Segredo,122092,"",Praça Tamarindo,"672,8242585","98,44684556",884,Cohab,-8.114388946,-34.9501783
-274,Da Rua Tenente João Mauricio Campos,Praça,Rua Tenente Joao Mauricio Campos / Rua Capitao Luiz Dorneles,122114,"",Praça  João Maurício Campos,"411,5547959","134,6410842",884,Cohab,-8.121774812,-34.94565974
-275,Artur Lima Cavalcanti,Praça,Avenida Prefeito Artur Lima Cavalcanti,122130,"",Praça Artur Lima Cavalcanti,"1223,656693","149,7739247",108,Santo Amaro,-8.045358016,-34.874266
-276,Da Trv José Leite,Praça,Travessa Jose Leite,122149,"",Praça da travessa José Leite,"94,73465903","53,02123994",248,Pina,-8.089403777,-34.88886883
-277,Luiz Americo Willians,Praça,Rua Engenho Belo Prado / Rua Engenho Bom Mirar/R Engenhoc Serra Grande/ Rua Engenho Flor Do Bosque,122157,"",Praça Luiz Americo Willians,"668,46137","99,29821226",884,Cohab,-8.113285082,-34.95039008
-278,Joao Rique,Praça,Rua  Joao Rique/Rua Lucilo Varejao/ Rua Des Oscar Coutinho,122165,"",Praça João Rique,"1415,597416","176,4593521",698,Iputinga,-8.032167777,-34.93204838
-279,Jose Maria Do Nascimento Paraiba/ Do Lixão,Praça,Rua Juparana / Rua Codajas / Avenida Valenca,122181,"",Praça José Maria do Nascimento Paraíba/Lixão,"1618,617645","160,8836723",884,Cohab,-8.119127435,-34.95361817
-280,Da Rua Abc,Praça,Rua Abc / Rua Aprigio Alves,122190,"",Praça da rua ABC,"390,8697151","82,34457549",779,Afogados,-8.082779575,-34.91067924
-281,Santa Luzia,Praça,Rua Lupianopolis / Rua Mandaguacu / Rua Manduri / Rua Rio Paracatu,122211,"",Praca Santa Luzia,"638,0745256","99,45096145",884,Cohab,-8.115719677,-34.95500836
-282,Brasilit,Praça,Rua Engenheiro Vasconcelos Bittencourt/ Rua Abatia,122220,"",Praça Brasilit,"1259,280586","198,3804616",736,Varzea,-8.041706266,-34.95026367
-283,Sabere,Praça,Rua Emeterio Maciel/ Rua Frutuoso Gomes/Trv Frutuoso Gomes,122238,"",Praça Sabere,"427,7241101","93,5564935",736,Varzea,-8.03727147,-34.95239724
-284,Quitéria,Praça,Rua Joao Francisco Lisboa/Rua Michael Felix Karan/Rua Quiteria,122246,"",Praça Quitéria,"2407,262041","228,9815356",736,Varzea,-8.052537548,-34.95636268
-285,Carmela Dutra/ Ipiranga,Praça,Rua General Souza Doca/Rua General Guimaraes Cova,122254,"",Praça Carmela Dutra/Ipiranga,"8145,441642","385,1943452",779,Afogados,-8.078167137,-34.91432807
-286,Isabel Cabral,Praça,Rua Vicente Ribeiro De Barros/Rua Luis De Franca Da Costa Cabral,122262,"",Praça Isabel Cabral,"618,9778664","115,0839779",779,Afogados,-8.080062722,-34.91913278
-287,Joaquim Cardoso/ Da Biblioteca,Praça,Rua Francisco Uchoa/Rua Prof Augusto Wanderley Filho/Rua Jacira,122270,"",Praça Joaquim Cardoso/da Biblioteca,"1912,802965","177,4047017",779,Afogados,-8.082177592,-34.9080519
-288,Joao Miguel De Souza Junior I,Praça,R Valdemar Falcao / Avenida Visconde De Sao Leopoldo/R Dom Joao Moura/Trv Valdemar Falcao,122289,"",Praça João Miguel de Souza Junior,"1176,006711","162,9060915",710,Engenho Do Meio,-8.058880804,-34.94576938
-289,Joao Miguel De Souza Junior Ii,Praça,Rua Dom Joao Moura/ Trv Valdemar Falcao/ R Jose Dos Santos/Avenida Visconde De Sao Leopoldo,122289,"",Praça João Miguel de Souza Junior,"460,6567781","116,6631501",710,Engenho Do Meio,-8.059468402,-34.94566536
-290,Sitio Das Palmeiras,Praça,Rua  Alvaro Texeirade Mesquita/ Rua Bom Pastor /Rua Presidente Washington Luiz,122297,"",Praça Sítio das Palmeiras,"3579,992972","269,5430054",710,Engenho Do Meio,-8.051317352,-34.93922838
-291,Maria Sampaio Lucena,Praça,Avenida Pernambuco / Rua Santa Maria Madalena,122300,"",Praça Maria Sampaio Lucena,"1188,66719","139,9206339",884,Cohab,-8.120939851,-34.94593532
-292,Paulo Freire,Praça,Avenida Beira Rio /Rua Demostenes De Olinda,119830,"",Praça Paulo Freire,"587,5754442","103,4770385",647,Madalena,-8.04977648,-34.90498149
-293,Do Finado Leiteiro,Praça,Rua Serra Bonga / Rua Parintins / Rua Sabara / Rua Paulista,122122,"",Praça do Finado Leiteiro,"1204,455279","135,7920931",884,Cohab,-8.120234711,-34.94726276
-294,Dr Arnaldo Assunção,Parque,Rua Antonio Borges Uchoa/ Rua Antonio Curado/ R Manuel Alves Deusdara / R Governador Lopo Garro,122173,"",Parque Doutor Arnaldo Assunção,"28171,22471","659,1388628",710,Engenho Do Meio,-8.057223142,-34.94285155
-295,Coronel Silva Torres,Praça,Rua Coronel Silva Torres (Area Militar),122793,"",Praça Coronel Silva Torres,"302,6148758","89,10786573",140,Derby,-8.053406687,-34.90355401
-296,Da Rua Cordislândia,Praça,Avenida Marechal Cordeiro De Farias/ Rua Cordislandia/ R Cristovao Cavalcanti,122327,"",Praça da Rua Cordislândia,"683,1630116","138,716029",698,Iputinga,-8.039633133,-34.93494625
-297,Da Alegria,Praça,Rua Des Cunha Barreto/ Rua Da Alegria,122335,"",Praça da Alegria,"87,27662495","33,36986985",86,Boa Vista,-8.063708519,-34.88698962
-298,Da Comunidade,Praça,Rua Rio Indaia / Rua Rio Parnaiba / Rua Rio Juruena / Rua Rio Tapajos,122343,"",Praça da Comunidade,"1202,348231","134,2352612",884,Cohab,-8.116194218,-34.94763521
-299,Forte Do Brum,Praça,Avenida Militar,122360,"",Praça do Forte do Brum,"2525,816098","299,3225987",19,Recife,-8.052791938,-34.87148251
-300,Cívica,Praça,Rua Alexandre Moura/ Avenida Cruz Cabuga,122351,"",Praça Cívica,"3865,769456","228,128454",108,Santo Amaro,-8.046881037,-34.87599171
-301,Do Escorrego,Praça,Avenida Pernambuco / Rua Rio Arinos / Rua Rio Indaia / Rua Rio Caqueta,122378,"",Praça do Escorrego,"1268,806039","138,3767645",884,Cohab,-8.11750539,-34.94688157
-302,Estevão De Sá,Praça,Avenida Caxanga/ Rua Caxanga Agape,122394,"",Praça Estevão de Sá,"923,9800845","146,1293509",736,Varzea,-8.036645069,-34.94648015
-303,Da Rua Caxanga Agape,Praça,Avenida Caxanga/Rua Caxanga Agape,122386,"",Praça da Rua Caxangá Agape,"3628,343617","372,8035613",736,Varzea,-8.036157479,-34.94740386
-304,Herois Da Restauração/ Do Buraco,Praça,Rua Caja/Rua Oiticica Lins/Rua Calumbi /Rua Ipojuca,122424,"",Praça Herois da Restauração /do Buraco,"9903,512185","391,5153268",850,Areias,-8.097417499,-34.93563583
-305,Cristo Rei,Praça,Rua Sao Fidelis / Rua Diamantino / Rua Joanesia / Rua Marlieria,122416,"",Praça Cristo Rei,"964,3012094","120,0130238",884,Cohab,-8.120631578,-34.95473409
-306,Engenho Poeta / Do Rotary,Praça,Avenida Caxanga/ Rua Pedro Lund,122408,"",Praça Engenho Poeta/do Rotary,"4659,485191","473,7125944",736,Varzea,-8.034238461,-34.95088649
-307,Monsenhor Arruda Camara,Praça,Rua Antonio Vaz/Rua General Francisco Figueiroa,122440,"",Praça Monsenhor Arruda Camara,"1546,924287","187,8953178",850,Areias,-8.091585271,-34.93027685
-308,José Cicílio,Praça,Rua Capitao Jeronimo Amaral/ R Capitao Vicente Moutinho/Rua Capitao Amador Rodrigues,122432,"",Praça José Cicílio,"1801,860228","166,675315",850,Areias,-8.094189484,-34.9332826
-309,Antonio Bezerra Pontes,Praça,Praca Do Sena/Rua Capitao Fernao De Melo/Rua Capitao Domingos Da Costa,122505,"",Praça Antonio Bezerra Pontes,"664,1367707","121,4061259",850,Areias,-8.096969362,-34.93386564
-310,Da Mentira,Praça,Rua Capitao Amaro Cerqueira/ Rua Sargento Afonso Rodrigues/ R Cap F Da Rocha/ R Cap A Do Rego,122521,"",Praça da Mentira,"1724,992456","162,267547",850,Areias,-8.096804269,-34.9326179
-311,Da Rua Água Preta,Praça,Rua Gloria Do Goita / Rua Jaboataorua Agua Preta / Rua Lagoa De Itaenga,122467,"",Praça da Rua Água Preta,"773,5482101","143,1176428",884,Cohab,-8.123178781,-34.94748407
-312,Da Vitoria,Praca,Rua Capitao Gregorio De Albuquerque/Avenida Izabel De Goes,122475,"",Praça da Vtiória,"775,3141317","120,143224",850,Areias,-8.094423466,-34.93421939
-313,Da Avenida Da Recuperação,Praça,Avenida Da Recuperacao,122742,"",Praça da Avenida da Recuperação,"3999,450181","287,3981918",418,Guabiraba,-7.987094409,-34.93509587
-314,Vale Do Siriji,Praça,Rua Vale Do Siriji/ Rua Americo Virgilio,122491,"",Praça Vale do Siriji,"160,4927067","53,01332547",736,Varzea,-8.036230847,-34.97685972
-315,Da Rua Solanea,Praça,Rua Solanea/ Rua Mundau/ Rua Pirpirituba/ Rua Guaraquebaca,122548,"",Praça da Rua Solanea,"638,0243932","98,69835482",884,Cohab,-8.116536938,-34.95369235
-316,Arlindo Araújo Filho,Praca,Rua Professor José Calazans / 1º Travessa Da Rua Manuel Vieira,122530,"",Praca Arlindo Araujo Filho,"586,0486615","103,7666092",817,San Martin,-8.070507075,-34.93289333
-317,Cais Edgar Amorim,Praça,Avenida Rui Barbosa,122696,"",Praça Cais Edgar Amorim,"998,4940163","148,6232686",159,Jaqueira,-8.037148563,-34.90625213
-318,Dona Lindu,Parque,Avenida Boa Viagem,119997,17271/06,Parque Dona Lindu,"35964,94082","802,8984853",205,Boa Viagem,-8.14134971,-34.90415197
-319,Professor Rutilho,Praca,Rua Professor Rutilho/Rua Inaja/Rua Alcantara/Rua Pagy,122653,"",Praça Professor Rutilho,"325,2233158","79,31402076",922,Coqueiral,-8.088984264,-34.96728722
-320,Professor Rutilho,Praca,Rua Professor Rutilho/Rua Inaja,122653,"",Praça Professor Rutilho,"285,4649075","112,8570207",922,Coqueiral,-8.088673735,-34.96701413
-321,Simon Bolivar,Praça,Avenida Governador Agamenon Magalhaes/ Avenida Cruz Cabuga,122670,"",Praça Simon Bolivar,"1872,374536","327,9957765",108,Santo Amaro,-8.03719613,-34.87002708
-322,Simon Bolivar,Praça,Avenida Gov Agamenon Magalaes/ Avenida Cruz Cabuga,122670,"",Praça Simon Bolivar,"2025,082895","209,4298171",108,Santo Amaro,-8.03754857,-34.87007163
-323,Memorial Arco Verde,Parque,Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga,122661,"",Praça Memorial Arco Verde,"10339,30283","421,8546651",108,Santo Amaro,-8.036608071,-34.87010932
-324,Memorial Arco Verde,Parque,Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga,122661,"",Praça Memorial Arco Verde,"10339,30283","421,8546651",280,Campo Grande,-8.03610835,-34.87077364
-325,Da Avenida Mauricio De Nassau I,Praca,Avenida Mauricio Da Nassau/Rua Luiz Carlos Guilherme,122688,"",Praça da Avenida Maurício de Nassau,"785,7192735","126,3127473",680,Cordeiro,-8.043500973,-34.92234616
-326,Da Avenida Mauricio De Nassau Ii,Praca,Avenida Mauricio De Nassau/ Rua Luiz Carlos Guilherme,122688,"",Praça da Avenida Maurício de Nassau,"1691,510173","206,5356382",680,Cordeiro,-8.043888562,-34.92246046
-327,Silva Jardim,Praça,Avenida Dezessete De Agosto/ Rua Temporal,122700,"",Praça Silva Jardim,"150,7621806","50,42578273",485,Monteiro,-8.02777343,-34.92886297
-328,Quartel General,Praca,Rua Do Hospicio/ Rua Do Principe,122726,"",Praça Quartel General,"1080,948019","156,4262318",86,Boa Vista,-8.05811559,-34.88327215
-329,Jose Da Mota Silveira,Praça,Rua Arlindo Gouveia/Avenida Beira Rio,122734,"",Praça José da Mota Silveira,"839,101398","133,9655651",647,Madalena,-8.0564113,-34.90379033
-330,Joca Leal,Praça,Largo De Casa Amarela/ Rua Santa Izabel,122750,"",Praça Joca Leal,"1230,987551","145,1473401",434,Casa Amarela,-8.026715931,-34.91874033
-331,Amaro Lopes / Da Fumaça,Praça,Rua Principal / Rua Monte Horeb,122769,"",Praça Amaro Lopes/da Fumaça,"345,6430453","78,21207098",523,Alto Jose Do Pinho,-8.023460228,-34.90806016
-332,Sítio Da Trindade/Arraial Velho Do Bom Jesus,Parque,Estrada Do Arraial / Estrada De Entrocamento/Rua Pedro Afonso,122777,"",Parque Sítio da Trindade/Arraial V. do Bom Jesus,"61042,85109","1200,506821",434,Casa Amarela,-8.030021972,-34.91275685
-333,Jose Bonifacio,Praça,Trv Corrego Do Euclides/R Alto Jose Bonifacio/ R Alto Da Serrinha/R Alto Da Conquista/Rua Sao Jose,122785,"",Praça José Bonifácio,"1799,408584","189,3714813",540,Alto Jose Bonifacio,-8.012440826,-34.91357212
-334,Jenner De Souza,Praca,Rua Amaro Bezerra/ R Jenner De Souza,122807,"",Praça Jenner de Souza,"2697,020853","251,1074424",140,Derby,-8.054924707,-34.90034744
-335,Otávio  De Freitas,Praça,Rua Jener De Souza/ Rua Amauri De Medeiros,122815,15.310/90,Praça Otávio de Freitas,"5948,34773","308,1315588",140,Derby,-8.057887213,-34.90050161
-336,Da Rua José Pimentel,Praça,Rua Jose Pimentel/Rua Candido Portinari/Rua Adolfo Ferreira/Rua Fernando Ferrari,122823,"",Praça da Rua José Pimentel,"1380,627152","144,7232723",213,Ipsep,-8.114548305,-34.91848104
-337,Largo Dom Luiz,Praça,Largo Dom Luiz / Avenida Norte Miguel Arraes De Alencar,39683,10188/69,Largo Dom Luiz,"1197,226956","196,9104419",558,Vasco Da Gama,-8.020885691,-34.91734692
-338,General Euler Bents/ Da Sudene,Praça,Rua Jean Emile Favre/Rua Sartunino Meireles/Avenida Raimundo Diniz/Rua Silveira Neto,122831,"",Praça General Euler Bentes/da Sudene,"5511,929787","324,3389712",213,Ipsep,-8.113887535,-34.92190533
-339,Da Rua  Antonio Aparecido,Praça,Rua Soldado Antonio Aparecido/ Rua Sargrnto Rubens Leite/,122718,"",Praça do Monteiro,"110,3115835","49,11276012",884,Cohab,-8.127494322,-34.94578104
-340,Maria Vitalina Gonçalves Da Rocha / Do Bongi,Praça,Rua Dona Maria Augusta Nogueira/Rua Isaac Markman,122840,15319/90,Praça Maria Vitalina Gonçalves da Rocha,"1245,491931","157,2600773",809,Bongi,-8.063929747,-34.92180501
-341,Senhor Bartolomeu,Praça,Rua Coronel João Batista Do Rego Barros/ Rua Antonio  Batista De Souza,124052,"",PRC SENHOR BARTOLOMEU,"2441,237516","204,8035243",582,Macaxeira,-8.017911929,-34.93295864
-342,Da Quadra,Praça,Rua Cassatuba/Rua Catigua,124036,"",Praça da Quadra,"1555,426488","151,1045879",558,Vasco Da Gama,-8.012731231,-34.92137623
-343,Sitio Grande,Praça,Avenida Norte Miguel Arraes,124028,"",Praça Sitio Grande,"451,611361","157,5727712",493,Alto Do Mandu,-8.019765636,-34.92688557
-344,Nadir Colaço,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Ana/ R Pedro Paes De Mendonca,123994,"",Praça Nadir Colaco,"2649,360826","220,7338513",582,Macaxeira,-8.016750179,-34.92925896
-345,Jose Vieira,Praça,Rua Engenho Carauna/ Rua Manoel Serafim Do Couto,123986,"",Praça José Vieira,"881,3337946","148,1093809",264,Imbiribeira,-8.087220203,-34.90516133
-346,Jose Vieira,Praça,Rua Engenho Agua Clara/ Rua Manoel Serafim Do Couto,123986,"",Praça José Vieira,"644,2453277","142,6088285",264,Imbiribeira,-8.086877574,-34.90536075
-347,Da Morena,Praça,Avenida Rio Grande / Rua Rio Jaró / Rua Rio Uruguai,123978,"",Praça da Morena,"689,6837729","138,84815",884,Cohab,-8.116369718,-34.94830291
-348,Da Morena,Praça,Avenida Rio Grande / Rua Rio Gurupí/ Rua  Rio Parauá,123978,"",Praça da Morena,"834,2104048","198,8630516",884,Cohab,-8.11617109,-34.94890321
-349,Campo Do Lagoão,Praça,Rua Dr Cezar Montezuma / Rua Alfredo Martins De Almeida,123943,"",Praça Campo do Lagoão,"266,6207775","77,87109003",884,Cohab,-8.128845111,-34.95083215
-350,Boco-Moco/Da Ur 5,Praça,Rua Joao Joaquim De Mello Filho/R Gal Coelho Cintra/ R Des Thomaz C Wanderley/R Alvarenga Peixoto,123960,"",Praça Boco-Moco/da UR 5,"844,4557704","112,0257242",884,Cohab,-8.132747044,-34.94970258
-351,Nova Esperança,Praça,Rua Nova Alianca (Vila Uniao),123951,"",Praça Nova Esperança,"3226,833013","234,5224399",698,Iputinga,-8.030824123,-34.93262109
-352,Maracangaia,Praça,Rua Guaratuba/Rua Manacapuru/Rua Pirpirituba/Rua Obidos,124311,"",Praça Maracangaia,"633,4580659","97,09214895",884,Cohab,-8.116811063,-34.9546874
-353,Exposição Do Cordeiro,Parque,Avenida Mauricio De Nassau/ Rua Costa Maia/ Avenida Caxanga/ Rua Antero Mota,123927,"",Parque Exposição do Cordeiro,"160381,4823","1799,914586",680,Cordeiro,-8.044744487,-34.92535678
-354,Flor De Cheiro,Praça,Rua Quirinópolis / Rua Currais Novos/ Rua Maua/ Rua Itaperuna/,123919,"",Praça Flor de Cheiro,"697,760626","102,9298426",884,Cohab,-8.120125345,-34.95710594
-355,João Felipe Santiago,Praça,Rua Sapucaia / Avenida Santa Fe,123900,"",Praça João Felipe Santiago,"2176,278751","183,9188923",884,Cohab,-8.118819683,-34.95492513
-356,Gonçalo Leitão,Praça,Rua Cientista Nelson Chaves / Rua Capitao Joao De Albuquerque / Rua Goncalo Leitao,122858,"",Praça Gonçalo Leitão,"1488,511207","155,1105824",884,Cohab,-8.128727997,-34.94708775
-357,Da Rua Itacambira,Praça,Rua Itanage/Rua Potengy/Rua Itacambira/Trv Itanage,122866,"",Praça da rua Itacambira,"5811,734724","310,8062576",213,Ipsep,-8.105712489,-34.91999826
-358,Da Rua Arquiteto Luiz Nunes,Praça,Rua Frederico Lundgren / Rua Olivia Menelau,122874,"",Praça da Rua Arquiteto Luiz Nunes,"554,2506402","99,99438348",264,Imbiribeira,-8.089276206,-34.91049532
-359,Da Avenida Engenheiro Abdias De Carvalho,Praça,Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho,122882,"",Praça da Avenida Engenheiro Abdias de Carvalho,"41709,62016","1418,642127",752,Curado,-8.067910349,-34.93832462
-360,Da Avenida Engenheiro Abdias De Carvalho,Praça,Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho,122882,"",Praça da Avenida Engenheiro Abdias de Carvalho,"41709,62016","1418,642127",701,Torroes,-8.065952236,-34.93789124
-361,Do Largo Da Ponte Do Motocolombo,Praça,Avenida Sul/Avenida Marechal Mascarenhas De Moraes,122904,"",Praça do Largo da ponte do Motocolombo,"1470,134711","295,9558201",779,Afogados,-8.082850417,-34.90642201
-362,Rafael De Oliveira Alves,Praça,Rua Jundiai/ Alca Do Viaduto Da Ceasa,122912,"",Praça Rafael de Oliveira Alves,"2406,159","344,6494094",868,Jardim Sao Paulo,-8.075239891,-34.94558515
-363,Truaca/ Tempo De Crescer,Praça,Rua Engenho Mata Limpa / R Engenho Terra Vermelha / R Engenho Laje Bonita / R Engenho Pedra Lavrada,122947,"",Praça Truaca/Tempo de Crescer,"958,128845","117,9995163",884,Cohab,-8.111212827,-34.95146858
-364,Tempo De Crescer,Praça,Rua Engenho Linda Flor/ Rua Engenho Duas Barras/ R Engenho Laje Bonita,122955,"",Praça Tempo de Crescer,"701,6276531","103,987811",884,Cohab,-8.111087025,-34.95081999
-365,Luiz De Lacerda,Praça,Avenida Luiz De Lacerda/Rua Veneza/Avenida Historiador Jordao Emerenciano,122963,"",Praça Luiz de Lacerda,"2615,255209","216,9013635",698,Iputinga,-8.036268228,-34.94338123
-366,Do Caixito,Praça,Rua Flora Rica /Rua Pedro Boulitreau/ Rua Farroupilha,124265,"",Praça do Caixito,"2500,843725","197,3032998",817,San Martin,-8.074056853,-34.93108626
-367,Boco Moco,Praça,Rua Afonso Arinos/ R Arq Reinaldo Alves Maia/ R Des Thomaz C  Wanderley/ R Arq Maria Lucia Barbosa,123960,"",Praça Boco-Moco/da UR 5,"773,3633504","105,6514624",884,Cohab,-8.133478736,-34.95051865
-368,Ministro Salgado Filho,Praça,Avenida Marechal Mascarenhas De Moraes,66923,"",Praça Ministro Salgado Filho,"16155,88813","708,7220395",230,Ibura,-8.133597383,-34.91695028
-369,Professor Trajano,Area Verde,Rua Professor Trajano De Mendonca/ Rua Real Da Torre,,"","","1630,029912","175,0107743",655,Torre,-8.044593017,-34.90991802
-370,Da Rua Riacho Doce,Praça,Rua Riacho Doce / Rua Engenho Barra Azul / Rua Engenho Bela Vida,124303,"",Praça da Rua Riacho Doce,"1035,964447","126,5791558",884,Cohab,-8.112307346,-34.95126004
-371,Monteiro Lobato,Praça,Rua Pedro Malazarte / Rua Marquês De Rabico / Rua Do Garnize,124290,"",Praça Monteiro Lobato,"858,6068874","121,4712714",884,Cohab,-8.131932272,-34.94735949
-372,Robert Kennedy / Da Juventude,Parque,Rua Frof Nelson Melo/R Estudante Sinval Meira Henrique/Avenida Sen Robert Kennedy/R Dr Ruy L  Cavalcanti,122980,"",Praça Robert Kennedy/da Juventude,"19089,89439","548,372238",213,Ipsep,-8.116369686,-34.91858583
-373,Da Rua Joao Guilherme,Praça,Rua Jose Pimentel/R Esperidiao Cordeiro De Morais/R Antonio Conselheiro/R Joao Guilherme,124249,"",Praça da rua João Guilherme,"1356,111848","143,4003905",213,Ipsep,-8.115386499,-34.91944517
-374,Da Rua Junqueira Freire,Praça,Rua Jose D'Emery Carneiro/Rua Albino Reine/R Antonio Conselheiro/Rua Junqueira Freire,122920,"",Praça da rua Junqueira Freire,"1353,953936","143,0569782",213,Ipsep,-8.116225406,-34.92041192
-375,Da Rua Leonardo Da Vinci,Praça,Rua Leonardo Da Vinci/ Rua Goncalves De Magalhaes/  Rua Bernardino Da Costa,124320,"",Praça da rua Leonardo da Vinci,"922,3526752","126,5954978",264,Imbiribeira,-8.117564241,-34.91620587
-376,Encanta Moça/ Posto Policial,Praça,Rua Artur Licio,124338,"",Praça Encanta Moça/Posto Policial,"312,7448059","102,9105233",248,Pina,-8.093072428,-34.88864188
-377,Nargor Do Carmo,Praça,Rua Engenho Cangaca/ Rua Engenho Carauna/ Rua Engenho Camboinha,,"","","238,8462896","59,69773054",264,Imbiribeira,-8.089104566,-34.90575998
-378,Arquiteta Maria Lucia,Praça,Rua Esdras Farias/Rua Helio Brandao/Rua Americo De Campos/Rua Abdias Cabral De Moura,123455,"",Praça arquiteta Maria Lucia,"1655,188733","193,3996948",213,Ipsep,-8.103822755,-34.92671357
-379,Mauriceia,Praça,Rua Araraquara/Rua Itaquice/Rua Jean Emile Favre/ Rua Aracatuba,123463,"",Praca Mauriceia,"3321,672987","228,1329704",213,Ipsep,-8.107793342,-34.91646488
-380,Do Jacaré,Praça,Rua Raul Leoni/ Rua Simoes Neto/ Rua Edward Jenner/ R Deputado Antonio Heraclio,123480,"",Praça do Jacaré,"847,4175263","116,7881436",264,Imbiribeira,-8.118242401,-34.91781849
-381,Jose D'Emerycarneiro,Praça,Rua Jose D'Emery Carneiro/ R Inez De Castro/R Aristharcho Lopes/R Dr Samuel Hardman C De Albuquerque,123471,"",Praça Josen Demery Carneiro,"1356,488984","144,2699152",213,Ipsep,-8.117063431,-34.92137852
-382,Lins Do Rego/ Dos Brotos,Praça,Rua Lins Do Rego/ Rua Lopes Trovao/ Rua Paulo De Prontin/ Rua Manuel De Macedo,123498,"",Praça Lins do Rego/dos Brotos,"839,504624","116,3590438",264,Imbiribeira,-8.118709463,-34.91914364
-383,Circular Do Alto Jordao,Praça,Rua Toritama / Avenida Dona Carentina,123528,"",Praça Circular do Alto Jordão,"459,2242256","83,19132398",221,Jordao,-8.134237437,-34.94381569
-384,Mercado Municipal Da Ur-5,Praça,Rua Dr Otavio Moraes Vasconcelos / Rua Capitao Vicente Curado,123510,"",Praça Mercado Municipal da UR-5,"2244,732933","195,3386233",884,Cohab,-8.132432675,-34.94882182
-385,Da Rua Eliza  Leal Wanderley,Praça,Rua Eliza Leal Wanderley/Rua Deputado Celso Miranda/Rua Alaide Sa Leitao/ Avenida Presidente Dutra,123536,"",Praça da rua Elza Leal Wanderley,"655,2360626","120,4504733",213,Ipsep,-8.110108388,-34.92662342
-386,Da Rua Rosa M De Melo,Praça,Rua Deputado Edson Moury Fernandes/R Rosa Magalhaes/Avenida Pres Dutra/R Maria Jose Mota Da Silveira,123544,"",Praça da rua Rosa M. de Melo,"638,6699865","113,3485947",213,Ipsep,-8.108636596,-34.92682751
-387,Do  S,Praça,Avenida Mato Grosso / Rua Rio Ica / Rua Rio Ivo,123552,"",Praça do S,"134,1514041","49,28275324",884,Cohab,-8.122273432,-34.94705778
-388,Todos Os Santos,Praça,Rua Todos Os Santos/ Rua Sepetiba/ Rua Piassabussu/Rua Ilheus,123242,"",Praça Todos os Santos,"688,6905473","103,9248847",884,Cohab,-8.121080341,-34.95345689
-389,Da Rua Jatobá,Praça,Rua Arco Verde / Rua Sao Vicente Ferrer,123587,"",Praça da Rua Jatobá,"1181,594746","211,8338939",884,Cohab,-8.123667543,-34.94645226
-390,Vitoria Do Povo,Praça,Rua Jordania,123579,"",Praça Vitória do Povo,"2156,2766","180,3525019",884,Cohab,-8.118321894,-34.94616099
-391,Geraldo Vilas Boas,Praça,Rua Padre Manuel Ribeiro Da Rocha / R Barbara Heliodora / R Jose Do Patrocinio / R Cupertino Cintra,123560,"",Praça Geraldo Vilas Boas,"898,4454546","115,1289546",884,Cohab,-8.131276898,-34.94911435
-392,Dalva De Oliveira,Praça,Rua Guaranta / Rua Tocantinopolis / Rua Neopolis / Rua Sao Bento Do Una,123595,"",Praça Dalva de Oliveira,"1279,548747","136,9231118",884,Cohab,-8.116224924,-34.94646448
-393,Da Rua Quintino Bocaiuva,Praça,Rua Barao De Jaqui/Rua Comandante Garcia D'Avilla/R Quintino Bocaiuva/R Orestes Barbosa,123609,"",Praça da rua Quintino Bocaiuva,"1622,526345","157,7818781",213,Ipsep,-8.115533124,-34.91762026
-394,Da Rua Clotilde Machado Ii,Praça,Rua Pintor Antonio Albuquerque/Rua Clotilde Machado/Rua Itacambira,123617,"",Praça da Rua Clotilde de Machado I e II,"1030,971457","143,1872406",213,Ipsep,-8.107275838,-34.92177898
-395,Da Rua Clotilde Machado  I,Praça,Rua Itacambira/Rua Clotilde Machado/Rua Irapua,123617,"",Praça da Rua Clotilde de Machado I e II,"1221,103405","150,4829002",213,Ipsep,-8.107671976,-34.92143116
-396,Prof. Jeronimo Gueiros,Praça,Rua Joraci Camargo / Rua Pianco / Rua Santa Agda / Rua Tamara,123633,"",Praça professor Jeronimo Gueiros,"2806,9584","220,0939214",221,Jordao,-8.13499924,-34.9400395
-397,Da Rua Jose Rodrigues,Praça,Rua Jose Rodrigues,123641,"",Praça da rua José Rodrigues,"319,7112451","78,89388392",248,Pina,-8.090992837,-34.89257984
-398,Da Rua Guarabira,Praça,Rua Antonio Paes Barreto/ Rua Jose Da Silva Lucena / Rua Guarabira / Rua Sargento Silvino De Macedo,123650,"",Praça da rua Guarabira,"4369,880209","261,3782422",264,Imbiribeira,-8.114097516,-34.9074951
-399,Campo De Pelada Carlos Rios,Praça,/ Rua Moacir Albuquerque,123668,"",Praça Campo de pelada Carlos Rios,"4655,198816","324,1294534",264,Imbiribeira,-8.085727266,-34.91051676
-400,Do Terminal De Ônibus Da Ur-2,Praça,Rua Monica Raposo/ Avenida Santos,123676,"",Praça do Terminal de ônibus da UR-2,"134,4165693","59,27052889",884,Cohab,-8.114574472,-34.95533183
-401,Da Av Senador Robert Kennedy,Praça,Avenida Senador Robert Kennedy/Rua Condessa De Barral/ Rua Joao Ramalho/R Jose Fernandes Portugal,123889,"",Praça da Avenida Senador Robert Kennedy,"7036,075814","373,1950877",264,Imbiribeira,-8.117619511,-34.91837467
-402,Da Chesf,Praça,Avenida Engenheiro Abdias De Carvalho/ Rua Delmiro Gouveia Rua Quinze De Marco,123501,"",Praça da CHESF,"15330,68555","563,8253528",701,Torroes,-8.062636847,-34.93095874
-403,Do Bueirao,Praça,Rua Barreto Campelo/ Rua Zilda S De Santana,123692,"",Praça do Bueirão,"9910,705467","398,3720639",655,Torre,-8.046109959,-34.91386863
-404,Jacarezinho,Praça,Rua Iguatu/Travessa Garibaldi,123730,"",Praça Jacarezinho,"1502,539253","157,4161556",310,Campina Do Barreto,-8.018500505,-34.88289503
-405,Chao De Estrelas,Praça,Rua Doutor Elias Gomes,123714,"",Praça Chão de Estrelas,"9859,462253","497,6514423",310,Campina Do Barreto,-8.020573233,-34.87994024
-406,Novaes Filho,Praça,Rua Iguatu/ Rua Constanca/ R Coronel Mario  Liborio,123722,"",Praça Novaes Filho,"11766,57691","469,8948142",310,Campina Do Barreto,-8.016610587,-34.8819309
-407,Do Iml,Praça,Rua Engenho Babilonia / Rua Engenho Titara / Rua Engenho Mameluco,122939,16457/99,Praça do IML,"387,2821409","92,72932764",884,Cohab,-8.11286166,-34.94932137
-408,Getulio Vargas,Praça,Rua Raul Morais/Avenida General San Martin/ Rua Tomaz Gonzaga,123749,"",Praça Getulio Vargas,"478,3083861","128,3450325",680,Cordeiro,-8.054004913,-34.92272441
-409,Santa Lucia,Praça,Avenida Mauricio De Nassau/ R Santa Lucia/ Trv Santa Lucia,123757,"",Praça Santa Lucia,"374,0356016","77,43181915",698,Iputinga,-8.039151075,-34.93011995
-410,Chico Scince,Praça,Avenida Abdias De Carvalho,123773,"",Praça Chico Scince,"2122,671134","180,6815349",760,Ilha Do Retiro,-8.061929077,-34.90169642
-411,Dr Jose De Melo,Praça,Rua Padre Roma/ Rua Sebastiao Malta Arco Verde/Rua Afonso Celso,123781,"",Praça Doutor Jose de Melo,"314,9762781","82,22720575",469,Parnamirim,-8.032712668,-34.90740837
-412,Dr Jose De Melo,Praça,Rua Sebastiao Alves/ Rua Afonso Celso,123781,"",Praça Doutor Jose de Melo,"123,9371364","53,93551919",191,Tamarineira,-8.032659255,-34.90713144
-413,Alto Da Serrinha,Praça,Rua Alto Da Serrinha/Rua Alto Do Tiro,123803,"",Praça Alto da Serrinha,"296,1413762","83,7877403",949,Alto Santa Terezinha,-8.012648303,-34.90931455
-414,Alto Da Serrinha,Praça,Rua Alto Da Serrinha/Rua Alto Brasil,123803,"",Praça Alto da Serrinha,"32,65421047","23,36357214",949,Alto Santa Terezinha,-8.012563637,-34.90911644
-415,Arão Botler,Praça,Avenida Cidade De Monteiro/Rua Arao Botler,123811,"",Praça Arão Botler,"291,6971462","89,32863098",361,Porto Da Madeira,-8.008670426,-34.88814566
-416,Treze De Junho,Praça,Avenida Prof Jose Dos Anjoa/ Rua Santos Dumont/R Treze De Junho,123820,"",Praça Treze de Junho,"152,7096939","68,17119267",183,Rosarinho,-8.028282743,-34.894669
-417,Treze De Junho,Praça,Avenida Santoa Dumont/Rua Treze De Junho/Avenida Prof Jose Dos Anjos,123820,"",Praça Treze de Junho,"694,077783","115,5621761",183,Rosarinho,-8.028376755,-34.89501515
-418,Das Flores,Praça,Rua Euclides Fonseca/Rua Dr Jose Higino Ribeiro Campos/R Prof Joao Rodrigues,123838,"",Praça das Flores,"243,970787","88,71789312",175,Encruzilhada,-8.033250341,-34.89383251
-419,Encanamento,Praça,Estrada Do Encanamento,123846,"",Praça Encanamento,"2065,990973","282,7972507",434,Casa Amarela,-8.031791658,-34.91409823
-420,Bambu,Praça,Rua Nova Cruz / Rua Diamantina,123862,"",Praça Bambu,"946,3491635","120,5863519",884,Cohab,-8.121702686,-34.9544336
-421,Da Biblia,Praça,Estrada Da Mumbeca/ Travessa Da Estrada Da Mumbeca,52850,15568/92,Praça da Biblia,"529,6176626","101,5410172",418,Guabiraba,-7.964861101,-34.92333092
-422,Souto Filho,Praça,Rua Hoel Sette/Avenida Conselheiro Rosa E Silva/ Rua Do Futuro,66974,05640/59,Praça Souto Filho,"5582,462505","413,9905075",159,Jaqueira,-8.036102966,-34.90287433
-423,Prof. Calazans,Praça,Rua Galvao Raposo/Rua Jose Higino/ Rua Menezes Drumond/R Ernani Braga,77585,07413/61,Praça Professor Calazans,"3904,648033","242,0370332",647,Madalena,-8.050560695,-34.91019588
-424,Odília Freire Dos Santos,Praça,Avenida Montevideu/Avenida Governador Agamenon Magalhaes,75698,"",Praça Odília Freire dos Santos,"601,2040913","145,3617069",86,Boa Vista,-8.04948682,-34.89307306
-425,Aureo Xavier / Des Adauto C De Araujo,Praça,Rua Aureo Xavier/Rua Francisco Vita / R Dom Jose Pereira Alves,72494,"",Praça Aúreo Xavier,"932,4062466","185,3837078",680,Cordeiro,-8.050663593,-34.92580564
-426,Aureo Xavier/ Des Adauto C De Araujo,Praça,Rua Aureo Xavier/ R Dom Jose Pereira Alves/Estrada Do Forte Do Arraial Novo Do Bom Jesus,72494,"",Praça Aúreo Xavier,"983,0115446","199,1709498",680,Cordeiro,-8.050232683,-34.92658325
-427,Cosme Viana,Praça,Rua Padre Teofilo Tworz/ Rua Cosme Viana,119741,"",Praça Cosme Viana,"1969,610315","223,2056459",779,Afogados,-8.065654813,-34.90883536
-428,Industrial Miguel Santos,Praça,Rua Pedro Americo Galvao/Rua Baltazar Pereira,66532,15003/87,Praça Industrial Miguel Santos,"1476,884316","160,7590623",205,Boa Viagem,-8.101388665,-34.88607995
-429,Esmeraldas,Praça,Rua Engenho Buranhem / Rua Engenho Cabucu / Rua Engenho Matapagipe,83437,"",Praca Esmeralda,"1174,270711","134,9670144",884,Cohab,-8.114716636,-34.94712554
-430,Jockey Clube,Praça,Dentro Do Joquei Club,72320,"",Praça Jockey Clube,"1557,964633","197,2120475",663,Prado,-8.061409382,-34.91336654
-431,São Francisco/ Amante Das Flores,Praça,Avenida Rio Sao Francisco / Rua Jaguaruna / Rua Caraubas,75167,13170/78,Praça São Francisco/Amante das Flores,"1558,139309","161,0271134",884,Cohab,-8.115585041,-34.94599427
-432,Conselheiro João Alfredo / Sobrado Grande,Praça,Rua Real Da Torre/ Rua Benfica,66460,"",Praça Conselheiro João Alfredo,"364,7600437","106,0965431",647,Madalena,-8.057328865,-34.908882
-433,Conselheiro João Alfredo,Praça,Rua Benfica/Avenida Caxanga,66460,"",Praça Conselheiro João Alfredo,"296,9778153","85,17727315",647,Madalena,-8.056885206,-34.90932343
-434,Do Anfiteatro,Praça,Rua Alto Do Reservatorio,123072,"",Praça do Anfiteatro,"2206,708145","193,491258",566,Nova Descoberta,-8.001463173,-34.935715
-435,Chayenne,Praça,Avenida Beberibe/Rua Judith/ R Do Anil,123056,"",Praça Chayenne,"1505,979271","285,6222272",361,Porto Da Madeira,-8.006060549,-34.8922996
-436,Castro Alves,Praça,Avenida Norte Miguel Arraes De Alencar/R Natividade Saldanha/Rua Marechal Deodoro,123048,"",Praça Castro Alves,"2025,110578","213,3310986",175,Encruzilhada,-8.04000747,-34.88705319
-437,Bomba Do Hemeterio,Praça,Rua Bomba Do Hemeterio/ Rua Cha De Alegria,123897,"",Praça Bomba do Hemetério,"869,8145619","122,9796797",426,Bomba Do Hemeterio,-8.020226629,-34.90323444
-438,Alfredo Ozório,Praça,Rua Alfredo Ozório / Rua São Vicente,123870,"",Praça Alfredo Ozório,"342,7168446","96,85691092",191,Tamarineira,-8.029367443,-34.90649245
-439,Ayrton Senna,Praça,Rua Engenho Bom Destino / R Engenho Agua Branca  / R Engenho Serra Grande / R Engenho Tres Marias,123030,"",Praça Ayrton Senna,"989,175602","122,6085032",884,Cohab,-8.113411477,-34.951048
-440,Virgilio De Oliveira,Praça,Rua Virgilio Oliveira/ Rua Monsenhor Lobo /Rua Tito Livio Soares,123765,"",Praça Virgilio de Oliveira,"1470,53894","161,4697853",477,Poco,-8.037376007,-34.92241367
-441,3º Jardim De Boa Viagem,Praça,Avenida Boa Viagem,123790,"",Praça 3º Jardim de Boa Viagem,"1859,501519","355,1405553",205,Boa Viagem,-8.10823516,-34.88845837
-442,Sargento  Max Wolf Filho,Praça,Rua Florentino Olimpio Dos Santos/Rua Sargento  Wolff,123196,"",Praça Sargento Max Wolf Filho,"1231,986965","144,0222075",779,Afogados,-8.071654519,-34.9114084
-443,Largo Dona Regina,Praça,Rua Bujaru/ Rua Nova Descoberta,123188,"",Praça Largo Dona Regina,"470,8349635","108,6507577",566,Nova Descoberta,-8.018561394,-34.92618305
-444,Heiji Gemba,Praça,Rua Heiji Gemba,123099,"",Praça Heiji Gemba,"290,4975636","135,3926032",205,Boa Viagem,-8.132921301,-34.90436301
-445,Dr Alberto Wanderley,Praça,Avenida Cidade De Monteiro/Rua Dr Alberto Wanderley,123170,"",Praça Doutor Alberto Wanderley,"232,2953399","72,66511271",361,Porto Da Madeira,-8.009162474,-34.88836702
-446,Gustavo Barrozo,Praça,Travessa Alto Da Serrinha/R Gustavo Barrozo,123080,"",Praça Gustavo Barrozo,"97,09871192","40,44303139",388,Linha Do Tiro,-8.012405066,-34.91221086
-447,São Pedro,Praça,Rua Brazopolis/ Avenida Brasilia Formosa,123234,"",Praça São Pedro,"501,3029252","109,1648354",256,Brasilia Teimosa,-8.088754849,-34.88035131
-448,Poço Da Panela,Praça,Estrada Real Do Poco,123218,"",Praça Poço da Panela,"1141,582813","167,294885",477,Poco,-8.037073095,-34.92546349
-449,Sarturnino De Brito,Praça,Avenida Sartunino De Brito/Rua Bituri,123200,"",Praça Saturnino de Brito,"827,2310477","108,7587717",51,Cabanga,-8.079493912,-34.89299581
-450,Casa Forte,Praça,Rua Da Praca De Casa Forte,78271,"",Praça de Casa Forte,"2184,94935","182,3709516",442,Casa Forte,-8.034613064,-34.9193523
-451,Sérgio Loreto,Praça,Avenida Sul/Avenida Dantas Barreto/Rua Imperial/ Rua Da Concordia,66982,01395/24,Praça Sérgio Loreto,"7751,003464","413,0977022",35,Sao Jose,-8.07266317,-34.88476982
-452,Da Rua Olivia Menelau,Area Verde,Rua Olivia Menelau,,"","","86,27884584","43,79348162",264,Imbiribeira,-8.089426489,-34.91032224
-453,Da Avenida Izabel De Goes,Area Verde,Avenida Izabel De Goes/Avenida Recife/Rua Antonio Vidal,,"","","6974,87038","364,6630069",850,Areias,-8.090526773,-34.92996294
-454,Da Avenida Mario Alvares Pereira De Lyra,Area Verde,Avenida Mario Alvares Pereira De Lyra/Rua Manoel Estevao Da Costa/ Rua Bom Pastor,,"","","2794,406441","216,3210697",698,Iputinga,-8.04759017,-34.94038368
-455,Da Rua Benfica,Area Verde,Rua Benfica,,"","","184,0312467","68,68555755",647,Madalena,-8.058779315,-34.9025264
-456,Canavial,Praça,Rua Canavial/Rua Dr Luiz Ramos Leal,124230,"",Praça Canavial,"660,9426907","106,2893106",396,Dois Unidos,-8.000901107,-34.90160325
-457,Da Avenida Historiador Jordao Emerenciano,Area Verde,Avenida Historiador Jordao Emerenciano/ Rua Quipapa/ Rua Veneza,122963,"",Praça Luiz de Lacerda,"799,8173836","138,7563642",698,Iputinga,-8.035896445,-34.94310322
-458,Da Rua Alberico Glasner Da Rocha,Praça,Rua Alberico Glasner Da Rocha/Rua Prof Barros Lima/ Rua Dirceu Pessoa,122483,"",Praça Alberico Glasner da Rocha,"440,3239175","103,0289645",744,Caxanga,-8.023210481,-34.95766712
-459,Monsenhor Francisco Apolonio  Jorge Sales,Praça,Rua Da Soledade/Rua Joao Fernandes Vieira,123226,"",Praça Francisco Apolônio Jorge Sales,"384,3941337","89,46925872",116,Soledade,-8.056381656,-34.89004205
-460,Da Rua Joaquim De Brito,Praça,Da Rua Joaquim De Brito/Rua Esperanto/Rua Jornalista Trajano Chacon/ Rua General Joaquim Inacio,123269,"",Praça da Rua Joaquim de Brito,"566,1284454","84,78548807",78,Ilha Do Leite,-8.063147243,-34.89352903
-461,Dr  Pedro Cavalcanti,Praça,Rua Dr. Jose Maria/Rua Neto De Mendonça/Rua General Abreu E Lima/,124079,17039/04,Praça Doutor Pedro Cavalcanti,"193,6409629","55,98049637",191,Tamarineira,-8.03517934,-34.90017692
-462,Joao Pereira Borges,Praça,Rua Manoel Caetano/ R Dr Osvaldo Lima/ R Guilherme Pinto/ R Clemente Pereira,123706,17038/04,Praça João Pereira Borges,"601,3760925","113,6565556",140,Derby,-8.054339208,-34.90179053
-463,Da Criança Alexandra Vilma Dias,Praça,Rua Doutor Benígno Jordão De Vasconcelos / Rua José Luiz De Oliveira Barros Sobrinho,124214,16454/99,Praça da Criança Alexandra Vilma Dias,"803,6760348","172,2693605",884,Cohab,-8.119642827,-34.95056318
-464,Dr. Pádua Walfrido,Praça,Rua Rio Solimões/Rua Santa Joana D'Arc,125857,15673/92,Praça Doutor Pádua Walfrido,"2922,975399","238,0425938",850,Areias,-8.097461844,-34.93703052
-465,Franco Gomes Coutinho,Praça,Rua Dr Joao Elisio/ Avenida Central,119873,14809/85,Praça Franco Gomes Coutinho,"481,8995068","104,8064644",795,Mangueira,-8.078626485,-34.91971566
-466,Da Juventude,Praça,Rua Palmeirina / Rua Perdizes / Rua Panorama / Rua Sao Bento Do Una,122319,14808/85,Praça da Juventude,"988,7063566","117,0484225",884,Cohab,-8.117294235,-34.94616336
-467,Vereador Carlos Duarte,Praça,Rua Capitão Lima/ Rua Do Veiga,59250,16433/98,Praça Vereador Carlos Duarte,"120,9298389","58,97550676",108,Santo Amaro,-8.052914011,-34.87953664
-468,Padre Romano Zuffery,Praça,Rua Dr Devaldo Borges/Rua Aguanil/Avenida Sao Paulo,119865,15173/88,Praça El Salvador,"1006,411249","139,6664853",868,Jardim Sao Paulo,-8.080472999,-34.94025329
-469,Queira Deus,Praça,Rua Falcão De Lacerda/ Rua Queira Deus,122890,"",Praça Queira Deus,"235,63978","58,8656099",892,Tejipio,-8.092483772,-34.96183406
-470,Quinze  De Setembro,Praça,Rua Felipe De Oliveira/R Bernardino Da Costa/ R Louis Pasteur/ Rua Pedro Lessa,123854,"",Praça Quinze de Setembro,"1360,130887","144,208363",264,Imbiribeira,-8.117062053,-34.91715269
-471,Ana Lima Brandão,Praça,Rua Padre Alberione /R Jose Benedito Moury Fernandes/R Alheiros Maia/R Exp Sebastiao Clementino,119857,12735/77,Praça Ana Lima Brandão,"2857,346456","221,8186065",876,Barro,-8.09549176,-34.94386536
-472,Da Rua Arnoldo Magalhães,Praça,Rua Arnoldo Magalhães/Avenida Professor José Dos Anjos,,"","","2491,631349","226,7105227",434,Casa Amarela,-8.027008037,-34.90924086
-473,Compositor Antônio Maria,Praça,Rua Samuel Farias / Rua Nestor Silva / Rua Afonso De Albuquerque Melo,125881,17744/2011,Praça Compositor Antônio Maria,"12446,94758","462,4001661",450,Santana,-8.040307848,-34.91378683
-474,Do Caiara Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau / Rua Estevao Francisco Da Costa,123935,"",Parque Jonathan Marques da Cunha,"103155,2614","1755,461552",680,Cordeiro,-8.041767548,-34.92317634
-475,Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau,123935,17746/2011,Parque Jonathan Marques da Cunha,"118767,2525","1788,122443",698,Iputinga,-8.03841897,-34.92763868
-476,Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau,123935,17746/2011,Parque Jonathan Marques da Cunha,"118767,2525","1788,122443",680,Cordeiro,-8.040234263,-34.92601552
-477,Doutor Fernando Figueira,Praça,Rua Marques Amorim / Rua Jose De Alencar/ Rua Estado De Israel,23345,116903/03,Praça Dr Fernando Figueira,"6530,251296","314,8853153",78,Ilha Do Leite,-8.065514974,-34.89326168
-478,De Apipucos,Parque,Rua Apipucos,123323,25189/2010,Parque de Apipucos,"11755,15463","437,021664",485,Monteiro,-8.021990604,-34.93320107
-479,Provisória  Mauricio De Nassau E Duarte Coelho,Praça,Cais De Santa Rita,119660,"",Praça Maurício de Nassau e Duarte Coelho,"1159,353523","532,8879247",35,Sao Jose,-8.071509944,-34.87621436
-480,Da Tamarineira,Parque,Avenida Conselheiro Rosa E Silva / Rua Cônego Barata,125431,17802/2012,Parque da Tamarineira,"56496,35901","1120,890803",191,Tamarineira,-8.032919802,-34.90181629
-481,João Francisco Lisboa,Praça,Rua  Joao Francisco Lisboa / Rua  Inacio De Barros Barreto,124257,"",Praça João Francisco Lisboa,"3904,960335","288,9292975",736,Varzea,-8.053074889,-34.95955794
-482,Do Terminal,Praça,Rua Dr Gil Francisco Da Rocha/Rua Capitão Amaro Cerqueira/ Rua Sargento Afonso Rodrigues,122564,"",Praça do Terminal,"208,9634088","51,24430243",850,Areias,-8.094489339,-34.92404121
-483,Refugo,Praça,Rua Izabel De Goes/ Rua Antonio Vidal/ Avenida Recife,122459,"",Praça Izabel de Goes,"6974,87038","364,6630069",850,Areias,-8.090526773,-34.92996294
-484,Zeppelin,Praça,Rua Lázaro Fontes/ Trv Lázaro Fontes/Avenida Dr. José Rufino,122556,"",Praça Zeppelin,"889,2605157","121,7094448",825,Jiquia,-8.083288224,-34.92522742
-485,Do Tourão,Praça,Avenida Tapajós/Rua Ernesto Nazareth,122572,"",Praça do Tourão,"1339,494491","176,9984338",850,Areias,-8.092859902,-34.92536535
-486,Infantil John F. Kennedy,Parque,Rua Itamonte/Rua Andira,122580,"",Praça Infantil John F. Kennedy,"630,25272","100,757864",752,Curado,-8.081735785,-34.95581679
-487,Professor Paulo Silveira Do Nascimento,Praça,Rua Daniel Antônio Rodrigues,122599,"",Praça Professor Paulo Silveira do Nascimento,"708,3548314","132,9996243",779,Afogados,-8.083186297,-34.92185723
-488,João Stanislau,Praça,Rua Rio Solimões/Rua Novo Horizonte/Rua Helio Almeida,122602,"",Praça João Stanislau,"976,5912136","149,5358817",850,Areias,-8.097661118,-34.93837157
-489,Queira Deus,Praça,Rua Queira Deus,122890,"",Praça Queira Deus,"136,6842457","44,57388915",892,Tejipio,-8.092678047,-34.96173746
-490,Dom Helder,Praça,Rua Quatro De Setembro/Rua Curua/Rua Padre José,122629,"",Praça Dom Helder,"315,4097477","72,63263622",752,Curado,-8.081500114,-34.95375576
-491,Padre Romano Zuferey,Praça,Rua Maria Do Carmo Catunda/Rua Dr Devaldo Borges,122637,"",Praça Padre Romano Zuferey,"1083,915355","141,9925223",868,Jardim Sao Paulo,-8.078357109,-34.93973457
-492,Maria Madalena Bispo,Praça,Estrada Do Curado/1Tr Sidrolandia,122645,"",Praça Maria Madalena Bispo,"79,15210465","50,55611894",752,Curado,-8.079585171,-34.9521782
-493,Zeppelin,Praça,Rua Des Lopes Gama/  Rua Bonifácio De Andrade,122556,"",Praça Zeppelin,"518,0819457","102,3859067",817,San Martin,-8.07290586,-34.92792277
-494,"",Praça,Rua Itabapoana / Rua Caetité/ Rua Braço Do Norte,,"","","779,3793","140,4426771",43,Ilha Joana Bezerra,-8.070007656,-34.90027463
-495,Zumbi Dos Palmares,Praca,Avenida Jose Americo De Almeida,68268,"",Praça Zumbi dos Palmares,"707,2195171","94,27327441",582,Macaxeira,-8.01054197,-34.9308843
-496,Do Jordao / Da Rua Muniz Ferreira,Praça,Rua Jose Martorano / Rua Dr Andrade Lyra / Rua Dr Alvaro Ferraz /Rua Lima Campos,76422,"",Praça do Jordão,"1660,198027","158,8434846",221,Jordao,-8.130438342,-34.93801131
-497,De Santana,Parque,Rua Jorge Gomes De Sá / Rua Dr Abel Ventura,123064,"",Parque de Santana,"36299,97329","963,2480931",450,Santana,-8.042019233,-34.91782559
-498,"",Praca,Rua Maria  Adelaide Castelo Brancorua Joao Cordeiro De Souza,118800,"",Rua Maria Adelaide Castelo Branco,"1096,328153","138,5426674",884,Cohab,-8.124246154,-34.95112973
-499,"",Praca,Rua Dr Rinaldo Victor Fernandes/ Rua Jose Augusto De Barros,119458,"",Praça da Rua José Augusto de Barros,"1719,914165","174,4910589",825,Jiquia,-8.086837182,-34.92314045
-500,"",Praca,Rua Pinheiro Machado/ Rua Professor Pacifico Pereira,118834,"",Praça da Rua Pinheiro Machado,"1144,303287","135,3521939",884,Cohab,-8.134214402,-34.95134622
-501,"",Praca,Rua Professor Avertano Rocha/ Rua Des Capistrano De M E Silva,123331,"",Praça da Rua Professor Avertano Rocha,"1069,911478","150,6534318",701,Torroes,-8.066851556,-34.93340057
-502,"",Praca,Rua Augusto Bamberg De Melo,119490,"",PRC   RUA AUGUSTO BAMBERG DE MELO,"1409,898113","177,9466455",892,Tejipio,-8.089731349,-34.94989529
-503,"",Praca,Rua Principe Da Beira,119440,"",Praça da Rua Príncipe da Beira,"4667,949812","270,1816725",825,Jiquia,-8.090665807,-34.92269581
-504,"",Praca,Rua Tristao Da Cunha/Rua Visconde De Santo Albino,119431,"",Praça da Rua Tristão da Cunha,"814,7004676","144,771617",884,Cohab,-8.134950419,-34.95371043
-505,"",Area Verde,Rua  Antonio Almeida/ Rua Celio Tavares,,"","","1383,426958","159,2592664",264,Imbiribeira,-8.091539168,-34.91636613
+,nome,tipo,endereco,lei,nome_oficial,area,latitude,longitude
+0,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"3243,735391",-8.038875265,-34.87617362
+1,Dr Jose Vilela,Praça,Avenida Dezessete De Agosto/ Rua Dr Jose Vilela/ Rua Jose De Godoy Vasconcelos,00448/49,Praça Dr José Vilela,"3042,858638",-8.034090657,-34.91157119
+2,Dr Lula Cabral De Melo,Praça,Avenida Dezessete De Agosto/ Avenida Parnamirim/ Rua Padre Roma,12917/77,Praça Dr Lula Cabral de Melo,"1893,010563",-8.033198405,-34.91029444
+3,Jornalista Francisco Pessoa De Queiroz Júnior,Praça,Rua Nestor Silva/ Rua Leonardo Bezerra Cavalcante,14265/81,Praça Jornalista Francisco Pessoa de Queiroz,"722,7935899",-8.037484858,-34.91386712
+4,Rádio Jornal Do Comercio,Praça,Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante,00453/46,Praça Rádio Jornal do Comércio,"2724,390231",-8.036970992,-34.913944
+5,Rádio Jornal Do Comércio,Praça,Avenida Dezesste De Agosto/ Rua Leonardo Bezerra Cavalcante,00453/46,Praça Rádio Jornal do Comércio,"611,9990994",-8.03708098,-34.91429516
+6,Osvaldo Cruz,Praça,Rua Joao Fernandes Vieira/ Rua Osvaldo Cruz,,Praça Oswaldo Cruz,"3644,799287",-8.055074228,-34.89156634
+7,,Area Verde,Avenida Governador Agamenon Magalhaes/ Rua Dr Jaime Da Fonte,,,"234,3165586",-8.039951285,-34.87859053
+8,Flôr De Santana,Praça,Avenida Dezessete De Agosto/Rua Dona Olegarinha Da Cunha/ Rua De Santana,,Praça Flor de Santana,"790,7132127",-8.038112654,-34.91806848
+9,Da Vila Teimosinho,Praça,Rua Das Saudades/Rua Do Girassol,07930/62,Praça da Vila Teimosinho,"344,9842595",-8.085811115,-34.88401847
+10,Da Restauraçao/ Do Pirulito,Praça,Rua Padre Floriano/ Rua Do Jardim,,Praça da Restauração,"88,22923397",-8.069986929,-34.8802037
+11,Do Monteiro,Praça,Avenida Dezessete De Agosto,,Praca do Monteiro,"668,8804646",-8.027913492,-34.92798922
+12,Sérgio Loreto,Praça,Rua Imperial,01395/24,Praça Sérgio Loreto,"4560,931602",-8.072488891,-34.8853334
+13,Das Cinco Pontas,Praça,Rua Vidal De Negreiros/Rua Imperial,01737/29,Praça das Cinco Pontas,"157,3078383",-8.071880743,-34.88214292
+14,Das Cinco Pontas,Praça,Rua Vidal De Negreiros,01737/29,Praça das Cinco Pontas,"878,2432253",-8.071573012,-34.88188765
+15,Dezessete,Praça,Rua Imperador Pedro Ii,,Praça Dezessete,"816,9992761",-8.065308057,-34.87691259
+16,Das Cinco Pontas,Praça,Rua Vidal De Negreiros,01737/29,Praça das Cinco Pontas,"1463,617695",-8.071007482,-34.88144625
+17,Dom Vital,Praça,Rua Das Calcadas,00318/42,Praça Dom Vital,"1096,675348",-8.068186779,-34.87835072
+18,Joaquim Nabuco,Praça,Rua Frei Caneca/ Cais Da Detencao,5483/59,Praça Joaquim Nabuco,"1826,451645",-8.064545759,-34.88125311
+19,Dezessete,Praça,Rua Imperador Pedro Ii / Avenida Martins De Barros,,Praça Dezessete,"1151,809795",-8.065251334,-34.87653876
+20,Da Comunidade Luso - Brasileira,Praça,Cais Do Apolo/Avenida Militar,10003/68,Praça da Comunidade Luso Brasileira,"1902,98919",-8.053736449,-34.87103187
+21,Da Independência/ Diário De Pernambuco,Praça,Avenida Dantas Barreto/Rua Primeiro De Março,11463/74,Praça da Independência,"2168,67139",-8.064166299,-34.87815957
+22,Chora Menino,Praça,Rua Paissandu/ Avenida Lins Petit,,Praça Chora menino,"2372,239044",-8.060289347,-34.89488865
+23,Rio Branco ( Marco Zero),Praça,Avenida Alfredo Lisboa,00192/39,Praça Rio Branco,"5468,326667",-8.063157342,-34.87109061
+24,Tiradentes,Praça,Cais Do Apolo/Rua Bione,07930/62,Travessa Tiradentes,"5076,945565",-8.058698428,-34.87207801
+25,,Area Verde,Rua Dr Jaime Da Fonte/Avenida Governador Agamenon Magalhaes,,,"485,0326105",-8.040064717,-34.87845583
+26,General Carlos Pinto/ Largo Dos Casados,Praça,Rua Arlindo Melo/ Avenida Cruz Cabuga/ Rua Dos Casados,00178/48,Praca General Carlos Pinto,"3250,886457",-8.040097305,-34.87190978
+27,Do Rosario,Praça,Rua Francisco Lacerda,,Praça do Rosário,"251,073068",-8.050490532,-34.95836889
+28,Maciel Pinheiro,Praça,Rua Do Hospicio / Rua Do Aragao,00027/46,Praça Maciel Pinheiro,"1343,102546",-8.062376317,-34.88573807
+29,Parque Amorim,Praça,Rua Joao Fernandes Vieira/Avenida Agamenon Magalhaes,,Praça Parque Amorim,"1647,876963",-8.052047649,-34.89498176
+30,,Area Verde,Avenida Norte Miguel Arraes De Alencar/Avenida Governador Miguel Arraes De Alencar,,,"83,38378095",-8.042891848,-34.88461108
+31,San Martin,Praça,Avenida General San Martin,,Praça da Avenida General San Martin,"3062,605426",-8.071011847,-34.92879124
+32,,Area Verde,Rua Nova Europa/ Rua Pedro Boulitreau/Trv Pedro Boulitreau/Rua Farroupilha,,,"1935,777252",-8.075195066,-34.93140072
+33,,Area Verde,Avenida Agamenon Magalhaes,,,"739,6589317",-8.040140979,-34.87885013
+34,Profeta Joseph Smith/ Da Santa,Praça,Avenida Engenheiro Domingos Ferreira,14706/85,Praça Profeta Joseph Smith,"5938,539789",-8.096888965,-34.88604569
+35,Miguel De Cervantes,Praça,Rua Francisco Alves,3.340/55,Praça Miguel de Cervantes,"1037,065806",-8.067558726,-34.89395077
+36,Miguel De Cervantes,Praça,Rua Estado De Israel/Rua Capitao Jose  Da Luz,3.340/55,Praça Miguel de Cervantes,"872,9275081",-8.066101465,-34.89327839
+37,Miguel De Cervantes,Praça,Rua Francisco Alves/Rua Jose De Alencar /Ruaantonio Gomes De Freitas,3.340/55,Praça Miguel de Cervantes,"2104,794269",-8.066768098,-34.89357782
+38,Dom Jose Pereira Alves,Praça,Rua Manoel Elias/Rua Des Manoel De Sa Pereira/Rua Dom Jose Pereira Alves,,Praça Dom José Pereira Alves,"695,7855432",-8.049211071,-34.92536237
+39,Dom Diogo Camarão,Praça,Rua Capitao Francisco Barreiras/Rua Capitao Manuel De Araujo Miranda,10074/69,Praça Dom Diogo Camarao,"928,0450268",-8.060342319,-34.92881848
+40,Pantanal,Praca,Rua Capitao Gregorio De Albuquerque/Praca Pantanal/Rua Capitao Domingos Da Costa,,Praça Pantanal,"684,8925334",-8.094827242,-34.93383621
+41,Da Bandeira,Praça,Avenida Sport Clube Do Recife/ Rua Benfica/ Rua Chico Science,02206/39,Praça da Bandeira,"2344,640792",-8.061391901,-34.90159021
+42,Salgueiro,Praça,Rua Comendador Alvares De Carvalho/Rua Ribeirao/ Prc Salgueiro,,Praça Salgueiro,"1250,396333",-8.042580862,-34.93823736
+43,Da Esperança/ Largo Dona Suzana,Praça,Rua Joao Da Mata/Caratinga/Rosa Candida,,Praça da Esperança,"539,1142959",-8.054287351,-34.91619183
+44,Euclides Da Cunha / Do Internacional,Praça,Rua Benfica /  Severino Pinheiro / Heitor Maia Filho,10074/69,Praça do Internacional,"6259,305832",-8.058381,-34.9035688
+45,Camilo Pereira Carneiro,Praça,Avenida Getulio Vargas,09515/65,Praça Camilo Pereira Carneiro,"68642,3295",-8.068604891,-34.94432198
+46,Da Rua Tijucal,Area Verde,Rua Tijucal/Avenida Norte Miguel Arraes De Alencar,,,"593,3985494",-8.013646924,-34.93138401
+47,,Area Verde,Rua Dr. Abel Ventura /  Rua Fernando Benvindo Da Fonseca,,,"5892,810202",-8.041435012,-34.91669427
+48,Da Rua Da Aurora,Area Verde,Rua Da Aurora/ Avenida Norte Miguel Arraes De Alencar,,,"40642,75388",-8.054397738,-34.87641698
+49,Cemitério De Santo Amaro,Area Verde,Rua Do Pombal/Rua Dos Palmares,,,"119512,906",-8.049582688,-34.88498801
+50,,Area Verde,Rua Dianopolis/Rua Odete Monteiro,,,"979,9926409",-8.046766289,-34.91858353
+51,Da Conceição,Praça,Rua Morro Da Conceição,,Praça da Conceição,"6368,164132",-8.019349645,-34.91530281
+52,,Area Verde,Rua Professora Maria Do Carmo Araujo/R Antonio Pereira/ R Dr Jose Ramos De Vasconcelos,,,"10631,64778",-8.071264414,-34.9252638
+53,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"5669,730769",-8.037785157,-34.87559909
+54,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"340,637002",-8.040273354,-34.8790422
+55,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"4449,466837",-8.039557198,-34.87758353
+56,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"1620,032858",-8.039077325,-34.87836625
+57,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"1950,603145",-8.039652709,-34.87960599
+58,,Area Verde,Avenida Gov Agamenon Magalhaes,,,"4507,611822",-8.040196208,-34.88078221
+59,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"3928,148486",-8.042645879,-34.88604571
+60,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"10522,42433",-8.044428742,-34.88808027
+61,Da Avenida Militar,Area Verde,Avenida Militar,,,"665,7893281",-8.051739587,-34.87140794
+62,Nossa Senhora Da Boa Viagem,Praça,Rua Setubal / Rua Dr Nylo Dornellas Camara / Avenida Boa Viagem / Rua Barao De Souza Leao,,Praça da  Boa Viagem,"8407,359778",-8.132007092,-34.90073518
+63,Da Rua Potengy,Area Verde,Rua Potengy/ Rua Itanage,,,"173,6371027",-8.105240332,-34.91980071
+64,Da Avenida Militar,Area Verde,Avenida Militar,,,"463,2260672",-8.051520894,-34.87194045
+65,Da Avenida Militar,Area Verde,Avenida Militar,,,"1012,036453",-8.052881346,-34.87170011
+66,Da Avenida Militar,Area Verde,Avenida Militar,,,"634,4859777",-8.051871726,-34.87167723
+67,Do Cais Do Apolo,Area Verde,Cais Do Apolo,,,"923,8390639",-8.054053374,-34.87184563
+68,Fernando Galvao/Quatro De Outubro,Praça,Rua Dr Vilas Boas/Rua Olimpio Costa/Praca Fernando Galvao,16369/98,Praça Fernando Galvão,"1867,635131",-8.095441959,-34.93894494
+69,Da Av Engenheiro José Estelita,Area Verde,Avenida Engenheiro Jose Estelita/ Rua Capitao Temudo,,,"3313,075659",-8.077561278,-34.89143533
+70,Frei Caneca - A,Praça,Avenida Sul,,,"2158,411114",-8.072191159,-34.88117152
+71,Da Rua Do Futuro,Area Verde,Rua Do Futuro/Rua Padre Roma/Rua Muniz Tavares,,,"224,3425154",-8.034005727,-34.90573516
+72,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"5277,312251",-8.041356705,-34.88147277
+73,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Engenheiro Abdias De Carvalho,,,"236,1215108",-8.06095448,-34.90486416
+74,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Eng Abdias De  Carvalho,,,"62,43450096",-8.061248393,-34.90476612
+75,Jardim Sao Paulo/ João Cabral De Melo Neto,Praça,Rua Senador Alberto Pasqualini/Rua N S  De Fatima/Rua Damasco,14597/83,Praça do Jardim São Paulo,"6582,838854",-8.081623961,-34.93836152
+76,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Engenheiro Abdias De Carvalho,,,"84,91887102",-8.061310509,-34.90468385
+77,Da Av Engenheiro Abdias De Carvalho,Area Verde,Avenida Eng Abdias De Carvalho,,,"50,36220699",-8.061265784,-34.90495975
+78,Da Rua Desenhista Eulino Santos,Area Verde,Rua Bento Justino De Souza/R Desenhista Eulino Santos,,,"1101,360597",-8.022622716,-34.88358087
+79,Rua João Praxedes De Oliveira Filho,Area Verde,Rua Joao Praxedes De Oliveira Filho/Rua Elias Gomes/ Travenida Joao Praxedes De Oliveira Filho,,,"421,4498364",-8.019861155,-34.87964878
+80,Avenida Beberibe,Area Verde,Avenida Beberibe,,,"138,9170241",-8.014560519,-34.88976264
+81,Da Rua Hercília De Medeiros,Area Verde,Rua Hercília De Medeiros/ R Barão De Tamandare / R Alice Tibiriçá,,,"1216,79834",-8.009903415,-34.88279639
+82,Da Avenida Prefeito Artur Lima Cavalcanti,Area Verde,Avenida Prefeito Artur Lima Cavalcanti,,,"5207,239643",-8.046079646,-34.87409266
+83,Da Rua Capitão Temudo,Area Verde,Rua Capitão Temudo,,,"1297,900663",-8.07862112,-34.89231853
+84,Rua Paissandu,Area Verde,Rua Paissandu/ Avenida Lins Petit,,,"109,0369723",-8.059680128,-34.89434829
+85,Da Avenida Lins Petit,Area Verde,Avenida Lins Petit,,,"89,81787082",-8.060749595,-34.89497265
+86,Da Rua Da Paz,Area Verde,Rua Da Paz/Praca Da Paz,,,"55,80694647",-8.080332697,-34.90644806
+87,Da Rua General Francisco Figueiroa,Area Verde,Rua Gal Francisco Figueiroa/Rua Capitao Estevao Fernandes,,,"50,79344063",-8.092892551,-34.93000118
+88,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,,"548,7151653",-8.070637246,-34.92899331
+89,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,,"42,14747428",-8.07063049,-34.92868239
+90,Beira Rio,Praça,Avenida Beira Rio,,Praça Beira Rio,"19966,22917",-8.046253452,-34.90402245
+91,Beira Rio,Praça,Avenida Beira Rio,,Praça Beira Rio,"19966,22917",-8.049835422,-34.90450432
+92,Da Rua Padre Teófilo Tworz,Area Verde,Rua Padre Teófilo Tworz/ Rua Cosme Viana,,,"226,9617642",-8.065392699,-34.90904097
+93,Da Av Norte Miguel Arraes De Alencar,Area Verde,Avenida Norte Miguel Arraes De Alencar/ Rua Do Monte,,,"1499,082628",-8.01260259,-34.93214478
+94,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,,"399,7507674",-8.070825919,-34.92843602
+95,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,,"501,2248992",-8.071371718,-34.92859386
+96,Da Avenida General San Martin,Area Verde,Avenida General San Martin,,,"406,1308641",-8.071159946,-34.92915854
+97,Da Avenida Luiz De Lacerda,Area Verde,Avenida Historiador Jordao Emerenciano/ Avenida Luiz De Lacerda,,,"181,9914709",-8.036639892,-34.94315655
+98,Da Rua Benfica,Area Verde,Rua Benfica,,,"380,1366162",-8.058063583,-34.90426786
+99,Da Rua Benfica,Area Verde,Rua Benfica,,,"110,0369544",-8.058643274,-34.90281486
+100,Da Rua Arão Botler,Area Verde,Rua Arao Botler / Avenida Cidade De Monteiro,,,"229,7198589",-8.00920484,-34.88856854
+101,Da Av Beberibe/ Av Cidade De Monteiro,Area Verde,Avenida Beberibe/ Avenida Cidade De Monteiro,,,"709,3229676",-8.009918879,-34.8888922
+102,Da Av Beberibe/ Av Cidade De Monteiro,Area Verde,Avenida Beberibe/ Avenida Cidade De Monteiro/ Rua Arao Botler,,,"1589,814424",-8.009474259,-34.88883199
+103,Da Avenida Governador Agamenon Magalhaes,Area Verde,Avenida Governador Agamenon Magalhaes,,,"4875,904477",-8.043270963,-34.88559356
+104,Do Monteiro,Praça,Avenida Dezessete De Agosto,,Praca do Monteiro,"787,7179912",-8.02785261,-34.92845605
+105,Prof. Barreto Campelo,Praça,Rua Conselheiro Theodoro/ Rua Marques De Marica,10485/72,Praça Professor Barreto Campello,"2461,053184",-8.047997177,-34.91484274
+106,Deputado Fábio Correa,Praça,Rua Severino Bernadino Pessoa/ Rua Irapiranga,14.355/81,Praça deputado Fabio Correa,"597,9855524",-8.022359393,-34.90632204
+107,Prof. Barreto Campelo,Praça,Rua Jose De Holanda/ Rua Barreto Campelo/Rua Zilda S De Santana,10485/72,Praça Professor Barreto Campello,"4519,880225",-8.04702363,-34.91399529
+108,Joao Pessoa De Queiroz,Praça,Rua Domingos De Abreu Vasconcelos/Aniceto Ribeiro Varejao/Des Capristano De Moraes E Silva,10.124/69,Praça João Pessoa de Queiroz,"2252,435147",-8.067352423,-34.9329581
+109,Do Paraiso,Praça,Rua Cinco De Novembro,13.805/79,Praça do Paraíso,"315,1620589",-8.08105852,-34.90718956
+110,Academia Da Cidade,Area Verde,Avenida Gov Agamenon Magalhaes,,,"5549,353666",-8.041581726,-34.8837587
+111,Vila Do Moinho Recife,Praça,Rua Domingos Bastos,,Praça Vila do Moinho Recife,"313,8420519",-8.03731776,-34.88891284
+112,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"9328,991515",-8.043698771,-34.88829308
+113,São Braz,Praça,Rua Capitao Manuel De Aguiar/R Capitao Braz De Barros/R Capitao Francisco Coutinho/Praça Sao Braz,,Praça São Braz,"1658,410372",-8.094377412,-34.93161111
+114,Alfredo Pinto/Das Lavadeiras,Praça,Rua Caruaru/ Rua Palmares/Rua Goiana/Rua Argemiro Galvao,00318/42,Praça Alfredo Pinto,"3259,518082",-8.094351239,-34.93686828
+115,Do Sena,Praça,Rua Capitao Joao Pontes/Rua Capitao Antonio Franca/Rua Capitao Domingos Da Costa,,Praça do Sena,"4898,081623",-8.095864063,-34.9336817
+116,Jornalista Anibal Fernandes,Praça,Rua Capitao Estevao Fernandes/Rua Gal Francisco Fiqueiroa/R Capitao Jacinto Da Cruz,,Praça Jornalista Anibal Fernandes,"5085,369008",-8.093486844,-34.93011487
+117,Professor Abdgar Soriano,Praça,Rua Frei Manuel Calado/Rua General Francisco Figueiroa,,Praça Professor Abdgar Soriano,"1992,750137",-8.09243358,-34.93017666
+118,Capiba,Praça,Rua Engenheiro Edgar D'Amorim / Rua Do Futuro,16897/03,Praça Capiba,"360,8648409",-8.043766763,-34.89813483
+119,Maria Da Conceição Otacilio,Praça,Rua Otacilio Pessoa/Rua Padre Diogo Rodrigues/Prc Maria Da Conceicao,02793/54,Praça Maria da Conceição,"1495,029741",-8.089525934,-34.94038585
+120,De Campo Grande/Eudoro Correa,Praça,Estrada De Belem/ Rua Goncalves Dias/ Rua Catulo Da Paixao Cearense,,Praça de Campo Grande,"3856,433498",-8.032299001,-34.87744157
+121,Augustus Rodrigues,Praça,Rua Augusto Rodrigues/Rua Padre Miguelinho/R Dom Joao Da Costa,,Praça Augusto Rodrigues,"2259,265663",-8.039388541,-34.88519858
+122,Da República,Praça,Rua Praca Da Republica,,Praça da República,"6931,022614",-8.060768613,-34.87844425
+123,Da República,Praça,Rua Da Praca Da Republica,,Praça da República,"5561,022882",-8.061000454,-34.8768515
+124,Da República,Praça,Rua Praca Da Republica,,Praça da República,"8266,864094",-8.06089663,-34.87757372
+125,Gregorio Bezerra,Praça,Rua Arumanduba/Rua Souza Bandeira,15065/88,Praça Gregório Bezerra,"8019,261149",-8.044551422,-34.91490004
+126,Da Saudade/ Campo Santo,Praça,Rua Do Pombal/ Avenida  Da Saudade/ Rua Treze De Maio,,Praça do Campo Santo,"9873,341906",-8.05036453,-34.88283192
+127,Abelardo Rijo,Praça,Rua Capitao Temudo/ Avenida Engenheiro Jose Estelita,10316/71,Praça Abelardo Rijo,"9723,843408",-8.078168684,-34.89174203
+128,Governador Paulo Guerra,Praça,Avenida Saturnino De Brito/  Rua Capitao Temudo,,Praça Governador Paulo Guerra,"2426,404129",-8.080074629,-34.89232223
+129,Da Cavalaria,Praça,Rua Delmiro Gouveia/Avenida General San Martin/Rua Apulcro De Assuncao,,Praça da Cavalaria,"1260,048771",-8.065380736,-34.92749122
+130,Dr Adolfo Cirne / Faculdade De Direito,Praça,Rua Princesa Izabel/ Rua Do Hospicio/Rua Do Riachuelo,01259/22,Praça Dr Adolfo Cirne,"20280,10499",-8.058708287,-34.88265545
+131,Da Cavalaria,Praça,Avenida Consul Vilares Fragoso/Rua Comendador Franco Ferreira/Avenida Gal San Martin,,Praça da Cavalaria,"1277,616061",-8.065579426,-34.92710117
+132,Arari Ferreira Fonseca,Praça,Rua Romulo Da Fonseca Gomes/ Rua Monsenhor Ferreira Lima,,Praça Arari Ferreira Fonseca,"553,04426",-8.029962639,-34.93615205
+133,Sao Benedito Pereira Dos Santos,Praça,Rua Tapirema/ Prc Sao Benedito Pereira Dos Santos/R Serra Nova/,,Praça São Benedito Pereira dos Santos,"380,4137817",-8.037886757,-34.98178557
+134,Professor Moraes Rego/ Do Taxi,Praça,Rua Agricolandia /Avenida Professor Moraes Rego,,Praça Jockey Clube,"1024,794857",-8.043240462,-34.94389603
+135,Jockey Clube,Praça,Rua Carlos Gomes E Jockey Clube,,Praça Jockey Clube,"439,3176572",-8.061039542,-34.91281501
+136,Filonila Ferreira,Praça,Rua Monsenhor Joao Barbalho/Praca Filonila Ferreira,13455/78,Praça Filonila Ferreira,"213,1768505",-8.041457663,-34.95658737
+137,Nossa Senhora Da Paz / Largo Da Paz,Praça,Rua Motocolombo/Rua Da Paz,,Praça da Paz,"2961,900359",-8.080605731,-34.90612789
+138,Bernardo  Vieira De Melo,Praça,Rua Joao Perdigao/Praca Bernardo Vieira De Melo/R Theodorico Selva/Rua Padre Nobrega,,Praça Bernardo Vieira de Melo,"1150,529557",-8.090245819,-34.93875574
+139,Sitio Do Benvenuto / Da Barrigada,Praça,Rua Jupiacara/Rua Caturite/ Rua Santa Rosa,,Praça do Sítio Benvenuto,"463,1647444",-8.075344456,-34.92555684
+140,Sitio Do Benvenuto/ Da Barrigada,Praça,Rua Jupiacara/ Rua Imbituba/ Rua Caturite,,Praça do Sítio Benvenuto,"467,9334631",-8.075233289,-34.92502221
+141,Sitio Do Da Barrigada,Praça,Rua Jupiacara/ Rua Santo Angelo/ Rua Imbituba,,Praça do Sítio Benvenuto,"469,3597196",-8.075122195,-34.9244936
+142,Abelardo Baltar,Praça,Rua Comendador Moraes,,Praça Abelardo Baltar,"478,1369251",-8.087228836,-34.88271544
+143,Abelardo Baltar,Praça,Rua Praca Abelardo Baltar,,Praça Abelardo Baltar,"72,43711423",-8.087433482,-34.88258653
+144,Alcides Ferreira Leal/ Do Jordao,Praça,Rua Jose Martorano / Rua Dr Alvaro Ferreira / Rua Lima Campos,,Praça do Jordão,"1906,501131",-8.130504443,-34.938465
+145,Da Luz / Da Fraternidade,Praça,Rua Engenho Araquara / Rua Engenho Timbi / Avenida Rio Sao Francisco,,Praça Luz da Fraternidade,"1551,431831",-8.115080632,-34.95025587
+146,Do Terço/ Sebastiao Pontes,Praca,Praca Sebastiao Pontes/Rua Capitao Amaro Cerqueira/Rua Capitao Domingos Costa,,Praça Sebastião Pontes,"436,7968459",-8.09759545,-34.93388892
+147,Presidente Kennedy,Praça,Rua Dona Carentina / Rua Miravania,,Praça Presidente Kennedy,"2153,473691",-8.134257824,-34.94174368
+148,São José Do Manguinho,Praça,Rua Confederacao Do Equador/Avenida Rui Barbosa,00033/37,Praça São José dos Manguinhos,"340,6164735",-8.048095165,-34.89890896
+149,Elvira Andrade De Souza,Praça,Rua Paulino Gomes De Souza/Rua Alberto Paiva,11444/74,Praça Elvira Andrade de Souza,"773,1669198",-8.043753544,-34.9012548
+150,Padre Marcelino Champangnat,Praça,Rua Paulino Gomes De Souza,10.643/72,Praça Marcelino Champagnat,"967,7103441",-8.041620727,-34.90053842
+151,Professor Fleming,Praça,Rua Muniz Tavares,4346/56,Praça Professor Fleming,"3921,040069",-8.035270957,-34.90591214
+152,Da Jaqueira,Parque,Rua Do Futuro/Rua Deputado Pedro Pires Ferreira/ Avenida Rui Barbosa,,Parque da Jaqueira,"71793,04406",-8.036906181,-34.90482213
+153,Casa Forte,Praça,Avenida Dezessete De Agosto,,Praça de Casa Forte,"6080,504819",-8.035374529,-34.91975305
+154,Alice De Albuiquerque,Praça,Rua Couto Soares/R Adolfo Simoes Barbosa,,Praça Alice de Albuquerque,"141,112533",-8.012737276,-34.88380124
+155,Casa Forte,Praça,Rua Casa Forte,,Praça de Casa Forte,"5590,231542",-8.033866468,-34.91895114
+156,Farias Neves,Praça,Rua Dois Irmaos / Avenida Dom Manoel De Medeiros,5958/60,Praça Farias Neves,"8574,791972",-8.015644143,-34.94419349
+157,Do Trabalho,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Fernando De Souza Caete,01483/25,Praça do Trabalho,"2070,318675",-8.023225392,-34.91452741
+158,Batista Da Silva/ Operário Luis Da Hora,Praca,Rua Prof Trajano De Mendonca/ R Jose Bonifacio,09310/64,Praça Batista da Silva,"216,9910213",-8.042476011,-34.90834573
+159,Ponte D Uchoa,Praça,Avenida Rui Barbosa/ Rua Madre Loyola/ Rua Antonio Celso Uchoa Cavalcanti,,Praça Ponte D`Uchoa,"485,2880827",-8.041396064,-34.9033467
+160,Barão De Caiara,Praca,Rua Afonso De Albuquerque De Melo/Rua Leonardo Bezerra Cavalcante,1.663/54,Praça Barão de Caiara,"2437,637829",-8.038067213,-34.91098217
+161,Ascenso Ferreira,Praça,Avenida Rio Branco/Rua Madre Deus,,Praça Ascenço Ferreira,"293,9870404",-8.06255675,-34.8736634
+162,Da Convenção,Praça,Avenida Beberibe,00237/33,Praça da Convenção,"149,8691971",-8.003341827,-34.89751891
+163,Vinte De Julho,Praça,Marques De Baipendi,10.149/69,Praça Vinte de Julho,"726,4894225",-8.025503039,-34.87881908
+164,Vinte De Julho,Praça,Rua Marques De Baipendi/Rua Cirilino Afonso De Melo,10.149/69,Praça Vinte de Julho,"633,5166977",-8.025687475,-34.87890863
+165,Vinte De Julho,Praça,Rua Carlindo Afonso De Melo/Rua Farias Neves/Rua Tenente Guimaraes,10.149/69,Praça Vinte de Julho,"2588,241316",-8.025966409,-34.8788127
+166,Bom Pastor,Praça,Rua Bom Pastor/ Avenida Mucio Uchoa Cavalcanti,,Praça do Bom Pastor,"5969,548876",-8.048658972,-34.94001791
+167,Simão Borba,Praça,Rua Simao Borba/ Rua Parente Viana/Rua Ernesto Nazareth,,Praça Simão Borba,"1896,804067",-8.096811109,-34.92477434
+168,Jules Rimet/1º Jardim De Boa Viagem,Praça,Avenida Boa Viagem,10266/70,Praça Jules Rimet,"1703,498709",-8.101686472,-34.8854526
+169,,Area Verde,Avenida Governador Agamenon Magalhaes,,,"4456,830917",-8.042215097,-34.88329789
+170,La Corunã / 2ª Jardim De Boa Viagem,Praça,Avenida Boa Viagem,14469/82,Praça La Coruna,"7110,311551",-8.104925343,-34.88705959
+171,Parque Infantil Walt Disney,Praça,Rua Zeferino Galvao,10110/73,Parque Infantil Walt Disney,"1372,87394",-8.107954945,-34.88907809
+172,Cidade Do Porto,Praça,Avenida Conselheiro Aguiar / Rua Senador Helio Coutinho,14665/84,Praça Cidade do Porto,"734,8505691",-8.105831462,-34.88912514
+173,Cidade Do Porto,Praça,Avenida Conselheiro Aguiar / Rua Jornalista Francisco Almeida,14665/84,Praça Cidade do Porto,"606,0991014",-8.10641352,-34.88937024
+174,Cidade Do Porto,Praça,Avenida Cons Aguiar / Rua Sen Helio Coutinho / Avenida Eng Domingos Ferreira / Rua Jorn Francisco Almeida,14665/84,Praça Cidade do Porto,"2255,338994",-8.106038844,-34.88944621
+175,Visconde De Mauá,Praça,Rua Barao Da Vitória,,Praça Visconde de Mauá,"1337,577999",-8.066949294,-34.88301092
+176,Visconde De Mauá,Praça,Rua Regueira Costa/ Rua Gal Abreu E Lima,,Praça Visconde de Mauá,"549,5504151",-8.032290771,-34.89841292
+177,Artur Oscar / Arsenal De Marinha,Praça,Rua Da Guia / Rua Do Observatório,,Praça Arsenal da Marinha,"2900,795794",-8.061041053,-34.87128455
+178,Treze De Maio,Parque,Rua Da Saudade/ Rua Joao Lima/Rua Do Hospicio,,Parque Treze de Maio,"70434,49974",-8.056972105,-34.8815344
+179,Da Convenção,Praça,Avenida Beberibe,00237/33,Praça da Convenção,"1990,030653",-8.002903481,-34.89772051
+180,Da Convenção,Praça,Rua Praca Da Convencao,00237/33,Praça da Convenção,"328,6442029",-8.002374716,-34.89726771
+181,Do Berardo,Praça,Rua Joao Crescencio/Ricardo Salazar/Adolfo Criacao Antonio De S,,Praça do Berardo,"559,8748705",-8.05663446,-34.91250896
+182,Beatriz Pereira Carneiro,Praça,Rua Dona Sinha Menezes/ R Dona Leonor Porto,00274/41,Praça Beatriz Pereira Carneiro,"415,2766616",-8.040415151,-34.87065066
+183,Prof. Agamenon Magalhães,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Joaquim Rabelo,13.894/79,Praça Professor Agamenon Magalhães,"572,2265889",-8.043876748,-34.88213478
+184,Ministro Joao Gonçalves De Souza/ Gaspar Perez,Praça,Rua Borges Da Fonseca/Rua General Vargas,13739/79,Praça Ministro João Gonçalves de Souza,"4086,301839",-8.048164548,-34.94373587
+185,Forte Do Arraial Novo Do Bom Jesus,Parque,Rua Antonio Valdevino Costa/Est Do A Novo Do B Jesus/R Maravilha/ R Dezesseis De Outubro,08822/62,Parque do Forte do Arraial Novo do Bom Jesus,"16762,7938",-8.05849178,-34.93190824
+186,Forte Do Arraial Novo Do Bom Jesus,Parque,Rua Profa Laura Ferreira Da Costa/Est Do Forte Do Arraial N Do Bom Jesus/R Antonio Valdevino Costa,08822/62,Parque do Forte do Arraial Novo do Bom Jesus,"25119,09718",-8.056643274,-34.93093265
+187,Eça De Queiroz,Praça,Rua Januario Barbosa/Avenida Visconde De Albuquerque/R Des Luiz Salazar / Rua Pessoa De Melo,07413/61,Praça Eça de Queiroz,"2040,910809",-8.050718298,-34.90697695
+188,Solange Pinto Melo,Praça,Rua Real Da Torre/ Rua Jose Osorio,10725/76,Praça Solange Pinto Melo,"6358,531078",-8.052486506,-34.90866922
+189,Solange Pinto Melo,Praça,Rua Jose Osorio/ Rua Real Da Torre,10725/76,Praça Solange Pinto Melo,"1227,116597",-8.054042493,-34.90886132
+190,Tobias Vitorino,Praça,Rua Barao De Tracunhaem/R Dr Paulo Ramos/ R Luiz Clericuzzi,1607195,Praça Tobias Vitorino da Silva,"741,9249354",-8.012621221,-34.88648683
+191,Da Redenção,Praça,Rua Antonio Borges Uchoa/ Praca Da Redencao,,Praça da Redenção,"472,8294025",-8.055797033,-34.9457789
+192,Domingos Giovaneti,Praça,Avenida Beira Rio/ R Padre Anchieta/ R Clovis Bevilacua,03263/59,Praça Domingos Giovanetti,"2061,912722",-8.047287513,-34.90435936
+193,Astério Rufino Alves/ Da Estância/Professora Julieta Moura,Praça,Avenida Estancia/Rua Barros Sobrinho/Rua Dr Adelino Filho,12237/76,Praça Astério Rufino Alves,"601,2742232",-8.086152993,-34.93252543
+194,Luiz Gonzaga,Praça,Rua Engenho Boa Sorte / Rua Engenhjo Barro Alto / Rua Engenho Tabare / Rua Engenho Curralinho,16868/03,Praça Luiz Gonzaga,"952,3527457",-8.114512026,-34.95083597
+195,Tertuliano  Feitosa,Praça,Rua Ascenso Ferreira/Rua Carlos Fernandes/R Nogueira Limar Fonseca Oliveira,01847/52,Praça Tertuliano Feitosa,"12538,28373",-8.031892077,-34.88655079
+196,Ulisses Leon De Oliveira/ Men De Sa,Praça,Rua Madre Rosa Gatorno/Rua Marques De Baipendi/R Prof Jeronimo Gueiros,1010/68,Praça Ulisses Leon de Oliveira,"2229,781496",-8.02933478,-34.88946523
+197,Vereador Antonio Luiz Neto,Praça,Rua Dr Raimundo Cavalcanti  Uchoa/ Avenida Prof Jose Dos Anjos/ Rua Petronila Botelho,10099/69,Praça Antônio Luiz,"6854,444744",-8.028152063,-34.89072248
+198,Professor Luiz Inácio Pessoa De Melo,Praça,Avenida Santos Dumont/R Couto Magalhaes//Rua Jose Alexandre Cacador,11203/73,Praça Luiz Inácio Pessoa de Mello,"1514,688478",-8.030706977,-34.89487228
+199,Phaelante Da Câmara,Praça,Avenida Norte/Avenida Santos Dumont,06242/63,Praça Phaelante da Câmara,"2535,501914",-8.033021471,-34.89645357
+200,Amaro Albino Pimentel,Praça,Avenida Eng. Agamenon Magalhães De Melo / Rua Canapolis,14182/80,Praça Amaro Albino Pimentel,"1927,377072",-8.029928162,-34.89786528
+201,Jose Sales Filho/ Ponte Da Torre,Praça,Avenida Beira Rio,13531/78,Praça José Sales Filho,"2203,347699",-8.045159731,-34.9046566
+202,Professor Coelho De Almeida,Praça,Avenida Caxanga/Avenida Mario Alvares Pereira De Lyra/R Cons Silveira De Souza/R Prof Coelho De Almeida,02101/53,Praça Professor Coelho de Almeida,"4519,802419",-8.045449563,-34.93159909
+203,Pinto Damaso Da Varzea,Praça,Avenida Afonso Olindense/Rua Coronel Pacheco/ Prc Pinto Damaso,00053/95,Praça Pinto Damaso,"1703,675725",-8.048372188,-34.95930836
+204,Manuel Markman,Praca,Rua Joao Tude De Melo/Rua Leonardo Bezerra Cavalcante,1578893,Praça Manuel Markman,"1150,677973",-8.036473407,-34.90945407
+205,Pinto Damaso Da Varzea,Praça,Avenida Afonso Olindense /Rua Azeredo Coutinho/Rua Coronel Pacheco,00053/95,Praça Pinto Damaso,"6638,082271",-8.049159781,-34.9594845
+206,Do Caxanga,Praça,Avenida Caxanga/ Praca Do Caxanga,,Praça do Caxanga,"1895,99331",-8.031182701,-34.95495451
+207,Frei Caneca,Praça,Rua Imperial/Avenida Sul,,,"3084,265215",-8.072316377,-34.88172272
+208,Joao Xxiii,Praça,Rua Itauna/ Rua Maranguape,15606/92,Praça João Vinte e Três,"1077,288239",-8.083224468,-34.95535994
+209,Mercia De Albuquerque,Praça,Rua Capitao Manuel De Aguiar/Rua Capitao Francisco Coutinho/Rua Capitao Sebastiao Ferreira,,Praça Mercia de Albuquerque,"1612,206414",-8.095123619,-34.93238217
+210,Olavo Bilac,Praca,Rua Do Hospicio/ Rua Do Principe,14478/82,Praça Olavo Bilac,"3360,559604",-8.057103901,-34.88299549
+211,Des. Carlos Xavier Paes Barreto/Pais E Filhos,Praça,Rua Vicente Licinio/ Avenida Senador Robert Kennedy/ R Manoel Bekmann/ Rua Anita Garibaldi,15961/94,Praça Desembargador Carlos Xavier Paes Barreto,"1596,810785",-8.118049717,-34.92051981
+212,Aleixo De Oliveira,Praça,Rua Aristides Lobo/Rua Adolfo Faro/Rua Helio Brandao,02863/54,Praça Aleixo de Oliveira,"9872,531916",-8.112473679,-34.92441046
+213,Sebastião Malta/ Sesquicentenário,Praça,Rua Alberto Lundgren / Avenida Dona Carentina / Avenida Governador Roberto Silveira,10551/72,Praça Sebastião Malta,"3025,505849",-8.136669744,-34.9369309
+214,Marcantonio Vilaca/ Das Cassuarinas,Praça,Rua Alexandrino Martins Rodrigues / Rua Joaquim Carneiro Da Silva / Rua Mario Gomes De Matos,16606/00,Praça Marcantônio Vilaça,"7929,669573",-8.098990627,-34.88932383
+215,Brigadeiro Ivo Borges/ Seleção 70,Praça,Avenida Armindo Moura / R Capitao Lopes Braganca / R Eugenio Coimbra Junior/R General Charles De Gaulle,10.367/71,Praça Selecao 70,"5433,435654",-8.150688881,-34.91047983
+216,Da Rua Carlos Gomes / Do Cavalo Dourado,Praça,Rua Gomes Taborda / R Carlos Gomes,,Praça da Rua Carlos Gomes/ do Cavalo Dourado,"228,4562746",-8.059028696,-34.91222267
+217,Do Derby,Praça,Avenida Governador Agamenon Magalhaes/Rua Jener De Souza,,Praça do Derby,"13334,32713",-8.056286413,-34.89910823
+218,Do Derby,Praça,Avenida Governador Agamenon Magalhaes/Rua Jener De Souza,,Praça do Derby,"13021,8582",-8.057136516,-34.89908761
+219,Poeta Fernando Pessoa/Nossa Senhora De Fátima,Praca,Rua Amaro Bezerra,15268/89,Praça Poeta Fernando Pessoa,"1362,496282",-8.055958926,-34.90106576
+220,Correia De Araujo / Do Entroncamento,Praça,Avenida Rui Barbosa/Avenida Cons Rosa E Silva,00033/37,Praça do Entroncamento,"5841,829382",-8.050457829,-34.897231
+221,Da Feb (Força Expedicionaria Brasileira),Praça,Rua Quarenta E Oito / Rua Amapa,00579/49,Praça da FEB,"1203,000481",-8.040594222,-34.89473909
+222,Capiba,Praça,Rua Manoel Brandao/R Urca / Para,16897/03,Praça Capiba,"1716,461909",-8.009030103,-34.88522124
+223,Onze De Junho,Praça,Rua Moraes De Inhama/Avenida Cruz Cabuga/Rua Dona Leonor Porto,,Praça Onze de Junho,"9271,832019",-8.044146364,-34.87414291
+224,Onze De Junho,Praça,Avenida Prefeitom Artur Lima Cavalcanti,,Praça Onze de Junho,"1132,427383",-8.045000556,-34.87471854
+225,Melvin Jones,Praça,Rua Padre Roma/Rua Sebastiao Malta Arcoverde,09765/67,Praça Melvin Jones,"901,3195872",-8.033058472,-34.90728339
+226,Mano Teodosio,Praça,Estra Real Do Poco,15630/92,Praça Mano Teodósio,"70,8079734",-8.036080917,-34.92464338
+227,De Apipucos,Praça,Rua Apipucos  / Rua Alianca,,Praça de Apipucos,"1448,202254",-8.020943313,-34.93562139
+228,Vila Do Moinho,Praça,Estrada De Belem/Rua Castro Alves,,Praça Vila do Moinho Recife,"210,3218416",-8.037152315,-34.89067859
+229,Othon Bezerra De Melo,Praça,Rua Regina/ Rua Ana/ Rua Ida,06397/60,Praça Othon Bezerra de Melo,"1060,21374",-8.015465916,-34.92860365
+230,Largo Da Encruzilhada,Praça,Avenida Joao De Barros/Rua Dr Jose Maria/Avenida Beberibe,,Largo da Encruzilhada,"1718,357169",-8.037350908,-34.89142217
+231,Professor Ageu Magalhães,Praça,Rua Jenner De Souza,02359/55,Praça Professor Ageu Magalhães,"649,8328252",-8.05733666,-34.90025304
+232,Manuel Markman,Praca,Joao Tude De Melo,1578893,Praça Manuel Markman,"1021,657241",-8.036620728,-34.90947217
+233,Jose Sales Filho,Praca,Avenida Beira Rio,13531/78,Praça José Sales Filho,"1603,94372",-8.044528018,-34.90482779
+234,Doutor Pedro Alves Neto,Praça,Avenida Beberibe/ Rua Da Regeneracao,16068/95,Praça Doutor Pedro Alves Neto,"198,166606",-8.018591518,-34.89320584
+235,Doutor Pedro Alves Neto,Praça,Avenida Beberibe/ Rua Dr Eudes Costa,16068/95,Praça Doutor Pedro Alves Neto,"227,2885913",-8.01839404,-34.89336753
+236,Profeta Joseph Smith,Praça,Avenida Engenheiro Domingos Ferreira,14706/85,Praça Profeta Joseph Smith,"804,7101549",-8.098106912,-34.88634993
+237,Professor Dr Antonio Figueira/ Estrada Real Do Poco,Praça,Estrada Real Do Poco,16855/03,Praça Professor Doutor Antônio Figueira,"358,8856272",-8.03549863,-34.92324247
+238,Josenildo Paes Barreto,Praça,Rua Joao Elisio Ramos/ Rua Dr Joao Marques,15107/88,Praça Josenildo Paes Barreto,"484,3838078",-8.06303777,-34.90501267
+239,Dom  Miguel  Valverde,Praça,Rua Amaro Coutinho/Rua Fernando Cesar/R Inacio Galvao Dos Santos,5463/59,Praça Dom Miguel Valverde,"3166,228127",-8.03553322,-34.89271976
+240,Abc,Praça,Rua Jose Bezerra Cavalcante/Avenida Manoel Goncalves Da Paz/R Jetucupapo/R Neto Campelo Junior,10531/72,Praça A.B.C,"5212,5892",-8.073494139,-34.91860271
+241,Jornalista Antônio Teixeira Junior,Praça,Avenida Engenheiro Domingos Ferreira / Rua Viscinde De Jequitinhonha,14.518/83,Praça Jornalista Antônio Teixeira Junior,"1020,981431",-8.129670524,-34.90246713
+242,Alberto Pinto,Praça,Rua Arnobio Marques/ Avenida Agamenon  Magalhaes,13698/79,Praça Alberto Pinto,"2083,579927",-8.045053479,-34.88864
+243,Faca Cega,Praça,Rua Currais Novos / Rua Guama / Rua Gurupa / Rua Mecejana,,Praça Faca Cega,"649,8076224",-8.119843092,-34.95611551
+244,Da  Rua Dr Julio Campelo,Praça,Rua Dr Julio Campelo/Rlucilo Varejao/ Rua Jose Pessoa De Queiroz,,Praça Doutor Júlio Campelo,"318,2000338",-8.032431242,-34.93133529
+245,Jornalista Otávio Sarmento Cardoso/Coliseu,Praça,Rua Prof Otavio Sarmento Cardoso/ R Torres Gomes/ R Dr Jose Munguba Sobrinho,,Praça Jornalista Otávio Sarmento Cardoso/Coliseu,"246,0770681",-8.037252355,-34.95602863
+246,Angélica,Praça,Rua Angelica/ Rua Claudio Brotherhood,,Praça Angélica,"551,8575551",-8.053687749,-34.93151417
+247,Movicar,Praça,Rua Capitao Joao Lopes/R Capitao Vicente Moutinho/R Capitao Jeronimo Amaral,,Praça Movicar,"1906,669984",-8.093465192,-34.93254057
+248,Das Crianças,Praça,Rua Luiz Sepulveda/Rua Capitao Paulo Teixeira/Rua Capitao Domingos Da Costa,,Praça das Criancas,"5563,874378",-8.098665789,-34.93360387
+249,Pedro Brandão,Praça,Rua Jeronimo Inojosa/Rua Sargento Afonso Rodrigues/R Francisco Do Rego/R Capitao Francisco Da Rocha,,Praça Pedro Brandão,"1600,907408",-8.097704971,-34.93173386
+250,Eduardo Cardoso/Gregorio Albuquerque,Praça,Rua Alvaro Fragoso/R Bento Teixeira/R Capitao Gregorio De Albuquerque/Trv Capitao G De Albuquerque,,Praça Eduardo Cardoso/Gregório Albuquerque,"7385,393837",-8.09643717,-34.93142046
+251,Irmã Douraci,Praça,Largo Da Mustardinha/Avenida Manoel Goncalves Da Paz/,,Praça Irmã Douraci,"615,1753193",-8.07181677,-34.91832397
+252,El Salvador,Praça,Avenida Sao Paulo,,Praça El Salvador,"158,2687097",-8.076677599,-34.94207711
+253,Noel Rodrigues,Praça,Rua Guy Bastos Junior/ R Comendador Franco Ferreira/Trv Comendador F Ferreira/ Avenida General San Martin,,Praça Noel Rodrigues,"3222,074603",-8.067143641,-34.92752222
+254,Noel Rodrigues,Praça,Rua Guy Bastos Junio/ Rua Comendador Franco Ferreira/ Avenida General San Martin,,Praça Noel Rodrigues,"961,6499243",-8.066568087,-34.92736969
+255,Dom Bosco,Praça,Rua Mineirolandia/Rua Tenente Mindelo,,Praça Dom Bosco,"130,0923685",-8.075048933,-34.9299451
+256,Nossa Senhora De Fátima,Praça,Rua Professor Silvio Da Cunha Santos/R Dr Telesphoro Fragoso/Rua Pedro Melo,,Praça Nossa Senhora de Fátima,"1324,103831",-8.072333057,-34.93061711
+257,Professora Antonia Galvão,Praça,Rua Alegre / R Julio Ramos/ Rua Zeferino Agra,,Praça professora Antonia Galvão,"269,0575661",-8.021164799,-34.89318526
+258,Desenhista Eulino Santos,Praça,Rua Da Regeneracao/R Desenhista Eulino Santos,,Praça desenhista Eulino Santos,"1439,129443",-8.022917866,-34.88311476
+259,Do Cajueiro,Praça,Rua Tenente Wanderley/R Maria Cristina Tasso De Souza/R Couto Soares,,Praça do Cajueiro,"1123,398111",-8.01281867,-34.88307815
+260,Sementes Do Amanhã,Praça,Avenida Sebastiao Salazar/ Rua Couto Soares,,Praça Sementes do Amanhã,"226,0414424",-8.013098914,-34.88177275
+261,Do Colégio Jarbas Pernambucano,Praça,Avenida Sebastiao Salazar/ Rua Barao De Tamandare,,Praça do Colégio Jarbas Pernambucano,"802,8852493",-8.011087595,-34.88380149
+262,Lagoa Do Araça,Parque,Rua Jose Ferreira Lins / Rua Engenheiro Jose Brandao Cavalcante,,Praça Lagoa do Araça,"148288,3743",-8.094360461,-34.91491461
+263,Radio Capibaribe,Praça,Rua Coronel Urbano Ribeiro De Sena/Rua Noroeste,,Praça Rádio Capibaribe,"1744,478146",-8.014349772,-34.88321901
+264,Radio Capibaribe,Praça,Rua Coronel Urbano Ribeiro De Sena,,Praça Rádio Capibaribe,"807,3316781",-8.013924604,-34.88304571
+265,Da Igreja,Praça,Rua Capitao Pero Miranda,,Praça da Igreja,"859,1078349",-8.129980705,-34.94806974
+266,Da Comar,Praça,Rua Joao Cavalcante Petribu/Rua Hidelbrando De Vasconcelos,,Praça do Comar,"477,2616045",-7.990179773,-34.91556605
+267,Raizes,Praça,Rua Engenho Bem Querer / Rua Engenho Bela Flor / R Engenho Barra Branca / R Engenho Bela Rosa,,Praça Raizes,"667,0092044",-8.112185887,-34.95060483
+268,Da Amizade,Praça,Rua Leila Felix Karam/Rua Dr Aniceto Ribeiro Varejao/R Des Capistrano De Moraes E Silva,,Praça da Amizade,"799,5704709",-8.065087774,-34.93222682
+269,Do Fundão,Praça,Avenida Beberibe,,Praça do Fundão,"2191,966077",-8.013909336,-34.88944698
+270,Professor Trajano,Praça,Rua Prof Trajano De Mendonca / R Jose De Holanda / R Real Da Torre,,Praça Professor Trajano,"201,0721813",-8.044982837,-34.90996987
+271,Sao Francisco De Assis,Praça,Rua Vale Do Siriji /R Vale Do Jaguaribe/ R Soldado Jose Vivancio,,Praça São Francisco de Assis,"573,533752",-8.036490888,-34.9757881
+272,Tamarindo,Praça,Rua Engenho Firmeza / Rua Engenho Timbi / Rua Engenho Tabare / Rua Engenho Segredo,,Praça Tamarindo,"672,8242585",-8.114388946,-34.9501783
+273,Da Rua Tenente João Mauricio Campos,Praça,Rua Tenente Joao Mauricio Campos / Rua Capitao Luiz Dorneles,,Praça  João Maurício Campos,"411,5547959",-8.121774812,-34.94565974
+274,Artur Lima Cavalcanti,Praça,Avenida Prefeito Artur Lima Cavalcanti,,Praça Artur Lima Cavalcanti,"1223,656693",-8.045358016,-34.874266
+275,Da Trv José Leite,Praça,Travessa Jose Leite,,Praça da travessa José Leite,"94,73465903",-8.089403777,-34.88886883
+276,Luiz Americo Willians,Praça,Rua Engenho Belo Prado / Rua Engenho Bom Mirar/R Engenhoc Serra Grande/ Rua Engenho Flor Do Bosque,,Praça Luiz Americo Willians,"668,46137",-8.113285082,-34.95039008
+277,Joao Rique,Praça,Rua  Joao Rique/Rua Lucilo Varejao/ Rua Des Oscar Coutinho,,Praça João Rique,"1415,597416",-8.032167777,-34.93204838
+278,Jose Maria Do Nascimento Paraiba/ Do Lixão,Praça,Rua Juparana / Rua Codajas / Avenida Valenca,,Praça José Maria do Nascimento Paraíba/Lixão,"1618,617645",-8.119127435,-34.95361817
+279,Da Rua Abc,Praça,Rua Abc / Rua Aprigio Alves,,Praça da rua ABC,"390,8697151",-8.082779575,-34.91067924
+280,Santa Luzia,Praça,Rua Lupianopolis / Rua Mandaguacu / Rua Manduri / Rua Rio Paracatu,,Praca Santa Luzia,"638,0745256",-8.115719677,-34.95500836
+281,Brasilit,Praça,Rua Engenheiro Vasconcelos Bittencourt/ Rua Abatia,,Praça Brasilit,"1259,280586",-8.041706266,-34.95026367
+282,Sabere,Praça,Rua Emeterio Maciel/ Rua Frutuoso Gomes/Trv Frutuoso Gomes,,Praça Sabere,"427,7241101",-8.03727147,-34.95239724
+283,Quitéria,Praça,Rua Joao Francisco Lisboa/Rua Michael Felix Karan/Rua Quiteria,,Praça Quitéria,"2407,262041",-8.052537548,-34.95636268
+284,Carmela Dutra/ Ipiranga,Praça,Rua General Souza Doca/Rua General Guimaraes Cova,,Praça Carmela Dutra/Ipiranga,"8145,441642",-8.078167137,-34.91432807
+285,Isabel Cabral,Praça,Rua Vicente Ribeiro De Barros/Rua Luis De Franca Da Costa Cabral,,Praça Isabel Cabral,"618,9778664",-8.080062722,-34.91913278
+286,Joaquim Cardoso/ Da Biblioteca,Praça,Rua Francisco Uchoa/Rua Prof Augusto Wanderley Filho/Rua Jacira,,Praça Joaquim Cardoso/da Biblioteca,"1912,802965",-8.082177592,-34.9080519
+287,Joao Miguel De Souza Junior I,Praça,R Valdemar Falcao / Avenida Visconde De Sao Leopoldo/R Dom Joao Moura/Trv Valdemar Falcao,,Praça João Miguel de Souza Junior,"1176,006711",-8.058880804,-34.94576938
+288,Joao Miguel De Souza Junior Ii,Praça,Rua Dom Joao Moura/ Trv Valdemar Falcao/ R Jose Dos Santos/Avenida Visconde De Sao Leopoldo,,Praça João Miguel de Souza Junior,"460,6567781",-8.059468402,-34.94566536
+289,Sitio Das Palmeiras,Praça,Rua  Alvaro Texeirade Mesquita/ Rua Bom Pastor /Rua Presidente Washington Luiz,,Praça Sítio das Palmeiras,"3579,992972",-8.051317352,-34.93922838
+290,Maria Sampaio Lucena,Praça,Avenida Pernambuco / Rua Santa Maria Madalena,,Praça Maria Sampaio Lucena,"1188,66719",-8.120939851,-34.94593532
+291,Paulo Freire,Praça,Avenida Beira Rio /Rua Demostenes De Olinda,,Praça Paulo Freire,"587,5754442",-8.04977648,-34.90498149
+292,Do Finado Leiteiro,Praça,Rua Serra Bonga / Rua Parintins / Rua Sabara / Rua Paulista,,Praça do Finado Leiteiro,"1204,455279",-8.120234711,-34.94726276
+293,Dr Arnaldo Assunção,Parque,Rua Antonio Borges Uchoa/ Rua Antonio Curado/ R Manuel Alves Deusdara / R Governador Lopo Garro,,Parque Doutor Arnaldo Assunção,"28171,22471",-8.057223142,-34.94285155
+294,Coronel Silva Torres,Praça,Rua Coronel Silva Torres (Area Militar),,Praça Coronel Silva Torres,"302,6148758",-8.053406687,-34.90355401
+295,Da Rua Cordislândia,Praça,Avenida Marechal Cordeiro De Farias/ Rua Cordislandia/ R Cristovao Cavalcanti,,Praça da Rua Cordislândia,"683,1630116",-8.039633133,-34.93494625
+296,Da Alegria,Praça,Rua Des Cunha Barreto/ Rua Da Alegria,,Praça da Alegria,"87,27662495",-8.063708519,-34.88698962
+297,Da Comunidade,Praça,Rua Rio Indaia / Rua Rio Parnaiba / Rua Rio Juruena / Rua Rio Tapajos,,Praça da Comunidade,"1202,348231",-8.116194218,-34.94763521
+298,Forte Do Brum,Praça,Avenida Militar,,Praça do Forte do Brum,"2525,816098",-8.052791938,-34.87148251
+299,Cívica,Praça,Rua Alexandre Moura/ Avenida Cruz Cabuga,,Praça Cívica,"3865,769456",-8.046881037,-34.87599171
+300,Do Escorrego,Praça,Avenida Pernambuco / Rua Rio Arinos / Rua Rio Indaia / Rua Rio Caqueta,,Praça do Escorrego,"1268,806039",-8.11750539,-34.94688157
+301,Estevão De Sá,Praça,Avenida Caxanga/ Rua Caxanga Agape,,Praça Estevão de Sá,"923,9800845",-8.036645069,-34.94648015
+302,Da Rua Caxanga Agape,Praça,Avenida Caxanga/Rua Caxanga Agape,,Praça da Rua Caxangá Agape,"3628,343617",-8.036157479,-34.94740386
+303,Herois Da Restauração/ Do Buraco,Praça,Rua Caja/Rua Oiticica Lins/Rua Calumbi /Rua Ipojuca,,Praça Herois da Restauração /do Buraco,"9903,512185",-8.097417499,-34.93563583
+304,Cristo Rei,Praça,Rua Sao Fidelis / Rua Diamantino / Rua Joanesia / Rua Marlieria,,Praça Cristo Rei,"964,3012094",-8.120631578,-34.95473409
+305,Engenho Poeta / Do Rotary,Praça,Avenida Caxanga/ Rua Pedro Lund,,Praça Engenho Poeta/do Rotary,"4659,485191",-8.034238461,-34.95088649
+306,Monsenhor Arruda Camara,Praça,Rua Antonio Vaz/Rua General Francisco Figueiroa,,Praça Monsenhor Arruda Camara,"1546,924287",-8.091585271,-34.93027685
+307,José Cicílio,Praça,Rua Capitao Jeronimo Amaral/ R Capitao Vicente Moutinho/Rua Capitao Amador Rodrigues,,Praça José Cicílio,"1801,860228",-8.094189484,-34.9332826
+308,Antonio Bezerra Pontes,Praça,Praca Do Sena/Rua Capitao Fernao De Melo/Rua Capitao Domingos Da Costa,,Praça Antonio Bezerra Pontes,"664,1367707",-8.096969362,-34.93386564
+309,Da Mentira,Praça,Rua Capitao Amaro Cerqueira/ Rua Sargento Afonso Rodrigues/ R Cap F Da Rocha/ R Cap A Do Rego,,Praça da Mentira,"1724,992456",-8.096804269,-34.9326179
+310,Da Rua Água Preta,Praça,Rua Gloria Do Goita / Rua Jaboataorua Agua Preta / Rua Lagoa De Itaenga,,Praça da Rua Água Preta,"773,5482101",-8.123178781,-34.94748407
+311,Da Vitoria,Praca,Rua Capitao Gregorio De Albuquerque/Avenida Izabel De Goes,,Praça da Vtiória,"775,3141317",-8.094423466,-34.93421939
+312,Da Avenida Da Recuperação,Praça,Avenida Da Recuperacao,,Praça da Avenida da Recuperação,"3999,450181",-7.987094409,-34.93509587
+313,Vale Do Siriji,Praça,Rua Vale Do Siriji/ Rua Americo Virgilio,,Praça Vale do Siriji,"160,4927067",-8.036230847,-34.97685972
+314,Da Rua Solanea,Praça,Rua Solanea/ Rua Mundau/ Rua Pirpirituba/ Rua Guaraquebaca,,Praça da Rua Solanea,"638,0243932",-8.116536938,-34.95369235
+315,Arlindo Araújo Filho,Praca,Rua Professor José Calazans / 1º Travessa Da Rua Manuel Vieira,,Praca Arlindo Araujo Filho,"586,0486615",-8.070507075,-34.93289333
+316,Cais Edgar Amorim,Praça,Avenida Rui Barbosa,,Praça Cais Edgar Amorim,"998,4940163",-8.037148563,-34.90625213
+317,Dona Lindu,Parque,Avenida Boa Viagem,17271/06,Parque Dona Lindu,"35964,94082",-8.14134971,-34.90415197
+318,Professor Rutilho,Praca,Rua Professor Rutilho/Rua Inaja/Rua Alcantara/Rua Pagy,,Praça Professor Rutilho,"325,2233158",-8.088984264,-34.96728722
+319,Professor Rutilho,Praca,Rua Professor Rutilho/Rua Inaja,,Praça Professor Rutilho,"285,4649075",-8.088673735,-34.96701413
+320,Simon Bolivar,Praça,Avenida Governador Agamenon Magalhaes/ Avenida Cruz Cabuga,,Praça Simon Bolivar,"1872,374536",-8.03719613,-34.87002708
+321,Simon Bolivar,Praça,Avenida Gov Agamenon Magalaes/ Avenida Cruz Cabuga,,Praça Simon Bolivar,"2025,082895",-8.03754857,-34.87007163
+322,Memorial Arco Verde,Parque,Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga,,Praça Memorial Arco Verde,"10339,30283",-8.036608071,-34.87010932
+323,Memorial Arco Verde,Parque,Avenida Agamenon Magalhaes/ Avenida Cruz Cabuga,,Praça Memorial Arco Verde,"10339,30283",-8.03610835,-34.87077364
+324,Da Avenida Mauricio De Nassau I,Praca,Avenida Mauricio Da Nassau/Rua Luiz Carlos Guilherme,,Praça da Avenida Maurício de Nassau,"785,7192735",-8.043500973,-34.92234616
+325,Da Avenida Mauricio De Nassau Ii,Praca,Avenida Mauricio De Nassau/ Rua Luiz Carlos Guilherme,,Praça da Avenida Maurício de Nassau,"1691,510173",-8.043888562,-34.92246046
+326,Silva Jardim,Praça,Avenida Dezessete De Agosto/ Rua Temporal,,Praça Silva Jardim,"150,7621806",-8.02777343,-34.92886297
+327,Quartel General,Praca,Rua Do Hospicio/ Rua Do Principe,,Praça Quartel General,"1080,948019",-8.05811559,-34.88327215
+328,Jose Da Mota Silveira,Praça,Rua Arlindo Gouveia/Avenida Beira Rio,,Praça José da Mota Silveira,"839,101398",-8.0564113,-34.90379033
+329,Joca Leal,Praça,Largo De Casa Amarela/ Rua Santa Izabel,,Praça Joca Leal,"1230,987551",-8.026715931,-34.91874033
+330,Amaro Lopes / Da Fumaça,Praça,Rua Principal / Rua Monte Horeb,,Praça Amaro Lopes/da Fumaça,"345,6430453",-8.023460228,-34.90806016
+331,Sítio Da Trindade/Arraial Velho Do Bom Jesus,Parque,Estrada Do Arraial / Estrada De Entrocamento/Rua Pedro Afonso,,Parque Sítio da Trindade/Arraial V. do Bom Jesus,"61042,85109",-8.030021972,-34.91275685
+332,Jose Bonifacio,Praça,Trv Corrego Do Euclides/R Alto Jose Bonifacio/ R Alto Da Serrinha/R Alto Da Conquista/Rua Sao Jose,,Praça José Bonifácio,"1799,408584",-8.012440826,-34.91357212
+333,Jenner De Souza,Praca,Rua Amaro Bezerra/ R Jenner De Souza,,Praça Jenner de Souza,"2697,020853",-8.054924707,-34.90034744
+334,Otávio  De Freitas,Praça,Rua Jener De Souza/ Rua Amauri De Medeiros,15.310/90,Praça Otávio de Freitas,"5948,34773",-8.057887213,-34.90050161
+335,Da Rua José Pimentel,Praça,Rua Jose Pimentel/Rua Candido Portinari/Rua Adolfo Ferreira/Rua Fernando Ferrari,,Praça da Rua José Pimentel,"1380,627152",-8.114548305,-34.91848104
+336,Largo Dom Luiz,Praça,Largo Dom Luiz / Avenida Norte Miguel Arraes De Alencar,10188/69,Largo Dom Luiz,"1197,226956",-8.020885691,-34.91734692
+337,General Euler Bents/ Da Sudene,Praça,Rua Jean Emile Favre/Rua Sartunino Meireles/Avenida Raimundo Diniz/Rua Silveira Neto,,Praça General Euler Bentes/da Sudene,"5511,929787",-8.113887535,-34.92190533
+338,Da Rua  Antonio Aparecido,Praça,Rua Soldado Antonio Aparecido/ Rua Sargrnto Rubens Leite/,,Praça do Monteiro,"110,3115835",-8.127494322,-34.94578104
+339,Maria Vitalina Gonçalves Da Rocha / Do Bongi,Praça,Rua Dona Maria Augusta Nogueira/Rua Isaac Markman,15319/90,Praça Maria Vitalina Gonçalves da Rocha,"1245,491931",-8.063929747,-34.92180501
+340,Senhor Bartolomeu,Praça,Rua Coronel João Batista Do Rego Barros/ Rua Antonio  Batista De Souza,,PRC SENHOR BARTOLOMEU,"2441,237516",-8.017911929,-34.93295864
+341,Da Quadra,Praça,Rua Cassatuba/Rua Catigua,,Praça da Quadra,"1555,426488",-8.012731231,-34.92137623
+342,Sitio Grande,Praça,Avenida Norte Miguel Arraes,,Praça Sitio Grande,"451,611361",-8.019765636,-34.92688557
+343,Nadir Colaço,Praça,Avenida Norte Miguel Arraes De Alencar/ Rua Ana/ R Pedro Paes De Mendonca,,Praça Nadir Colaco,"2649,360826",-8.016750179,-34.92925896
+344,Jose Vieira,Praça,Rua Engenho Carauna/ Rua Manoel Serafim Do Couto,,Praça José Vieira,"881,3337946",-8.087220203,-34.90516133
+345,Jose Vieira,Praça,Rua Engenho Agua Clara/ Rua Manoel Serafim Do Couto,,Praça José Vieira,"644,2453277",-8.086877574,-34.90536075
+346,Da Morena,Praça,Avenida Rio Grande / Rua Rio Jaró / Rua Rio Uruguai,,Praça da Morena,"689,6837729",-8.116369718,-34.94830291
+347,Da Morena,Praça,Avenida Rio Grande / Rua Rio Gurupí/ Rua  Rio Parauá,,Praça da Morena,"834,2104048",-8.11617109,-34.94890321
+348,Campo Do Lagoão,Praça,Rua Dr Cezar Montezuma / Rua Alfredo Martins De Almeida,,Praça Campo do Lagoão,"266,6207775",-8.128845111,-34.95083215
+349,Boco-Moco/Da Ur 5,Praça,Rua Joao Joaquim De Mello Filho/R Gal Coelho Cintra/ R Des Thomaz C Wanderley/R Alvarenga Peixoto,,Praça Boco-Moco/da UR 5,"844,4557704",-8.132747044,-34.94970258
+350,Nova Esperança,Praça,Rua Nova Alianca (Vila Uniao),,Praça Nova Esperança,"3226,833013",-8.030824123,-34.93262109
+351,Maracangaia,Praça,Rua Guaratuba/Rua Manacapuru/Rua Pirpirituba/Rua Obidos,,Praça Maracangaia,"633,4580659",-8.116811063,-34.9546874
+352,Exposição Do Cordeiro,Parque,Avenida Mauricio De Nassau/ Rua Costa Maia/ Avenida Caxanga/ Rua Antero Mota,,Parque Exposição do Cordeiro,"160381,4823",-8.044744487,-34.92535678
+353,Flor De Cheiro,Praça,Rua Quirinópolis / Rua Currais Novos/ Rua Maua/ Rua Itaperuna/,,Praça Flor de Cheiro,"697,760626",-8.120125345,-34.95710594
+354,João Felipe Santiago,Praça,Rua Sapucaia / Avenida Santa Fe,,Praça João Felipe Santiago,"2176,278751",-8.118819683,-34.95492513
+355,Gonçalo Leitão,Praça,Rua Cientista Nelson Chaves / Rua Capitao Joao De Albuquerque / Rua Goncalo Leitao,,Praça Gonçalo Leitão,"1488,511207",-8.128727997,-34.94708775
+356,Da Rua Itacambira,Praça,Rua Itanage/Rua Potengy/Rua Itacambira/Trv Itanage,,Praça da rua Itacambira,"5811,734724",-8.105712489,-34.91999826
+357,Da Rua Arquiteto Luiz Nunes,Praça,Rua Frederico Lundgren / Rua Olivia Menelau,,Praça da Rua Arquiteto Luiz Nunes,"554,2506402",-8.089276206,-34.91049532
+358,Da Avenida Engenheiro Abdias De Carvalho,Praça,Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho,,Praça da Avenida Engenheiro Abdias de Carvalho,"41709,62016",-8.067910349,-34.93832462
+359,Da Avenida Engenheiro Abdias De Carvalho,Praça,Rua Dr Flavio Ferreira Da Silva Marojo/ Avenida Engenheiro Abdias De Carvalho,,Praça da Avenida Engenheiro Abdias de Carvalho,"41709,62016",-8.065952236,-34.93789124
+360,Do Largo Da Ponte Do Motocolombo,Praça,Avenida Sul/Avenida Marechal Mascarenhas De Moraes,,Praça do Largo da ponte do Motocolombo,"1470,134711",-8.082850417,-34.90642201
+361,Rafael De Oliveira Alves,Praça,Rua Jundiai/ Alca Do Viaduto Da Ceasa,,Praça Rafael de Oliveira Alves,"2406,159",-8.075239891,-34.94558515
+362,Truaca/ Tempo De Crescer,Praça,Rua Engenho Mata Limpa / R Engenho Terra Vermelha / R Engenho Laje Bonita / R Engenho Pedra Lavrada,,Praça Truaca/Tempo de Crescer,"958,128845",-8.111212827,-34.95146858
+363,Tempo De Crescer,Praça,Rua Engenho Linda Flor/ Rua Engenho Duas Barras/ R Engenho Laje Bonita,,Praça Tempo de Crescer,"701,6276531",-8.111087025,-34.95081999
+364,Luiz De Lacerda,Praça,Avenida Luiz De Lacerda/Rua Veneza/Avenida Historiador Jordao Emerenciano,,Praça Luiz de Lacerda,"2615,255209",-8.036268228,-34.94338123
+365,Do Caixito,Praça,Rua Flora Rica /Rua Pedro Boulitreau/ Rua Farroupilha,,Praça do Caixito,"2500,843725",-8.074056853,-34.93108626
+366,Boco Moco,Praça,Rua Afonso Arinos/ R Arq Reinaldo Alves Maia/ R Des Thomaz C  Wanderley/ R Arq Maria Lucia Barbosa,,Praça Boco-Moco/da UR 5,"773,3633504",-8.133478736,-34.95051865
+367,Ministro Salgado Filho,Praça,Avenida Marechal Mascarenhas De Moraes,,Praça Ministro Salgado Filho,"16155,88813",-8.133597383,-34.91695028
+368,Professor Trajano,Area Verde,Rua Professor Trajano De Mendonca/ Rua Real Da Torre,,,"1630,029912",-8.044593017,-34.90991802
+369,Da Rua Riacho Doce,Praça,Rua Riacho Doce / Rua Engenho Barra Azul / Rua Engenho Bela Vida,,Praça da Rua Riacho Doce,"1035,964447",-8.112307346,-34.95126004
+370,Monteiro Lobato,Praça,Rua Pedro Malazarte / Rua Marquês De Rabico / Rua Do Garnize,,Praça Monteiro Lobato,"858,6068874",-8.131932272,-34.94735949
+371,Robert Kennedy / Da Juventude,Parque,Rua Frof Nelson Melo/R Estudante Sinval Meira Henrique/Avenida Sen Robert Kennedy/R Dr Ruy L  Cavalcanti,,Praça Robert Kennedy/da Juventude,"19089,89439",-8.116369686,-34.91858583
+372,Da Rua Joao Guilherme,Praça,Rua Jose Pimentel/R Esperidiao Cordeiro De Morais/R Antonio Conselheiro/R Joao Guilherme,,Praça da rua João Guilherme,"1356,111848",-8.115386499,-34.91944517
+373,Da Rua Junqueira Freire,Praça,Rua Jose D'Emery Carneiro/Rua Albino Reine/R Antonio Conselheiro/Rua Junqueira Freire,,Praça da rua Junqueira Freire,"1353,953936",-8.116225406,-34.92041192
+374,Da Rua Leonardo Da Vinci,Praça,Rua Leonardo Da Vinci/ Rua Goncalves De Magalhaes/  Rua Bernardino Da Costa,,Praça da rua Leonardo da Vinci,"922,3526752",-8.117564241,-34.91620587
+375,Encanta Moça/ Posto Policial,Praça,Rua Artur Licio,,Praça Encanta Moça/Posto Policial,"312,7448059",-8.093072428,-34.88864188
+376,Nargor Do Carmo,Praça,Rua Engenho Cangaca/ Rua Engenho Carauna/ Rua Engenho Camboinha,,,"238,8462896",-8.089104566,-34.90575998
+377,Arquiteta Maria Lucia,Praça,Rua Esdras Farias/Rua Helio Brandao/Rua Americo De Campos/Rua Abdias Cabral De Moura,,Praça arquiteta Maria Lucia,"1655,188733",-8.103822755,-34.92671357
+378,Mauriceia,Praça,Rua Araraquara/Rua Itaquice/Rua Jean Emile Favre/ Rua Aracatuba,,Praca Mauriceia,"3321,672987",-8.107793342,-34.91646488
+379,Do Jacaré,Praça,Rua Raul Leoni/ Rua Simoes Neto/ Rua Edward Jenner/ R Deputado Antonio Heraclio,,Praça do Jacaré,"847,4175263",-8.118242401,-34.91781849
+380,Jose D'Emerycarneiro,Praça,Rua Jose D'Emery Carneiro/ R Inez De Castro/R Aristharcho Lopes/R Dr Samuel Hardman C De Albuquerque,,Praça Josen Demery Carneiro,"1356,488984",-8.117063431,-34.92137852
+381,Lins Do Rego/ Dos Brotos,Praça,Rua Lins Do Rego/ Rua Lopes Trovao/ Rua Paulo De Prontin/ Rua Manuel De Macedo,,Praça Lins do Rego/dos Brotos,"839,504624",-8.118709463,-34.91914364
+382,Circular Do Alto Jordao,Praça,Rua Toritama / Avenida Dona Carentina,,Praça Circular do Alto Jordão,"459,2242256",-8.134237437,-34.94381569
+383,Mercado Municipal Da Ur-5,Praça,Rua Dr Otavio Moraes Vasconcelos / Rua Capitao Vicente Curado,,Praça Mercado Municipal da UR-5,"2244,732933",-8.132432675,-34.94882182
+384,Da Rua Eliza  Leal Wanderley,Praça,Rua Eliza Leal Wanderley/Rua Deputado Celso Miranda/Rua Alaide Sa Leitao/ Avenida Presidente Dutra,,Praça da rua Elza Leal Wanderley,"655,2360626",-8.110108388,-34.92662342
+385,Da Rua Rosa M De Melo,Praça,Rua Deputado Edson Moury Fernandes/R Rosa Magalhaes/Avenida Pres Dutra/R Maria Jose Mota Da Silveira,,Praça da rua Rosa M. de Melo,"638,6699865",-8.108636596,-34.92682751
+386,Do  S,Praça,Avenida Mato Grosso / Rua Rio Ica / Rua Rio Ivo,,Praça do S,"134,1514041",-8.122273432,-34.94705778
+387,Todos Os Santos,Praça,Rua Todos Os Santos/ Rua Sepetiba/ Rua Piassabussu/Rua Ilheus,,Praça Todos os Santos,"688,6905473",-8.121080341,-34.95345689
+388,Da Rua Jatobá,Praça,Rua Arco Verde / Rua Sao Vicente Ferrer,,Praça da Rua Jatobá,"1181,594746",-8.123667543,-34.94645226
+389,Vitoria Do Povo,Praça,Rua Jordania,,Praça Vitória do Povo,"2156,2766",-8.118321894,-34.94616099
+390,Geraldo Vilas Boas,Praça,Rua Padre Manuel Ribeiro Da Rocha / R Barbara Heliodora / R Jose Do Patrocinio / R Cupertino Cintra,,Praça Geraldo Vilas Boas,"898,4454546",-8.131276898,-34.94911435
+391,Dalva De Oliveira,Praça,Rua Guaranta / Rua Tocantinopolis / Rua Neopolis / Rua Sao Bento Do Una,,Praça Dalva de Oliveira,"1279,548747",-8.116224924,-34.94646448
+392,Da Rua Quintino Bocaiuva,Praça,Rua Barao De Jaqui/Rua Comandante Garcia D'Avilla/R Quintino Bocaiuva/R Orestes Barbosa,,Praça da rua Quintino Bocaiuva,"1622,526345",-8.115533124,-34.91762026
+393,Da Rua Clotilde Machado Ii,Praça,Rua Pintor Antonio Albuquerque/Rua Clotilde Machado/Rua Itacambira,,Praça da Rua Clotilde de Machado I e II,"1030,971457",-8.107275838,-34.92177898
+394,Da Rua Clotilde Machado  I,Praça,Rua Itacambira/Rua Clotilde Machado/Rua Irapua,,Praça da Rua Clotilde de Machado I e II,"1221,103405",-8.107671976,-34.92143116
+395,Prof. Jeronimo Gueiros,Praça,Rua Joraci Camargo / Rua Pianco / Rua Santa Agda / Rua Tamara,,Praça professor Jeronimo Gueiros,"2806,9584",-8.13499924,-34.9400395
+396,Da Rua Jose Rodrigues,Praça,Rua Jose Rodrigues,,Praça da rua José Rodrigues,"319,7112451",-8.090992837,-34.89257984
+397,Da Rua Guarabira,Praça,Rua Antonio Paes Barreto/ Rua Jose Da Silva Lucena / Rua Guarabira / Rua Sargento Silvino De Macedo,,Praça da rua Guarabira,"4369,880209",-8.114097516,-34.9074951
+398,Campo De Pelada Carlos Rios,Praça,/ Rua Moacir Albuquerque,,Praça Campo de pelada Carlos Rios,"4655,198816",-8.085727266,-34.91051676
+399,Do Terminal De Ônibus Da Ur-2,Praça,Rua Monica Raposo/ Avenida Santos,,Praça do Terminal de ônibus da UR-2,"134,4165693",-8.114574472,-34.95533183
+400,Da Av Senador Robert Kennedy,Praça,Avenida Senador Robert Kennedy/Rua Condessa De Barral/ Rua Joao Ramalho/R Jose Fernandes Portugal,,Praça da Avenida Senador Robert Kennedy,"7036,075814",-8.117619511,-34.91837467
+401,Da Chesf,Praça,Avenida Engenheiro Abdias De Carvalho/ Rua Delmiro Gouveia Rua Quinze De Marco,,Praça da CHESF,"15330,68555",-8.062636847,-34.93095874
+402,Do Bueirao,Praça,Rua Barreto Campelo/ Rua Zilda S De Santana,,Praça do Bueirão,"9910,705467",-8.046109959,-34.91386863
+403,Jacarezinho,Praça,Rua Iguatu/Travessa Garibaldi,,Praça Jacarezinho,"1502,539253",-8.018500505,-34.88289503
+404,Chao De Estrelas,Praça,Rua Doutor Elias Gomes,,Praça Chão de Estrelas,"9859,462253",-8.020573233,-34.87994024
+405,Novaes Filho,Praça,Rua Iguatu/ Rua Constanca/ R Coronel Mario  Liborio,,Praça Novaes Filho,"11766,57691",-8.016610587,-34.8819309
+406,Do Iml,Praça,Rua Engenho Babilonia / Rua Engenho Titara / Rua Engenho Mameluco,16457/99,Praça do IML,"387,2821409",-8.11286166,-34.94932137
+407,Getulio Vargas,Praça,Rua Raul Morais/Avenida General San Martin/ Rua Tomaz Gonzaga,,Praça Getulio Vargas,"478,3083861",-8.054004913,-34.92272441
+408,Santa Lucia,Praça,Avenida Mauricio De Nassau/ R Santa Lucia/ Trv Santa Lucia,,Praça Santa Lucia,"374,0356016",-8.039151075,-34.93011995
+409,Chico Scince,Praça,Avenida Abdias De Carvalho,,Praça Chico Scince,"2122,671134",-8.061929077,-34.90169642
+410,Dr Jose De Melo,Praça,Rua Padre Roma/ Rua Sebastiao Malta Arco Verde/Rua Afonso Celso,,Praça Doutor Jose de Melo,"314,9762781",-8.032712668,-34.90740837
+411,Dr Jose De Melo,Praça,Rua Sebastiao Alves/ Rua Afonso Celso,,Praça Doutor Jose de Melo,"123,9371364",-8.032659255,-34.90713144
+412,Alto Da Serrinha,Praça,Rua Alto Da Serrinha/Rua Alto Do Tiro,,Praça Alto da Serrinha,"296,1413762",-8.012648303,-34.90931455
+413,Alto Da Serrinha,Praça,Rua Alto Da Serrinha/Rua Alto Brasil,,Praça Alto da Serrinha,"32,65421047",-8.012563637,-34.90911644
+414,Arão Botler,Praça,Avenida Cidade De Monteiro/Rua Arao Botler,,Praça Arão Botler,"291,6971462",-8.008670426,-34.88814566
+415,Treze De Junho,Praça,Avenida Prof Jose Dos Anjoa/ Rua Santos Dumont/R Treze De Junho,,Praça Treze de Junho,"152,7096939",-8.028282743,-34.894669
+416,Treze De Junho,Praça,Avenida Santoa Dumont/Rua Treze De Junho/Avenida Prof Jose Dos Anjos,,Praça Treze de Junho,"694,077783",-8.028376755,-34.89501515
+417,Das Flores,Praça,Rua Euclides Fonseca/Rua Dr Jose Higino Ribeiro Campos/R Prof Joao Rodrigues,,Praça das Flores,"243,970787",-8.033250341,-34.89383251
+418,Encanamento,Praça,Estrada Do Encanamento,,Praça Encanamento,"2065,990973",-8.031791658,-34.91409823
+419,Bambu,Praça,Rua Nova Cruz / Rua Diamantina,,Praça Bambu,"946,3491635",-8.121702686,-34.9544336
+420,Da Biblia,Praça,Estrada Da Mumbeca/ Travessa Da Estrada Da Mumbeca,15568/92,Praça da Biblia,"529,6176626",-7.964861101,-34.92333092
+421,Souto Filho,Praça,Rua Hoel Sette/Avenida Conselheiro Rosa E Silva/ Rua Do Futuro,05640/59,Praça Souto Filho,"5582,462505",-8.036102966,-34.90287433
+422,Prof. Calazans,Praça,Rua Galvao Raposo/Rua Jose Higino/ Rua Menezes Drumond/R Ernani Braga,07413/61,Praça Professor Calazans,"3904,648033",-8.050560695,-34.91019588
+423,Odília Freire Dos Santos,Praça,Avenida Montevideu/Avenida Governador Agamenon Magalhaes,,Praça Odília Freire dos Santos,"601,2040913",-8.04948682,-34.89307306
+424,Aureo Xavier / Des Adauto C De Araujo,Praça,Rua Aureo Xavier/Rua Francisco Vita / R Dom Jose Pereira Alves,,Praça Aúreo Xavier,"932,4062466",-8.050663593,-34.92580564
+425,Aureo Xavier/ Des Adauto C De Araujo,Praça,Rua Aureo Xavier/ R Dom Jose Pereira Alves/Estrada Do Forte Do Arraial Novo Do Bom Jesus,,Praça Aúreo Xavier,"983,0115446",-8.050232683,-34.92658325
+426,Cosme Viana,Praça,Rua Padre Teofilo Tworz/ Rua Cosme Viana,,Praça Cosme Viana,"1969,610315",-8.065654813,-34.90883536
+427,Industrial Miguel Santos,Praça,Rua Pedro Americo Galvao/Rua Baltazar Pereira,15003/87,Praça Industrial Miguel Santos,"1476,884316",-8.101388665,-34.88607995
+428,Esmeraldas,Praça,Rua Engenho Buranhem / Rua Engenho Cabucu / Rua Engenho Matapagipe,,Praca Esmeralda,"1174,270711",-8.114716636,-34.94712554
+429,Jockey Clube,Praça,Dentro Do Joquei Club,,Praça Jockey Clube,"1557,964633",-8.061409382,-34.91336654
+430,São Francisco/ Amante Das Flores,Praça,Avenida Rio Sao Francisco / Rua Jaguaruna / Rua Caraubas,13170/78,Praça São Francisco/Amante das Flores,"1558,139309",-8.115585041,-34.94599427
+431,Conselheiro João Alfredo / Sobrado Grande,Praça,Rua Real Da Torre/ Rua Benfica,,Praça Conselheiro João Alfredo,"364,7600437",-8.057328865,-34.908882
+432,Conselheiro João Alfredo,Praça,Rua Benfica/Avenida Caxanga,,Praça Conselheiro João Alfredo,"296,9778153",-8.056885206,-34.90932343
+433,Do Anfiteatro,Praça,Rua Alto Do Reservatorio,,Praça do Anfiteatro,"2206,708145",-8.001463173,-34.935715
+434,Chayenne,Praça,Avenida Beberibe/Rua Judith/ R Do Anil,,Praça Chayenne,"1505,979271",-8.006060549,-34.8922996
+435,Castro Alves,Praça,Avenida Norte Miguel Arraes De Alencar/R Natividade Saldanha/Rua Marechal Deodoro,,Praça Castro Alves,"2025,110578",-8.04000747,-34.88705319
+436,Bomba Do Hemeterio,Praça,Rua Bomba Do Hemeterio/ Rua Cha De Alegria,,Praça Bomba do Hemetério,"869,8145619",-8.020226629,-34.90323444
+437,Alfredo Ozório,Praça,Rua Alfredo Ozório / Rua São Vicente,,Praça Alfredo Ozório,"342,7168446",-8.029367443,-34.90649245
+438,Ayrton Senna,Praça,Rua Engenho Bom Destino / R Engenho Agua Branca  / R Engenho Serra Grande / R Engenho Tres Marias,,Praça Ayrton Senna,"989,175602",-8.113411477,-34.951048
+439,Virgilio De Oliveira,Praça,Rua Virgilio Oliveira/ Rua Monsenhor Lobo /Rua Tito Livio Soares,,Praça Virgilio de Oliveira,"1470,53894",-8.037376007,-34.92241367
+440,3º Jardim De Boa Viagem,Praça,Avenida Boa Viagem,,Praça 3º Jardim de Boa Viagem,"1859,501519",-8.10823516,-34.88845837
+441,Sargento  Max Wolf Filho,Praça,Rua Florentino Olimpio Dos Santos/Rua Sargento  Wolff,,Praça Sargento Max Wolf Filho,"1231,986965",-8.071654519,-34.9114084
+442,Largo Dona Regina,Praça,Rua Bujaru/ Rua Nova Descoberta,,Praça Largo Dona Regina,"470,8349635",-8.018561394,-34.92618305
+443,Heiji Gemba,Praça,Rua Heiji Gemba,,Praça Heiji Gemba,"290,4975636",-8.132921301,-34.90436301
+444,Dr Alberto Wanderley,Praça,Avenida Cidade De Monteiro/Rua Dr Alberto Wanderley,,Praça Doutor Alberto Wanderley,"232,2953399",-8.009162474,-34.88836702
+445,Gustavo Barrozo,Praça,Travessa Alto Da Serrinha/R Gustavo Barrozo,,Praça Gustavo Barrozo,"97,09871192",-8.012405066,-34.91221086
+446,São Pedro,Praça,Rua Brazopolis/ Avenida Brasilia Formosa,,Praça São Pedro,"501,3029252",-8.088754849,-34.88035131
+447,Poço Da Panela,Praça,Estrada Real Do Poco,,Praça Poço da Panela,"1141,582813",-8.037073095,-34.92546349
+448,Sarturnino De Brito,Praça,Avenida Sartunino De Brito/Rua Bituri,,Praça Saturnino de Brito,"827,2310477",-8.079493912,-34.89299581
+449,Casa Forte,Praça,Rua Da Praca De Casa Forte,,Praça de Casa Forte,"2184,94935",-8.034613064,-34.9193523
+450,Sérgio Loreto,Praça,Avenida Sul/Avenida Dantas Barreto/Rua Imperial/ Rua Da Concordia,01395/24,Praça Sérgio Loreto,"7751,003464",-8.07266317,-34.88476982
+451,Da Rua Olivia Menelau,Area Verde,Rua Olivia Menelau,,,"86,27884584",-8.089426489,-34.91032224
+452,Da Avenida Izabel De Goes,Area Verde,Avenida Izabel De Goes/Avenida Recife/Rua Antonio Vidal,,,"6974,87038",-8.090526773,-34.92996294
+453,Da Avenida Mario Alvares Pereira De Lyra,Area Verde,Avenida Mario Alvares Pereira De Lyra/Rua Manoel Estevao Da Costa/ Rua Bom Pastor,,,"2794,406441",-8.04759017,-34.94038368
+454,Da Rua Benfica,Area Verde,Rua Benfica,,,"184,0312467",-8.058779315,-34.9025264
+455,Canavial,Praça,Rua Canavial/Rua Dr Luiz Ramos Leal,,Praça Canavial,"660,9426907",-8.000901107,-34.90160325
+456,Da Avenida Historiador Jordao Emerenciano,Area Verde,Avenida Historiador Jordao Emerenciano/ Rua Quipapa/ Rua Veneza,,Praça Luiz de Lacerda,"799,8173836",-8.035896445,-34.94310322
+457,Da Rua Alberico Glasner Da Rocha,Praça,Rua Alberico Glasner Da Rocha/Rua Prof Barros Lima/ Rua Dirceu Pessoa,,Praça Alberico Glasner da Rocha,"440,3239175",-8.023210481,-34.95766712
+458,Monsenhor Francisco Apolonio  Jorge Sales,Praça,Rua Da Soledade/Rua Joao Fernandes Vieira,,Praça Francisco Apolônio Jorge Sales,"384,3941337",-8.056381656,-34.89004205
+459,Da Rua Joaquim De Brito,Praça,Da Rua Joaquim De Brito/Rua Esperanto/Rua Jornalista Trajano Chacon/ Rua General Joaquim Inacio,,Praça da Rua Joaquim de Brito,"566,1284454",-8.063147243,-34.89352903
+460,Dr  Pedro Cavalcanti,Praça,Rua Dr. Jose Maria/Rua Neto De Mendonça/Rua General Abreu E Lima/,17039/04,Praça Doutor Pedro Cavalcanti,"193,6409629",-8.03517934,-34.90017692
+461,Joao Pereira Borges,Praça,Rua Manoel Caetano/ R Dr Osvaldo Lima/ R Guilherme Pinto/ R Clemente Pereira,17038/04,Praça João Pereira Borges,"601,3760925",-8.054339208,-34.90179053
+462,Da Criança Alexandra Vilma Dias,Praça,Rua Doutor Benígno Jordão De Vasconcelos / Rua José Luiz De Oliveira Barros Sobrinho,16454/99,Praça da Criança Alexandra Vilma Dias,"803,6760348",-8.119642827,-34.95056318
+463,Dr. Pádua Walfrido,Praça,Rua Rio Solimões/Rua Santa Joana D'Arc,15673/92,Praça Doutor Pádua Walfrido,"2922,975399",-8.097461844,-34.93703052
+464,Franco Gomes Coutinho,Praça,Rua Dr Joao Elisio/ Avenida Central,14809/85,Praça Franco Gomes Coutinho,"481,8995068",-8.078626485,-34.91971566
+465,Da Juventude,Praça,Rua Palmeirina / Rua Perdizes / Rua Panorama / Rua Sao Bento Do Una,14808/85,Praça da Juventude,"988,7063566",-8.117294235,-34.94616336
+466,Vereador Carlos Duarte,Praça,Rua Capitão Lima/ Rua Do Veiga,16433/98,Praça Vereador Carlos Duarte,"120,9298389",-8.052914011,-34.87953664
+467,Padre Romano Zuffery,Praça,Rua Dr Devaldo Borges/Rua Aguanil/Avenida Sao Paulo,15173/88,Praça El Salvador,"1006,411249",-8.080472999,-34.94025329
+468,Queira Deus,Praça,Rua Falcão De Lacerda/ Rua Queira Deus,,Praça Queira Deus,"235,63978",-8.092483772,-34.96183406
+469,Quinze  De Setembro,Praça,Rua Felipe De Oliveira/R Bernardino Da Costa/ R Louis Pasteur/ Rua Pedro Lessa,,Praça Quinze de Setembro,"1360,130887",-8.117062053,-34.91715269
+470,Ana Lima Brandão,Praça,Rua Padre Alberione /R Jose Benedito Moury Fernandes/R Alheiros Maia/R Exp Sebastiao Clementino,12735/77,Praça Ana Lima Brandão,"2857,346456",-8.09549176,-34.94386536
+471,Da Rua Arnoldo Magalhães,Praça,Rua Arnoldo Magalhães/Avenida Professor José Dos Anjos,,,"2491,631349",-8.027008037,-34.90924086
+472,Compositor Antônio Maria,Praça,Rua Samuel Farias / Rua Nestor Silva / Rua Afonso De Albuquerque Melo,17744/2011,Praça Compositor Antônio Maria,"12446,94758",-8.040307848,-34.91378683
+473,Do Caiara Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau / Rua Estevao Francisco Da Costa,,Parque Jonathan Marques da Cunha,"103155,2614",-8.041767548,-34.92317634
+474,Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau,17746/2011,Parque Jonathan Marques da Cunha,"118767,2525",-8.03841897,-34.92763868
+475,Jonathan Marques Da Cunha,Parque,Avenida Mauricio De Nassau,17746/2011,Parque Jonathan Marques da Cunha,"118767,2525",-8.040234263,-34.92601552
+476,Doutor Fernando Figueira,Praça,Rua Marques Amorim / Rua Jose De Alencar/ Rua Estado De Israel,116903/03,Praça Dr Fernando Figueira,"6530,251296",-8.065514974,-34.89326168
+477,De Apipucos,Parque,Rua Apipucos,25189/2010,Parque de Apipucos,"11755,15463",-8.021990604,-34.93320107
+478,Provisória  Mauricio De Nassau E Duarte Coelho,Praça,Cais De Santa Rita,,Praça Maurício de Nassau e Duarte Coelho,"1159,353523",-8.071509944,-34.87621436
+479,Da Tamarineira,Parque,Avenida Conselheiro Rosa E Silva / Rua Cônego Barata,17802/2012,Parque da Tamarineira,"56496,35901",-8.032919802,-34.90181629
+480,João Francisco Lisboa,Praça,Rua  Joao Francisco Lisboa / Rua  Inacio De Barros Barreto,,Praça João Francisco Lisboa,"3904,960335",-8.053074889,-34.95955794
+481,Do Terminal,Praça,Rua Dr Gil Francisco Da Rocha/Rua Capitão Amaro Cerqueira/ Rua Sargento Afonso Rodrigues,,Praça do Terminal,"208,9634088",-8.094489339,-34.92404121
+482,Refugo,Praça,Rua Izabel De Goes/ Rua Antonio Vidal/ Avenida Recife,,Praça Izabel de Goes,"6974,87038",-8.090526773,-34.92996294
+483,Zeppelin,Praça,Rua Lázaro Fontes/ Trv Lázaro Fontes/Avenida Dr. José Rufino,,Praça Zeppelin,"889,2605157",-8.083288224,-34.92522742
+484,Do Tourão,Praça,Avenida Tapajós/Rua Ernesto Nazareth,,Praça do Tourão,"1339,494491",-8.092859902,-34.92536535
+485,Infantil John F. Kennedy,Parque,Rua Itamonte/Rua Andira,,Praça Infantil John F. Kennedy,"630,25272",-8.081735785,-34.95581679
+486,Professor Paulo Silveira Do Nascimento,Praça,Rua Daniel Antônio Rodrigues,,Praça Professor Paulo Silveira do Nascimento,"708,3548314",-8.083186297,-34.92185723
+487,João Stanislau,Praça,Rua Rio Solimões/Rua Novo Horizonte/Rua Helio Almeida,,Praça João Stanislau,"976,5912136",-8.097661118,-34.93837157
+488,Queira Deus,Praça,Rua Queira Deus,,Praça Queira Deus,"136,6842457",-8.092678047,-34.96173746
+489,Dom Helder,Praça,Rua Quatro De Setembro/Rua Curua/Rua Padre José,,Praça Dom Helder,"315,4097477",-8.081500114,-34.95375576
+490,Padre Romano Zuferey,Praça,Rua Maria Do Carmo Catunda/Rua Dr Devaldo Borges,,Praça Padre Romano Zuferey,"1083,915355",-8.078357109,-34.93973457
+491,Maria Madalena Bispo,Praça,Estrada Do Curado/1Tr Sidrolandia,,Praça Maria Madalena Bispo,"79,15210465",-8.079585171,-34.9521782
+492,Zeppelin,Praça,Rua Des Lopes Gama/  Rua Bonifácio De Andrade,,Praça Zeppelin,"518,0819457",-8.07290586,-34.92792277
+493,,Praça,Rua Itabapoana / Rua Caetité/ Rua Braço Do Norte,,,"779,3793",-8.070007656,-34.90027463
+494,Zumbi Dos Palmares,Praca,Avenida Jose Americo De Almeida,,Praça Zumbi dos Palmares,"707,2195171",-8.01054197,-34.9308843
+495,Do Jordao / Da Rua Muniz Ferreira,Praça,Rua Jose Martorano / Rua Dr Andrade Lyra / Rua Dr Alvaro Ferraz /Rua Lima Campos,,Praça do Jordão,"1660,198027",-8.130438342,-34.93801131
+496,De Santana,Parque,Rua Jorge Gomes De Sá / Rua Dr Abel Ventura,,Parque de Santana,"36299,97329",-8.042019233,-34.91782559
+497,,Praca,Rua Maria  Adelaide Castelo Brancorua Joao Cordeiro De Souza,,Rua Maria Adelaide Castelo Branco,"1096,328153",-8.124246154,-34.95112973
+498,,Praca,Rua Dr Rinaldo Victor Fernandes/ Rua Jose Augusto De Barros,,Praça da Rua José Augusto de Barros,"1719,914165",-8.086837182,-34.92314045
+499,,Praca,Rua Pinheiro Machado/ Rua Professor Pacifico Pereira,,Praça da Rua Pinheiro Machado,"1144,303287",-8.134214402,-34.95134622
+500,,Praca,Rua Professor Avertano Rocha/ Rua Des Capistrano De M E Silva,,Praça da Rua Professor Avertano Rocha,"1069,911478",-8.066851556,-34.93340057
+501,,Praca,Rua Augusto Bamberg De Melo,,PRC   RUA AUGUSTO BAMBERG DE MELO,"1409,898113",-8.089731349,-34.94989529
+502,,Praca,Rua Principe Da Beira,,Praça da Rua Príncipe da Beira,"4667,949812",-8.090665807,-34.92269581
+503,,Praca,Rua Tristao Da Cunha/Rua Visconde De Santo Albino,,Praça da Rua Tristão da Cunha,"814,7004676",-8.134950419,-34.95371043
+504,,Area Verde,Rua  Antonio Almeida/ Rua Celio Tavares,,,"1383,426958",-8.091539168,-34.91636613
