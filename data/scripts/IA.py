@@ -51,27 +51,48 @@ model = genai.GenerativeModel(
     generation_config=generation_config,
 )
 
+
+def generate_prompt(msg: str) -> str: # função para gerar respostas
+    chat_session = model.start_chat()
+    return chat_session.send_message(msg)
+
+
 # teste
 # print(key_words)
 # print(information)
 # print(datasets)
 
 
-def final_prompt(prompt):
+def resolve_prompt(prompt):
     # gerar palavras chaves
-    chat_session = model.start_chat()
-    response = chat_session.send_message(f'Gere 30 palavras chaves sem acento para consultar em banco de dados com o prompt: "{prompt}" apenas as palavras chaves. Separe ela entre vírgulas')
-     
-    key_words = response.text.split(',') #  converter a string da resposta em lista
+    txt = f"""
+    Gere 30 palavras chaves sem acento para consultar em banco de 
+    dados com o prompt: '{prompt}' apenas as palavras chaves. Separe 
+    ela entre vírgulas!
+    """
+
+    key_words = generate_prompt(txt).text.split(',') #  converter a string da resposta em lista
 
     # chamando as funções do algoritmo de consulta
     datasets = al.check_dataset(key_words) 
     information = al.dict_returnal(datasets, key_words)
 
     # retornando o prompt final
-    command_prompt = f'A partir dessas informações {information} responda: {prompt}. Responda confiando 100% no dataset e de forma clara e nordestina mas não forçada!. Não use "sô"'
+    command_prompt = f"""
+    1. A partir dessas informações {information} responda: {prompt}. 
+    Responda confiando 100% no dataset e de forma clara e  nordestina 
+    mas não forçada!. Não use 'sô'. 
+
+    2. Mas se as pergunta não tem nada a ver com as bases de dados, 
+    diga que não pode responder essas perguntas. 
+    
+    3.Se a pergunta tiver a ver com as bases de dados, mas não tiver a resposta, 
+    diga que não tem informação suficiente.
+    """
+
     chat_session = model.start_chat()
     response_final = chat_session.send_message(command_prompt)
 
     return response_final.text
 
+# print(resolve_prompt('')) # teste
