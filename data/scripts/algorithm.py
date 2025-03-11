@@ -26,21 +26,22 @@ def check_dataset(key_words: list) -> list:
 
 def dict_returnal(datasets: list, keywords: list):
 
-    informations_returnal = []
+    informations_returnal = [] # armazena em forma de dicionário as informações úteis
 
     for dataset in datasets: # iterando sobre os datasets
         df = pd.read_csv(f'./data/{dataset}', encoding='latin1') # lendo o dataset
         datas = df.to_dict(orient='records')
 
         for data in datas: # iterando sobre os dados
-            score = 0
+            score = 0 # pontuação para validação
             for keyword in keywords: # iterando sobre as palavras chaves
                 try: # caso o dado não seja conversível em string
                     for context in data:
+                        # soma uma pontuação para adicionar na lista de relevância de leitura
                         if keyword in str(data[context]).lower():
                             score += 1
                         elif keyword in context.lower():
-                            score += 1
+                            score += 1 
                 except:
                     ...
                 
