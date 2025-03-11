@@ -4,8 +4,9 @@ import pandas as pd
 
 K_PARAMETER = 2
 
+
 def check_dataset(key_words: list) -> list:
-    route = "datasets/" # caminho da pasta
+    route = "./data/" # caminho da pasta
     datasets = [] # lista de arquivos
 
     # iterando sobre os arquivos da pasta
@@ -22,12 +23,13 @@ def check_dataset(key_words: list) -> list:
             
     return list(set(datasets))
 
+
 def dict_returnal(datasets: list, keywords: list):
 
     informations_returnal = []
 
     for dataset in datasets: # iterando sobre os datasets
-        df = pd.read_csv(f'datasets/{dataset}', encoding='latin1') # lendo o dataset
+        df = pd.read_csv(f'./data/{dataset}', encoding='latin1') # lendo o dataset
         datas = df.to_dict(orient='records')
 
         for data in datas: # iterando sobre os dados
@@ -47,7 +49,7 @@ def dict_returnal(datasets: list, keywords: list):
     
     return informations_returnal
 
-# Teste de funcionamento
+#Teste de funcionamento
 # keywords = ['conceta,wifi,ACAD,UR5,localizacao,onde,fica,lugar,endereço,ponto,coordenadas,mapa,rede,wireless,internet,acesso,conexão,signal,antena,dispositivo\n']
 # retorno = check_dataset(keywords)
 # print(retorno)

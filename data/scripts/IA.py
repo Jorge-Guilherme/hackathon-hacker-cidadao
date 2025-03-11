@@ -12,10 +12,10 @@ import google.generativeai as genai
 import os
 import algorithm as al
 
-# Configure a API key
+# configuração da API key
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
-# Parâmetros de geração
+# parâmetros da ia
 generation_config = {
             "temperature": 2,
             "top_p": 0.95,
@@ -24,7 +24,7 @@ generation_config = {
             "response_mime_type": "text/plain",
 }
 
-# Parâmetros de moderação da geração
+# parâmetros de segurança
 safety_settings = [
             {
                 "category": "HARM_CATEGORY_HARASSMENT",
@@ -44,34 +44,34 @@ safety_settings = [
             },
 ]
 
-# Inicialize o modelo
+# inicializando o modelo
 model = genai.GenerativeModel(
     model_name="gemini-1.5-flash",
     safety_settings=safety_settings,
     generation_config=generation_config,
 )
 
-prompt = input('Prompt: ')
-
-# Gere a resposta
-chat_session = model.start_chat()
-response = chat_session.send_message(f'Gere 30 palavras chaves sem acento para consultar em banco de dados com o prompt: "{prompt}" apenas as palavras chaves. Separe ela entre vírgulas')
-
-key_words = response.text.split(',')
-
-datasets = al.check_dataset(key_words)
-# datasets = ['efetivos.csv', 'equipamentos_educacao.csv', 'equipamentos_educacao.csv', 'equipamentos_saude.csv', 'escolas_2009-2015.csv', 'escolas_2017-2020.csv', 'localizacao_academias.csv', 'localizacao_coleta_seletiva.csv', 'localizacao_conecta_wifi.csv', 'operacoes_2023.csv', 'pracas_recife.csv', 'quadro_profissionais_educacao_2024.csv', 'transporte_escolar.csv']
-information = al.dict_returnal(datasets, key_words)
-
+# teste
 # print(key_words)
 # print(information)
 # print(datasets)
 
 
+def final_prompt(prompt):
+    # gerar palavras chaves
+    chat_session = model.start_chat()
+    response = chat_session.send_message(f'Gere 30 palavras chaves sem acento para consultar em banco de dados com o prompt: "{prompt}" apenas as palavras chaves. Separe ela entre vírgulas')
+     
+    key_words = response.text.split(',') #  converter a string da resposta em lista
 
-def final_prompt(information, prompt):
-    command_prompt = f'A partir dessas informações {information} responda: {prompt}. Responda confiando 100% no dataset e de forma clara e pernambucana mas não forçada!'
+    # chamando as funções do algoritmo de consulta
+    datasets = al.check_dataset(key_words) 
+    information = al.dict_returnal(datasets, key_words)
+
+    # retornando o prompt final
+    command_prompt = f'A partir dessas informações {information} responda: {prompt}. Responda confiando 100% no dataset e de forma clara e nordestina mas não forçada!. Não use "sô"'
     chat_session = model.start_chat()
     response_final = chat_session.send_message(command_prompt)
 
     return response_final.text
+
