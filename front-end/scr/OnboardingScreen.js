@@ -5,16 +5,11 @@ import { View, Text, TouchableOpacity, Image, StyleSheet } from 'react-native';
 const OnboardingScreen = ({ navigation }) => {
   return (
     <View style={styles.container}>
-      {/* Header Personalizado */}
-      <View style={styles.header}>
-        <Text style={styles.tituloHeader}>DigAI</Text>
-        <Image source={require('../assets/favicon.png')} style = {styles.logo}/>
-
-      </View>
 
       {/* Personagem e balão de conversa */}
       <View style={styles.content}>
-        <Image source={require('../assets/favicon.png')} style={styles.personagem} />
+        <Image source={require('../assets/logo.png')} style={styles.logo} />
+        <Text style={styles.textlogo}>DigAI</Text>
         <View style={styles.balao}>
           <Text style={styles.textoBalao}>
             Seja bem-vindo ao DigAI, uma plataforma de chat com o objetivo de tornar dados em informação com a ajuda de IA, vamos embarcar em uma conversa daora?
@@ -33,44 +28,26 @@ const OnboardingScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 20,
+    padding: 2,
     justifyContent: 'space-between',
-  },
-  header: {
-    marginTop: 50,
-    backgroundColor: '#007BFF', // Cor de fundo do header
-    paddingVertical: 15,
-    paddingHorizontal: 20,
-    borderBottomLeftRadius: 10,
-    borderBottomRightRadius: 10,
-    alignItems: 'center',
-    display: 'flex',
-    flexDirection: 'row',
-    
-  },
-  tituloHeader: {
-    color: '#FFF', // Cor do texto do header
-    fontSize: 20,
-    fontWeight: 'bold',
-  },
-  logo:{
-    marginLeft: 250,
+    backgroundColor: '#ffffe0',
   },
   content: {
-    flexDirection: 'row',
+    flexDirection: 'column',
     alignItems: 'center',
+    
   },
-  personagem: {
-    width: 100,
-    height: 100,
-    marginRight: 10,
+  logo: {
+    width: 200,
+    height: 250,
+    marginTop: 250,
   },
   balao: {
-    flex: 1,
-    backgroundColor: '#ECECEC',
-    padding: 15,
+    backgroundColor: '#0000',
+    padding: 5,
     borderRadius: 10,
-    borderTopLeftRadius: 0,
+    borderTopLeftRadius: 10,
+    
   },
   textoBalao: {
     fontSize: 16,
@@ -88,6 +65,9 @@ const styles = StyleSheet.create({
     fontSize: 16,
     fontWeight: 'bold',
   },
+  textlogo: {
+    fontSize: 40,
+  }
 });
 
 export default OnboardingScreen;

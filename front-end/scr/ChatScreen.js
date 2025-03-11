@@ -1,16 +1,26 @@
-// src/screens/ChatScreen.js
-import React, { useState } from 'react';
-import { View, Text, TextInput, Button, FlatList, StyleSheet, Image, SafeAreaView, TouchableOpacity } from 'react-native';
+import React, { useState, useRef, useEffect } from 'react';
+import { View, Text, TextInput, Button, FlatList, StyleSheet, Image, SafeAreaView, TouchableOpacity, Alert } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import axios from 'axios'; // Importe o axios
+import axios from 'axios';
 
 const ChatScreen = ({ route, navigation }) => {
   const personagem = route.params?.personagem || { imagem: require('../assets/icon.png') };
   const [mensagem, setMensagem] = useState('');
   const [chat, setChat] = useState([]);
+  const flatListRef = useRef(null);
+
+  // Função para rolar automaticamente para a última mensagem
+  useEffect(() => {
+    if (flatListRef.current) {
+      flatListRef.current.scrollToEnd({ animated: true });
+    }
+  }, [chat]);
 
   const enviarMensagem = async () => {
-    if (mensagem.trim() === '') return;
+    if (mensagem.trim() === '') {
+      Alert.alert('Erro', 'A mensagem não pode estar vazia.');
+      return;
+    }
 
     // Adiciona a mensagem do usuário ao chat
     const novaMensagemUsuario = { id: chat.length + 1, texto: mensagem, usuario: true };
@@ -19,7 +29,7 @@ const ChatScreen = ({ route, navigation }) => {
 
     try {
       // Envia a mensagem para o backend
-      const resposta = await axios.post('http://192.168.1.12:8000/enviar-mensagem', {
+      const resposta = await axios.post('http://172.22.74.245:8000/enviar-mensagem', {
         texto: mensagem,
       });
 
@@ -32,6 +42,7 @@ const ChatScreen = ({ route, navigation }) => {
       setChat((prevChat) => [...prevChat, novaMensagemPersonagem]);
     } catch (error) {
       console.error('Erro ao enviar mensagem:', error);
+      Alert.alert('Erro', 'Não foi possível enviar a mensagem. Tente novamente.');
     }
   };
 
@@ -40,7 +51,7 @@ const ChatScreen = ({ route, navigation }) => {
       {/* Header */}
       <View style={styles.header}>
         <Image source={require('../assets/favicon.png')} style={styles.logo} />
-        <Text style={styles.tituloHeader}>Chat Interativo</Text>
+        <Text style={styles.tituloHeader}>DigAI</Text>
         
         {/* Ícone de ajuda */}
         <TouchableOpacity
@@ -54,6 +65,7 @@ const ChatScreen = ({ route, navigation }) => {
       {/* Chat */}
       <View style={styles.chatContainer}>
         <FlatList
+          ref={flatListRef}
           data={chat}
           keyExtractor={(item) => item.id.toString()}
           renderItem={({ item }) => (
@@ -86,7 +98,7 @@ const ChatScreen = ({ route, navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FFF',
+    backgroundColor: '#FFFFE0',
   },
   header: {
     flexDirection: 'row',
@@ -126,7 +138,7 @@ const styles = StyleSheet.create({
   },
   personagem: {
     width: 40,
-    height: 40,
+    height: 50,
     marginRight: 10,
   },
   balaoUsuario: {

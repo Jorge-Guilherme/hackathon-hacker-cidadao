@@ -11,7 +11,6 @@ set GOOGLE_API_KEY=AIzaSyBBf4cEr1Wb_XPW5tdzAAZFJpTbUOObVset GOOGLE_API_KEY=AIzaS
 import os
 import sys
 import google.generativeai as genai
-
 # adiciona o diretório raiz do projeto ao sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 

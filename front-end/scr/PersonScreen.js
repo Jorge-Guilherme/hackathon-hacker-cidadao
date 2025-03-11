@@ -6,8 +6,8 @@ const EscolhaPersonagemScreen = ({ navigation }) => {
   const [personagemEscolhido, setPersonagemEscolhido] = useState(null);
 
   const personagens = [
-    { id: 1, nome: 'Mobilidade', imagem: require('../assets/favicon.png') },
-    { id: 2, nome: 'Educação', imagem: require('../assets/icon.png') },
+    { id: 1, nome: 'Mobilidade', imagem: require('../assets/pedreiro.png') },
+    { id: 2, nome: 'Educação', imagem: require('../assets/maloqueiro-feliz.png') },
     { id: 3, nome: 'Saúde', imagem: require('../assets/favicon.png') },
   ];
 
@@ -18,7 +18,7 @@ const EscolhaPersonagemScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Sobre o que quer conversar hoje?</Text>
+      <Text style={styles.titulo}>Qual vai ser o assunto da nossa prosa hoje?</Text>
       {personagens.map((personagem) => (
         <TouchableOpacity
           key={personagem.id}
@@ -50,7 +50,7 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   imagemPersonagem: {
-    width: 100,
+    width: 80,
     height: 100,
     marginBottom: 10,
   },
