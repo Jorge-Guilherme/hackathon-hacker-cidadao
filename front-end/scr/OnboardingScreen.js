@@ -9,10 +9,10 @@ const OnboardingScreen = ({ navigation }) => {
       {/* Personagem e balão de conversa */}
       <View style={styles.content}>
         <Image source={require('../assets/logo.png')} style={styles.logo} />
-        <Text style={styles.textlogo}>DigAI</Text>
+        <Text style={styles.textlogo}>Seja bem-vindo</Text>
         <View style={styles.balao}>
           <Text style={styles.textoBalao}>
-            Seja bem-vindo ao DigAI, uma plataforma de chat com o objetivo de tornar dados em informação com a ajuda de IA, vamos embarcar em uma conversa daora?
+            Uma plataforma de chat com o objetivo de tornar dados em informações acessiveis com a ajuda de IA.
           </Text>
         </View>
       </View>
@@ -28,30 +28,31 @@ const OnboardingScreen = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    padding: 2,
+    padding: 15,
     justifyContent: 'space-between',
-    backgroundColor: '#ffffe0',
+    backgroundColor: '#00d9ff',
   },
   content: {
     flexDirection: 'column',
     alignItems: 'center',
-    
   },
   logo: {
-    width: 200,
-    height: 250,
-    marginTop: 250,
+    width: 390,
+    height: 185,
+    marginTop: 230, // Ajuste a margem superior para centralizar a logo verticalmente
+    marginLeft: 'auto',  // Isso empurra a logo para a direita, afastando da borda esquerda
+    marginRight: 'auto', // Isso ajuda a centralizar a logo horizontalmente
   },
+  
   balao: {
     backgroundColor: '#0000',
     padding: 5,
     borderRadius: 10,
     borderTopLeftRadius: 10,
-    
   },
   textoBalao: {
     fontSize: 16,
-    color: '#333',
+    color: '#333', // Cor preta para o texto
   },
   botao: {
     alignSelf: 'flex-end',
@@ -67,7 +68,12 @@ const styles = StyleSheet.create({
   },
   textlogo: {
     fontSize: 40,
-  }
+    fontFamily: 'Montserrat-Bold', // Fonte em negrito
+    color: '#FFF', // Cor branca
+    fontWeight: 'bold', // Negrito
+    marginBottom: 20,
+  },
 });
+
 
 export default OnboardingScreen;

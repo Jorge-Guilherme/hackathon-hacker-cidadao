@@ -11,13 +11,18 @@ set GOOGLE_API_KEY=AIzaSyBBf4cEr1Wb_XPW5tdzAAZFJpTbUOObVset GOOGLE_API_KEY=AIzaS
 import os
 import sys
 import google.generativeai as genai
+from dotenv import load_dotenv
+
+load_dotenv()
 # adiciona o diretório raiz do projeto ao sys.path
 sys.path.append(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))))
 
 import data.scripts.algorithm as al
 
 # configuração da API key
-genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
+api_key = os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key=api_key)
+
 
 # parâmetros da ia
 generation_config = {
@@ -50,7 +55,7 @@ safety_settings = [
 
 # inicializando o modelo
 model = genai.GenerativeModel(
-    model_name="gemini-1.5-flash",
+    model_name="gemini-1.5-pro-latest",
     safety_settings=safety_settings,
     generation_config=generation_config,
 )
