@@ -36,3 +36,112 @@ Para atender às necessidades do desafio, propomos o desenvolvimento de um Chatb
   - **Incorporação de Áudio**: A funcionalidade de envio e recepção de mensagens de áudio pode ser implementada para tornar a interação mais acessível e melhorar a experiência do usuário, especialmente para pessoas com deficiência ou para quem prefere comunicação verbal.
   - **Exportação de Dados**: O chatbot pode permitir que os usuários baixem conjuntos de dados relevantes em formatos populares como CSV ou Excel, oferecendo maior praticidade e a possibilidade de análises externas.
   - **Adição de Novas Áreas de Dados**: O sistema pode ser facilmente ampliado para integrar novas fontes de dados ou áreas de interesse, garantindo que a plataforma continue relevante à medida que as necessidades da comunidade evoluem.
+
+### Como o chatbot facilita o acesso e a compreensão dos dados:
+- **Acesso simplificado**: Ao invés de navegar por um portal complexo de dados, o chatbot proporciona uma forma simples e direta de interagir com os dados, sem que o cidadão precise entender conceitos técnicos ou fazer consultas complexas.
+- **Engajamento ativo**: Através da interação com o chatbot, o usuário pode se engajar ativamente no processo de consulta de dados, tornando-o um participante mais ativo.
+- **Respostas contextualizadas**: O chatbot não apenas fornece dados crus, mas também explica o que eles significam, oferecendo um contexto mais profundo sobre os números e informações disponíveis.
+- **Integração com IA**: Com o uso de IA, o chatbot é capaz de aprender com as interações, melhorando suas respostas e tornando as futuras consultas ainda mais precisas e úteis.
+
+
+### ⚙️ Tecnologias Usadas
+
+- **FastAPI**: Framework para o backend, garantindo um serviço rápido e escalável. Ele permite a criação de APIs RESTful de maneira eficiente e com baixo tempo de resposta, sendo uma escolha ideal para aplicações de alta performance.
+  
+- **React Native**: Para o desenvolvimento do aplicativo móvel, proporcionando uma experiência fluida e nativa para os usuários, com a possibilidade de criar aplicações para iOS e Android.
+
+
+## 🛠️ Como Instalar
+
+Siga os passos abaixo para instalar e rodar o projeto:
+
+### 1. **Clonar o repositório ou baixar diretamente no github o arquivo ZIP**
+Clone o repositório do projeto no seu computador:
+
+```bash
+git clone https://github.com/Jorge-Guilerme/hackathon_hacker_cidadao.git
+```
+
+### 2. Crie e ative um ambiente virtual (opcional, mas recomendado):
+
+```bash
+python3 -m venv venv
+source venv/bin/activate  # Para Linux/macOS
+venv\Scripts\activate     # Para Windows
+```
+
+### 3. Instale as dependências do projeto:
+```bash
+pip install -r requirements.txt
+```
+
+## 📱 Instalando o Expo Go:
+
+### 1. **Instalar o Expo Go no seu dispositivo**
+
+- **Android**: Vá até a [Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent) e pesquise por **Expo Go**. Clique em **Instalar**.
+  
+- **iOS**: Vá até a [App Store](https://apps.apple.com/us/app/expo-go/id982107779) e pesquise por **Expo Go**. Clique em **Instalar**.
+
+### 2. Biblioteca:
+No terminal, execute:
+```bash
+npm install -g expo-cli
+```
+
+### 2. **Iniciar o Expo Go**
+
+Após instalar o Expo Go no seu dispositivo, abra o aplicativo. Você verá a opção de escanear o QR code que será gerado pelo Expo ao rodar seu projeto.
+
+
+## Como Rodar o Projeto:
+
+### Observação:
+## IP:
+Antes de rodar o projeto, certifique-se de configurar o ip presente no arquivo ChatScreen.js no front-end e main.py na pasta server.
+
+Para verificar seu IP, digite no terminal:
+```bash
+ipconfig
+```
+
+Irá aparecer no terminal o IP em Endereço IPv4.
+
+Copie e subtitua o IP nos arquivos mencionados acima (ChatScreen.js e main.py)
+
+## Chave da API Gemini:
+Ao acessar https://aistudio.google.com/apikey, será possível gerar a chave API Gemini.
+Copie a chave API e substitua em:
+- Na pasta data/scritps, o arquivo IA irá conter um campo para você colocar entre aspas as sua chave API.
+  
+### Backend (FastAPI):
+Navegue para a pasta server: 
+```bash
+cd server
+```
+Inicializar a aplicação:
+```bash
+uvicorn main:app --reload --host 0.0.0.0 --port 8080
+```
+
+### Frontend (React Native):
+Em um **novo terminal** navegue para a pasta front-end: 
+```bash
+cd front-end
+```
+Inicializar a aplicação:
+```bash
+npx expo start
+```
+
+# 🎨 Telas da Aplicação
+
+## Tela de Início
+
+A **Tela de Início** é a primeira interface que o usuário verá ao abrir o aplicativo. Nela, o usuário encontrará o nome do aplicativo e uma saudação de bem-vindo.
+
+## OnBoarding
+Ao passar pela tele inicial, o usuário irá passar por 3 telas (mobilidade, educação e saúde) explicando sobre o intuito do aplicativo.
+
+## Seleção da área
+Antes de iniciar o chat, o usuário poderá selecionar a área que deseja iniciar um chat com a IA para buscar os dados.
