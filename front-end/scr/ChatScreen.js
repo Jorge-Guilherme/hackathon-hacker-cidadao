@@ -29,7 +29,7 @@ const ChatScreen = ({ route, navigation }) => {
 
     try {
       // Envia a mensagem para o backend
-      const resposta = await axios.post('http://172.22.74.245:8000/enviar-mensagem', {
+      const resposta = await axios.post('http://172.22.75.33/enviar-mensagem', {
         texto: mensagem,
       });
 
@@ -50,8 +50,7 @@ const ChatScreen = ({ route, navigation }) => {
     <SafeAreaView style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <Image source={require('../assets/favicon.png')} style={styles.logo} />
-        <Text style={styles.tituloHeader}>DigAI</Text>
+        <Image source={require('../assets/logo.png')} style={styles.logo} />
         
         {/* Ícone de ajuda */}
         <TouchableOpacity
@@ -98,20 +97,19 @@ const ChatScreen = ({ route, navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#FFFFE0',
+    backgroundColor: '#FFFFFF',
   },
   header: {
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
     padding: 15,
-    backgroundColor: '#007BFF',
+    backgroundColor: '#00d9ff',
     marginTop: 50,
   },
   logo: {
-    width: 40,
-    height: 40,
-    marginRight: 10,
+    width: 100,
+    height: 50,
   },
   tituloHeader: {
     fontSize: 20,
