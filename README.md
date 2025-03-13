@@ -139,13 +139,15 @@ npx expo start
 ## Tela de Início
 
 A **Tela de Início** é a primeira interface que o usuário verá ao abrir o aplicativo. Nela, o usuário encontrará o nome do aplicativo e uma saudação de bem-vindo.
+![tela_inciail](assets/tela_inicial.png)
 
 ## OnBoarding
 Ao passar pela tele inicial, o usuário irá passar por 3 telas (mobilidade, educação e saúde) explicando sobre o intuito do aplicativo.
+![tela_inciail](assets/onboarding.png)
 
 ## Seleção da área
 Antes de iniciar o chat, o usuário poderá selecionar a área que deseja iniciar um chat com a IA para buscar os dados.
- 
+![tela_inciail](assets/tela_selecao.jpg)
 ## Tela de Chatbot
 A última tela, é o chat no qual o usuário irá poder perguntar sobre os dados que deseja buscar, facilitando a acessibilidade e sua usabilidade.
-
+![tela_inciail](assets/tela_chat.png)
