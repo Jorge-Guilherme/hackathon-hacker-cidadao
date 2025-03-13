@@ -145,3 +145,7 @@ Ao passar pela tele inicial, o usuário irá passar por 3 telas (mobilidade, edu
 
 ## Seleção da área
 Antes de iniciar o chat, o usuário poderá selecionar a área que deseja iniciar um chat com a IA para buscar os dados.
+ 
+## Tela de Chatbot
+A última tela, é o chat no qual o usuário irá poder perguntar sobre os dados que deseja buscar, facilitando a acessibilidade e sua usabilidade.
+
