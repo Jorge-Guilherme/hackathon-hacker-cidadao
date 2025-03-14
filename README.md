@@ -151,3 +151,9 @@ Antes de iniciar o chat, o usuário poderá selecionar a área que deseja inicia
 ## Tela de Chatbot
 A última tela, é o chat no qual o usuário irá poder perguntar sobre os dados que deseja buscar, facilitando a acessibilidade e sua usabilidade.
 ![tela_inciail](assets/tela_chat.jpg)
+
+
+### Equipe- Bacanas 😎
+Jorge Guilherme, Renata Mickaelly, Kleberson Araújo, Vinícius França e Hugo Coelho 
+
+
